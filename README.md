@@ -2,14 +2,6 @@
 
 <h2 align="center">Hi 👋! My name is Alexis and I'm a Student from 42 School.</h2>
 
-###
-
-<br clear="both">
-
-<img align="left" height="150" src="https://cdn.intra.42.fr/users/cb5151c7bb1ef76cbcaee03262b87c94/almounib.jpg"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zoyern&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zoyern&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
