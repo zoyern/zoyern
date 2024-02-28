@@ -67,7 +67,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zoyern/zoyern/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/zoyern/zoyern/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
