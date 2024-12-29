@@ -85,7 +85,7 @@
       <a href="test2/cloclo3.txt">cloclo3.txt</a>
     </td>
     <!-- Milestone 1 -->
-    <th height="150">milestone 1</th>
+    <th height="150"><a href="test3/cloclo1.txt">milestone 1</a></th>
     <tr align="center" valign="top" height="150">
       <td>
         <a href="test3/cloclo1.txt">cloclo1.txt</a> |
