@@ -4,7 +4,7 @@
 <table align="center">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center"  valign="center" height="150">
-    <th collspan="2" height="150">42</th>
+    <th collspan="1" height="150">42</th>
     <td align="center" valign="top" height="150">
       <a href="test1/cloclo1.txt">cloclo1.txt</a> |
       <a href="test1/cloclo2.txt">cloclo2.txt</a> |
