@@ -16,7 +16,7 @@
     <td colspan="2" align="center" valign="center" width="100%">
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
-        <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+        <th height="150" width="100%"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
               <tr width="100%">
