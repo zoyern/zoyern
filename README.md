@@ -18,6 +18,10 @@
   </tr>
 </table>
 
-```
-coucou
-```
+<table align="center" width="600" height="200" background="https://via.placeholder.com/600x200">
+  <tr>
+    <td align="center" valign="middle">
+      Texte centré sur une image
+    </td>
+  </tr>
+</table>
