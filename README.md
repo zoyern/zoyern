@@ -75,41 +75,52 @@
 </table>
 
 <table align="center">
-  <tr>
-    <th width="150" height="150">A</th>
-    <th width="150" height="150">B</th>
-    <th width="150" height="150">C</th>
+  <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
+  <tr align="center" valign="center" height="150">
+    <th height="150">42</th>
+    <td align="center" valign="top" height="150">
+      <a href="test1/cloclo1.txt">cloclo1.txt</a> |
+      <a href="test1/cloclo2.txt">cloclo2.txt</a> |
+      <a href="test1/cloclo3.txt">cloclo3.txt</a>
+    </td>
   </tr>
+  <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr>
-    <!-- Cellule pour Test1 -->
-    <td align="center" valign="top" width="150" height="150">
-      <table border="1">
-        <tr><th colspan="1">test1</th></tr>
-        <tr><td><a href="test1/cloclo1.txt">cloclo1.txt</a></td></tr>
-        <tr><td><a href="test1/cloclo2.txt">cloclo2.txt</a></td></tr>
-        <tr><td><a href="test1/cloclo3.txt">cloclo3.txt</a></td></tr>
+    <td colspan="2" align="center" valign="top">
+      <table align="center">
+        <tr align="center" valign="center" height="150">
+          <th height="150">42</th>
+          <td align="center" valign="top" height="150">
+            <a href="test2/cloclo1.txt">cloclo1.txt</a> |
+            <a href="test2/cloclo2.txt">cloclo2.txt</a> |
+            <a href="test2/cloclo3.txt">cloclo3.txt</a>
+          </td>
+        </tr>
       </table>
-    </td>
-    <!-- Cellule pour Test2 -->
-    <td align="center" valign="top" width="150" height="150">
-      <table border="1">
-        <tr><th colspan="1">test2</th></tr>
-        <tr><td><a href="test2/cloclo1.txt">cloclo1.txt</a></td></tr>
-        <tr><td><a href="test2/cloclo2.txt">cloclo2.txt</a></td></tr>
-        <tr><td><a href="test2/cloclo3.txt">cloclo3.txt</a></td></tr>
+      <table align="center">
+        <tr align="center" valign="center" height="150">
+          <th height="150">42</th>
+          <td align="center" valign="top" height="150">
+            <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+            <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+            <a href="test3/cloclo3.txt">cloclo3.txt</a>
+          </td>
+        </tr>
       </table>
-    </td>
-    <!-- Cellule pour Test3 -->
-    <td align="center" valign="top" width="150" height="150">
-      <table border="1">
-        <tr><th colspan="1">test3</th></tr>
-        <tr><td><a href="test3/cloclo1.txt">cloclo1.txt</a></td></tr>
-        <tr><td><a href="test3/cloclo2.txt">cloclo2.txt</a></td></tr>
-        <tr><td><a href="test3/cloclo3.txt">cloclo3.txt</a></td></tr>
+      <table align="center">
+        <tr align="center" valign="center" height="150">
+          <th height="150">42</th>
+          <td align="center" valign="top" height="150">
+            <a href="test4/cloclo1.txt">cloclo1.txt</a> |
+            <a href="test4/cloclo2.txt">cloclo2.txt</a> |
+            <a href="test4/cloclo3.txt">cloclo3.txt</a>
+          </td>
+        </tr>
       </table>
     </td>
   </tr>
 </table>
+
 
 
 <p>coucou</p>
