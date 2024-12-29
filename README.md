@@ -23,11 +23,11 @@
           <a href="test2/cloclo2.txt">cloclo2.txt</a>
           <a href="test2/cloclo3.txt">cloclo3.txt</a>
         </tr>
-        <tr>
+        <td>
           <a href="test2/doc1.txt">doc1.txt</a>
           <a href="test2/doc2.txt">doc2.txt</a>
           <a href="test2/doc3.txt">doc3.txt</a>
-        </tr>
+        </td>
       </table>
     </td>
     <!-- Milestone 1 -->
