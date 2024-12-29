@@ -17,22 +17,22 @@
     <th height="150">milestone 0</th>
     <td align="center" valign="top" height="150">
       <!-- Nouveau tableau pour milestone 0 -->
-      <table align="center" width="100%" border="1">
+      <table align="center">
         <tr>
-          <td><a href="test2/cloclo1.txt">cloclo1.txt</a></td>
-          <td><a href="test2/cloclo2.txt">cloclo2.txt</a></td>
-          <td><a href="test2/cloclo3.txt">cloclo3.txt</a></td>
+          <a href="test2/cloclo1.txt">cloclo1.txt</a>
+          <a href="test2/cloclo2.txt">cloclo2.txt</a>
+          <a href="test2/cloclo3.txt">cloclo3.txt</a>
         </tr>
         <tr>
-          <td><a href="test2/doc1.txt">doc1.txt</a></td>
-          <td><a href="test2/doc2.txt">doc2.txt</a></td>
-          <td><a href="test2/doc3.txt">doc3.txt</a></td>
+          <a href="test2/doc1.txt">doc1.txt</a>
+          <a href="test2/doc2.txt">doc2.txt</a>
+          <a href="test2/doc3.txt">doc3.txt</a>
         </tr>
       </table>
     </td>
     <!-- Milestone 1 -->
     <th height="150">milestone 1</th>
-    <td align="center" valign="top" height="150">
+    <td align="center" valign="top" >
       <!-- Nouveau tableau pour milestone 1 -->
       <table align="center" width="100%" border="1">
         <tr>
