@@ -20,7 +20,6 @@
           <td>
             <table align="center" valign="center" height="150">
               <tr>
-                 <table align="center" valign="center" height="150">
                     <tr>
                       <a href="test3/cloclo1.txt">cloclo1.txt</a> |
                       <a href="test3/cloclo2.txt">cloclo2.txt</a> |
@@ -31,7 +30,6 @@
                       <a href="test3/cloclo2.txt">doc2</a> |
                       <a href="test3/cloclo3.txt">doc3</a>
                     </td>
-                </table
             </tr>
           </table
         </td>
