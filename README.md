@@ -78,11 +78,20 @@
   <!-- Ligne pour les milestones alignés horizontalement -->
   <tr align="center" valign="center" height="150">
     <!-- Milestone 0 -->
-    <th height="150">milestone 0</th>
-    <td align="center" valign="top" height="150">
-      <a href="test2/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test2/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test2/cloclo3.txt">cloclo3.txt</a>
+    <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+    <td>
+      <table align="center" valign="top" height="150">
+        <tr>
+          <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+          <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+          <a href="test3/cloclo3.txt">cloclo3.txt</a>
+        </tr>
+        <td>
+          <a href="test3/cloclo1.txt">doc1</a> |
+          <a href="test3/cloclo2.txt">doc2</a> |
+          <a href="test3/cloclo3.txt">doc3</a>
+        </td>
+      </table
     </td>
     <!-- Milestone 1 -->
     <th height="150"><a href="test3/cloclo1.txt">milestone 1</a></th>
@@ -99,13 +108,23 @@
           <a href="test3/cloclo3.txt">doc3</a>
         </td>
       </table
-      </td>
+    </td>
     <!-- Milestone 2 -->
-    <th height="150">milestone 2</th>
-    <td align="center" valign="top" height="150">
-      <a href="test4/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test4/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test4/cloclo3.txt">cloclo3.txt</a>
+    <th height="150"><a href="test3/cloclo1.txt">milestone 2</a></th>
+    <td>
+      <table align="center" valign="top" height="150">
+        <tr>
+          <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+          <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+          <a href="test3/cloclo3.txt">cloclo3.txt</a>
+        </tr>
+        <td>
+          <a href="test3/cloclo1.txt">doc1</a> |
+          <a href="test3/cloclo2.txt">doc2</a> |
+          <a href="test3/cloclo3.txt">doc3</a>
+        </td>
+      </table
+    </td>
     </td>
   </tr>
 </table>
