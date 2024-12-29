@@ -6,3 +6,10 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://via.placeholder.com/600x200" width="600" height="200">
+  <p style="margin-top: -140px; font-size: 20px; color: white; font-weight: bold;">
+    Texte superposé
+  </p>
+</div>
