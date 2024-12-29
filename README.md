@@ -21,11 +21,11 @@
             <table align="center" valign="center" height="150">
               <tr>
                 <td align="center" valign="center">
-                    <tr>
+                    <td>
                       <a href="test3/cloclo1.txt">cloclo1.txt</a> |
                       <a href="test3/cloclo2.txt">cloclo2.txt</a> |
                       <a href="test3/cloclo3.txt">cloclo3.txt</a>
-                    </tr>
+                    </td>
                     <td>
                       <a href="test3/cloclo1.txt">doc1</a> |
                       <a href="test3/cloclo2.txt">doc2</a> |
