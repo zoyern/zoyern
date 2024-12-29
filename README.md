@@ -1,24 +1,20 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 ![Badge](https://img.shields.io/badge/Texte-Fond%20Coloré-4CAF50?style=for-the-badge)
-
 <table align="center">
   <tr>
-    <th width="100" height="50">A</th>
-    <th width="100" height="50">B</th>
-    <th width="100" height="50">C</th>
+    <th width="150" height="50" bgcolor="#4CAF50">Colonne 1</th>
+    <th width="150" height="50" bgcolor="#FF5733">Colonne 2</th>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="100" height="50">
-      Texte 1
+    <td align="center" valign="middle" width="150" height="100" bgcolor="#D3D3D3">
+      Projet 1
     </td>
-    <td align="center" valign="middle" width="100" height="50">
-      Texte 2
-    </td>
-    <td align="center" valign="middle" width="100" height="50">
-      Texte 3
+    <td align="center" valign="middle" width="150" height="100" bgcolor="#E6E6FA">
+      Projet 2
     </td>
   </tr>
 </table>
+
 
 
 <p>coucou</p>
