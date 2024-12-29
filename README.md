@@ -2,25 +2,31 @@
 
 <table align="center">
   <tr>
-    <th width="100" height="150">A</th>
-    <th width="100" height="150">B</th>
-    <th width="100" height="150">C</th>
+    <th width="150" height="150">A</th>
+    <th width="150" height="150">B</th>
+    <th width="150" height="150">C</th>
   </tr>
   <tr>
-    <td align="center" valign="middle" width="100" height="150">
-      <a href="test1.txt">test1.txt</a><br>
-      <a href="test2.txt">test2.txt</a><br>
-      <a href="test3.txt">test3.txt</a>
+    <td align="center" valign="top" width="150" height="150">
+      <table>
+        <tr><td><a href="test1/cloclo1.txt">cloclo1.txt</a></td></tr>
+        <tr><td><a href="test1/cloclo2.txt">cloclo2.txt</a></td></tr>
+        <tr><td><a href="test1/cloclo3.txt">cloclo3.txt</a></td></tr>
+      </table>
     </td>
-    <td align="center" valign="middle" width="100" height="150">
-      <a href="test1.txt">test1.txt</a><br>
-      <a href="test2.txt">test2.txt</a><br>
-      <a href="test3.txt">test3.txt</a>
+    <td align="center" valign="top" width="150" height="150">
+      <table>
+        <tr><td><a href="test2/cloclo1.txt">cloclo1.txt</a></td></tr>
+        <tr><td><a href="test2/cloclo2.txt">cloclo2.txt</a></td></tr>
+        <tr><td><a href="test2/cloclo3.txt">cloclo3.txt</a></td></tr>
+      </table>
     </td>
-    <td align="center" valign="middle" width="100" height="150">
-      <a href="test1.txt">test1.txt</a><br>
-      <a href="test2.txt">test2.txt</a><br>
-      <a href="test3.txt">test3.txt</a>
+    <td align="center" valign="top" width="150" height="150">
+      <table>
+        <tr><td><a href="test3/cloclo1.txt">cloclo1.txt</a></td></tr>
+        <tr><td><a href="test3/cloclo2.txt">cloclo2.txt</a></td></tr>
+        <tr><td><a href="test3/cloclo3.txt">cloclo3.txt</a></td></tr>
+      </table>
     </td>
   </tr>
 </table>
