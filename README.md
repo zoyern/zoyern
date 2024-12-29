@@ -1,10 +1,25 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 ![Badge](https://img.shields.io/badge/Texte-Fond%20Coloré-4CAF50?style=for-the-badge)
 
-|   | A | B | C | D | E | F | G | H |
-| - | - | - | - | - | - | - | - | - |
-| **Projects** | ![test](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
-| project 1 <br> project 2 | | | | |
+<table align="center">
+  <tr>
+    <th width="100" height="50">A</th>
+    <th width="100" height="50">B</th>
+    <th width="100" height="50">C</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="100" height="50">
+      Texte 1
+    </td>
+    <td align="center" valign="middle" width="100" height="50">
+      Texte 2
+    </td>
+    <td align="center" valign="middle" width="100" height="50">
+      Texte 3
+    </td>
+  </tr>
+</table>
+
 
 <p>coucou</p>
 
