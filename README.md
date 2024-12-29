@@ -13,20 +13,20 @@
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr>
-    <td colspan="2" align="center" valign="center">
+    <td colspan="2" align="center" valign="center" width="100%">
       <table align="center" width="100%">
-      <tr align="center" valign="center" height="150">
+      <tr align="center" valign="center" height="150" width="100%">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-          <td>
+          <td width="100%">
             <table align="center" valign="center" width="100%">
-              <tr>
+              <tr> width="100%"
                 <td align="center" valign="center">
-                    <tr>
+                    <tr width="100%">
                       <a href="test3/cloclo1.txt">cloclo1.txt</a> |
                       <a href="test3/cloclo2.txt">cloclo2.txt</a> |
                       <a href="test3/cloclo3.txt">cloclo3.txt</a>
                     </tr>
-                    <td>
+                    <td width="100%">
                       <a href="test3/cloclo1.txt">doc1</a> |
                       <a href="test3/cloclo2.txt">doc2</a> |
                       <a href="test3/cloclo3.txt">doc3</a>
