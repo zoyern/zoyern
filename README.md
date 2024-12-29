@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-<table align="center" width="600" height="200" bgcolor="#4CAF50">
+<table align="center" width="600" height="200" bgcolor="#FFFFFF">
   <tr>
     <td align="center" valign="middle">
       Texte centré dans une boîte colorée
