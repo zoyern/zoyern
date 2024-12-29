@@ -4,23 +4,11 @@
 <table align="center">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" valign="center">
-    <th colspan="3">42</th>
+    <th colspan="3" >42</th>
     <td colspan="3" align="center" valign="top" height="150">
-      <!-- Nouveau tableau pour fichiers -->
-      <table align="center" width="100%" border="1">
-        <!-- Première ligne pour les fichiers .txt -->
-        <tr align="center" valign="center">
-          <td><a href="test1/cloclo1.txt">cloclo1.txt</a></td>
-          <td><a href="test1/cloclo2.txt">cloclo2.txt</a></td>
-          <td><a href="test1/cloclo3.txt">cloclo3.txt</a></td>
-        </tr>
-        <!-- Deuxième ligne pour les fichiers .doc -->
-        <tr align="center" valign="center">
-          <td><a href="test1/doc1.txt">doc1.txt</a></td>
-          <td><a href="test1/doc2.txt">doc2.txt</a></td>
-          <td><a href="test1/doc3.txt">doc3.txt</a></td>
-        </tr>
-      </table>
+      <a href="test1/cloclo1.txt">cloclo1.txt</a> |
+      <a href="test1/cloclo2.txt">cloclo2.txt</a> |
+      <a href="test1/cloclo3.txt">cloclo3.txt</a>
     </td>
   </tr>
   <!-- Ligne pour les milestones alignés horizontalement -->
