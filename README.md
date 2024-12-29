@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 <table align="center">
-  <tr>
+  <tr align="center" valign="top" height="150">
     <th height="150">42</th>
     <th align="center" valign="top" height="150">
         <a href="test1/cloclo1.txt">cloclo1.txt</a>
