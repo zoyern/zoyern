@@ -16,9 +16,8 @@
     </td>
   </tr>
 </table>
-```
-coucou
-```
+![Badge](https://img.shields.io/badge/Texte-Fond%20Coloré-4CAF50?style=for-the-badge)
+
 <table align="center" width="600" height="200" background="https://via.placeholder.com/600x200">
   <tr>
     <td align="center" valign="middle">
