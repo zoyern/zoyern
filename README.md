@@ -37,11 +37,6 @@
                   <td>salut222</td>
               <td>saluthaaaa</td>
             </tr>
-              <td>                     
-                      <a href="test3/cloclo1.txt">doc1</a> |
-                      <a href="test3/cloclo2.txt">doc2</a> |
-                      <a href="test3/cloclo3.txt">doc3</a>
-              </td>
             <td width="100%">salut</td>
           </table
         </td>
