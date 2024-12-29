@@ -7,4 +7,11 @@
   </tr>
 </table>
 
-![Custom Badge](https://img.shields.io/badge/Texte-Custom%20Background-blue?style=for-the-badge&labelColor=red)
+<table align="center" width="600" height="200">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://via.placeholder.com/600x200" width="600" height="200" alt="Image">
+      <p>Texte superposé</p>
+    </td>
+  </tr>
+</table>
