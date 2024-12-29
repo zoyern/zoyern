@@ -9,9 +9,9 @@
   <tr align="center" valign="center">
     <th colspan="3" >42</th>
     <td colspan="3" align="center" valign="top" height="150">
-      <a align="center" valign="center" href="test1/cloclo1.txt">cloclo1.txt</a> |
-      <a align="center" valign="center" href="test1/cloclo2.txt">cloclo2.txt</a> |
-      <a align="center" valign="center" href="test1/cloclo3.txt">cloclo3.txt</a>
+      <a href="test1/cloclo1.txt">cloclo1.txt</a> |
+      <a href="test1/cloclo2.txt">cloclo2.txt</a> |
+      <a href="test1/cloclo3.txt">cloclo3.txt</a>
     </td>
   </tr>
   <!-- Ligne pour les milestones alignés horizontalement -->
@@ -84,12 +84,21 @@
     <td colspan="2" align="center" valign="top">
       <table align="center">
         <tr align="center" valign="center" height="150">
-          <th height="150">milestone 0</th>
-          <td align="center" valign="top" height="150">
-            <a href="test2/cloclo1.txt">cloclo1.txt</a> |
-            <a href="test2/cloclo2.txt">cloclo2.txt</a> |
-            <a href="test2/cloclo3.txt">cloclo3.txt</a>
-          </td>
+           <th height="150"><a href="test3/cloclo1.txt">milestone 1</a></th>
+    <td>
+      <table align="center" valign="center" height="150">
+        <tr>
+          <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+          <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+          <a href="test3/cloclo3.txt">cloclo3.txt</a>
+        </tr>
+        <td>
+          <a href="test3/cloclo1.txt">doc1</a> |
+          <a href="test3/cloclo2.txt">doc2</a> |
+          <a href="test3/cloclo3.txt">doc3</a>
+        </td>
+      </table
+    </td>
         </tr>
       </table>
       <table align="center">
