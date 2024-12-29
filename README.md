@@ -13,7 +13,7 @@
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr>
-    <td collspan=2 align="center" valign="top">
+    <td collspan="2" align="center" valign="top">
       <table align="center">
         <tr align="center" valign="center" height="150">
     <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
