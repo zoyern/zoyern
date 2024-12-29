@@ -31,6 +31,7 @@
                       <a href="test3/cloclo2.txt">ggggg</a> |
                       <a href="test3/cloclo3.txt">gggggggggggggggggg</a>
                     </td>
+                  <td>salut222</td>
                 </table>
               <td>salut222</td>
             </tr>
