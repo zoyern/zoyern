@@ -34,6 +34,9 @@
             <tr>                      <a href="test3/cloclo1.txt">doc1</a> |
                       <a href="test3/cloclo2.txt">doc2</a> |
                       <a href="test3/cloclo3.txt">doc3</a></tr>
+              <tr>                      <a href="test3/cloclo1.txt">doc1</a> |
+                      <a href="test3/cloclo2.txt">doc2</a> |
+                      <a href="test3/cloclo3.txt">doc3</a></tr>
             <td width="100%">salut</td>
           </table
         </td>
