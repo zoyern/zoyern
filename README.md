@@ -33,7 +33,7 @@
                     </td>
                 </td>
             </tr>
-            <td>salut</td>
+            <td width="100%">salut</td>
           </table
         </td>
       </tr>
