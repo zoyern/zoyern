@@ -2,4 +2,4 @@
 ![Badge](https://img.shields.io/badge/Texte-Fond%20Coloré-4CAF50?style=for-the-badge)
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
