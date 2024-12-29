@@ -17,7 +17,7 @@
     <th height="150">milestone 0</th>
     <td align="center" valign="top" height="150">
       <!-- Nouveau tableau pour milestone 0 -->
-      <table align="center">
+      <table align="center" valign="center" height="100%" width="200">
         <tr>
           <a href="test2/cloclo1.txt">cloclo1.txt</a>
           <a href="test2/cloclo2.txt">cloclo2.txt</a>
