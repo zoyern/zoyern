@@ -18,7 +18,7 @@
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td>
-            <table align="center" valign="center">
+            <table align="center" valign="center" width="200>
               <tr>
                 <td align="center" valign="center">
                     <tr>
@@ -33,7 +33,7 @@
                     </td>
                 </td>
             </tr>
-            <td width="200">salut</td>
+            <td width="100%">salut</td>
           </table
         </td>
       </tr>
