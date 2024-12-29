@@ -3,12 +3,10 @@
 <table align="center">
   <tr>
     <th width="150" height="150">42</th>
-    <th width="150" height="150">
-    <td align="center" valign="top" width="150" height="150">
-        <tr><td><a href="test1/cloclo1.txt">cloclo1.txt</a></td></tr>
-        <tr><td><a href="test1/cloclo2.txt">cloclo2.txt</a></td></tr>
-        <tr><td><a href="test1/cloclo3.txt">cloclo3.txt</a></td></tr>
-    </td>
+    <th align="center" valign="top" width="150" height="150">
+        <a href="test1/cloclo1.txt">cloclo1.txt</a>
+        <a href="test1/cloclo2.txt">cloclo2.txt</a>
+        <a href="test1/cloclo3.txt">cloclo3.txt</a>
     </th>
   </tr>
 </table>
