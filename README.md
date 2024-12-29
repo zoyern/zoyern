@@ -31,6 +31,7 @@
                       <a href="test3/cloclo3.txt">doc3</a>
                     </td>
             </tr>
+            <td>salut</td>
           </table
         </td>
       </tr>
