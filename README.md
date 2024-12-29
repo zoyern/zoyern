@@ -9,6 +9,7 @@
         <a href="test1/cloclo3.txt">cloclo3.txt</a>
     </th>
   </tr>
+      <td align="center" valign="top" width="150" height="150"><a href="test1/cloclo1.txt">milestone 0</a></td>
 </table>
 
 <table align="center">
