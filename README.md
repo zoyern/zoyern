@@ -3,7 +3,7 @@
 
 <table align="center">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
-  <tr align="center" valign="center">
+  <tr align="center" valign="center" width="100%">
     <th colspan="3" >42</th>
     <td colspan="3" align="center" valign="top" height="150">
       <a href="test1/cloclo1.txt">cloclo1.txt</a> |
