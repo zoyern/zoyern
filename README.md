@@ -7,11 +7,10 @@
   </tr>
 </table>
 
-<table align="center" width="600" height="200">
+<table align="center" width="600" height="200" bgcolor="#4CAF50">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://via.placeholder.com/600x200" width="600" height="200" alt="Image">
-      <p>Texte superposé</p>
+      Texte centré dans une boîte colorée
     </td>
   </tr>
 </table>
