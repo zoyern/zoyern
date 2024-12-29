@@ -53,14 +53,10 @@
       <!-- Nouveau tableau pour milestone 2 -->
       <table align="center">
         <tr>
-          <td><a href="test4/cloclo1.txt">cloclo1.txt</a></td>
-          <td><a href="test4/cloclo2.txt">cloclo2.txt</a></td>
-          <td><a href="test4/cloclo3.txt">cloclo3.txt</a></td>
+          <td><a href="test4/cloclo1.txt">cloclo1.txt</a> <a href="test4/cloclo2.txt">cloclo2.txt</a> <a href="test4/cloclo3.txt">cloclo3.txt</a></td>
         </tr>
         <tr>
-          <td><a href="test4/doc1.txt">doc1.txt</a></td>
-          <td><a href="test4/doc2.txt">doc2.txt</a></td>
-          <td><a href="test4/doc3.txt">doc3.txt</a></td>
+          <td><a href="test4/doc1.txt">doc1.txt</a> <a href="test4/doc2.txt">doc2.txt</a> <a href="test4/doc3.txt">doc3.txt</a></td>
         </tr>
       </table>
     </td>
