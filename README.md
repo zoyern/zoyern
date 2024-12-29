@@ -1,5 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <h1 align="center">Projects</h1>
 
+***<p style="text-align:center;">Text with basic formatting applied</p>***
 <div align="center">
     ***<p>[![GitHub Streak](https://streak-stats.demolab.com?user=zoyern&theme=nord&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=50&dates=4C566A&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)</p> ***
     ***<p>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)</p> ***
