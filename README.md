@@ -6,9 +6,9 @@
   <tr align="center" valign="center">
     <th colspan="3" >42</th>
     <td colspan="3" align="center" valign="top" height="150">
-      <a href="test1/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test1/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test1/cloclo3.txt">cloclo3.txt</a>
+      <a align="center" valign="center" href="test1/cloclo1.txt">cloclo1.txt</a> |
+      <a align="center" valign="center" href="test1/cloclo2.txt">cloclo2.txt</a> |
+      <a align="center" valign="center" href="test1/cloclo3.txt">cloclo3.txt</a>
     </td>
   </tr>
   <!-- Ligne pour les milestones alignés horizontalement -->
