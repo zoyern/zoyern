@@ -10,7 +10,14 @@
 <table align="center" width="600" height="200" bgcolor="#FFFFFF">
   <tr>
     <td align="center" valign="middle">
+      ```
       Texte centré dans une boîte colorée
+      ```
+    </td>
+      <td align="center" valign="middle">
+      ```
+      Texte centré dans une boîte colorée
+      ```
     </td>
   </tr>
 </table>
