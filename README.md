@@ -18,7 +18,7 @@
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td>
-            <table align="center" valign="center">
+            <tr align="center" valign="center">
               <td>
                 <td>
                 <a href="test3/cloclo1.txt">cloclo1.txt</a> |
@@ -34,7 +34,7 @@
               <td>
                 <p >coucou</p>
               </td>
-            </table>
+            </tr>
         </td>
       </tr>
       </table>
@@ -43,11 +43,11 @@
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td>
             <table align="center" valign="center" height="150">
-              <tr>
+              <td>
                 <a href="test3/cloclo1.txt">cloclo1.txt</a> |
                 <a href="test3/cloclo2.txt">cloclo2.txt</a> |
                 <a href="test3/cloclo3.txt">cloclo3.txt</a>
-              </tr>
+              </td>
               <td>
                 <a href="test3/cloclo1.txt">doc1</a> |
                 <a href="test3/cloclo2.txt">doc2</a> |
