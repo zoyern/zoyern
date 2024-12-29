@@ -25,6 +25,11 @@
                       <a href="test3/cloclo2.txt">cloclo2.txt</a> |
                       <a href="test3/cloclo3.txt">cloclo3.txt</a>
                     </tr>
+                     <tr width="100%">
+                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+                    </tr>
             </tr>
             <tr>      
                       <a href="test3/cloclo1.txt">cloclo1.txt</a> |
