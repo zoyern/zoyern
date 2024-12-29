@@ -26,11 +26,11 @@
                       <a href="test3/cloclo2.txt">cloclo2.txt</a> |
                       <a href="test3/cloclo3.txt">cloclo3.txt</a>
                     </tr>
-                     <td width="100%">
+                     <tr width="100%">
                       <a href="test3/cloclo1.txt">gtttttttttttt</a> |
                       <a href="test3/cloclo2.txt">ggggg</a> |
                       <a href="test3/cloclo3.txt">gggggggggggggggggg</a>
-                    </td>
+                    </tr>
                   <td>salut222</td>
                 </table>
               <td>salut222</td>
