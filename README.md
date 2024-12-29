@@ -31,9 +31,6 @@
                 <a href="test3/cloclo3.txt">doc3</a>
                 </td>
               </td>
-              <td>
-                <p >coucou</p>
-              </td>
             </tr>
           <td>
             <p>coucou</p>
@@ -58,6 +55,9 @@
               </td>
           </table
         </td>
+        <td>
+                <p >coucou</p>
+              </td>
       </tr>
       </table>
     <table align="center">
