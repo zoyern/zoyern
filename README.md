@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <h1 align="center">Projects</h1>
 
 
 <table align="center" width="300">
