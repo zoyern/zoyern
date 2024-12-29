@@ -9,7 +9,7 @@
         <a href="test1/cloclo3.txt">cloclo3.txt</a>
     </th>
   </tr>
-  <td>
+  <td align="center" valign="top">
       <table align="center">
         <tr align="center" valign="center" height="150">
         <th height="150">42</th>
