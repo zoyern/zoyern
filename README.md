@@ -1,47 +1,84 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<table align="center" width="100%">
-  <!-- Ligne principale avec le titre et le premier bloc de fichiers étendus -->
-  <tr align="center" valign="center" height="150">
-    <th height="150" colspan="4">42</th>
-  </tr>
-  <tr align="center" valign="center" height="150">
-    <td align="center" valign="top" colspan="4" height="150">
-      <a href="test1/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test1/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test1/cloclo3.txt">cloclo3.txt</a>
+
+
+<table align="center">
+  <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
+  <tr align="center" valign="center">
+    <th colspan="3">42</th>
+    <td colspan="3" align="center" valign="top" height="150">
+      <!-- Nouveau tableau pour fichiers -->
+      <table align="center" width="100%" border="1">
+        <!-- Première ligne pour les fichiers .txt -->
+        <tr align="center" valign="center">
+          <td><a href="test1/cloclo1.txt">cloclo1.txt</a></td>
+          <td><a href="test1/cloclo2.txt">cloclo2.txt</a></td>
+          <td><a href="test1/cloclo3.txt">cloclo3.txt</a></td>
+        </tr>
+        <!-- Deuxième ligne pour les fichiers .doc -->
+        <tr align="center" valign="center">
+          <td><a href="test1/doc1.txt">doc1.txt</a></td>
+          <td><a href="test1/doc2.txt">doc2.txt</a></td>
+          <td><a href="test1/doc3.txt">doc3.txt</a></td>
+        </tr>
+      </table>
     </td>
   </tr>
-  <!-- Ligne pour les dossiers -->
+  <!-- Ligne pour les milestones alignés horizontalement -->
   <tr align="center" valign="center" height="150">
+    <!-- Milestone 0 -->
     <th height="150">milestone 0</th>
+    <td align="center" valign="top" height="150">
+      <!-- Nouveau tableau pour milestone 0 -->
+      <table align="center" width="100%" border="1">
+        <tr>
+          <td><a href="test2/cloclo1.txt">cloclo1.txt</a></td>
+          <td><a href="test2/cloclo2.txt">cloclo2.txt</a></td>
+          <td><a href="test2/cloclo3.txt">cloclo3.txt</a></td>
+        </tr>
+        <tr>
+          <td><a href="test2/doc1.txt">doc1.txt</a></td>
+          <td><a href="test2/doc2.txt">doc2.txt</a></td>
+          <td><a href="test2/doc3.txt">doc3.txt</a></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Milestone 1 -->
     <th height="150">milestone 1</th>
+    <td align="center" valign="top" height="150">
+      <!-- Nouveau tableau pour milestone 1 -->
+      <table align="center" width="100%" border="1">
+        <tr>
+          <td><a href="test3/cloclo1.txt">cloclo1.txt</a></td>
+          <td><a href="test3/cloclo2.txt">cloclo2.txt</a></td>
+          <td><a href="test3/cloclo3.txt">cloclo3.txt</a></td>
+        </tr>
+        <tr>
+          <td><a href="test3/doc1.txt">doc1.txt</a></td>
+          <td><a href="test3/doc2.txt">doc2.txt</a></td>
+          <td><a href="test3/doc3.txt">doc3.txt</a></td>
+        </tr>
+      </table>
+    </td>
+    <!-- Milestone 2 -->
     <th height="150">milestone 2</th>
+    <td align="center" valign="top" height="150">
+      <!-- Nouveau tableau pour milestone 2 -->
+      <table align="center" width="100%" border="1">
+        <tr>
+          <td><a href="test4/cloclo1.txt">cloclo1.txt</a></td>
+          <td><a href="test4/cloclo2.txt">cloclo2.txt</a></td>
+          <td><a href="test4/cloclo3.txt">cloclo3.txt</a></td>
+        </tr>
+        <tr>
+          <td><a href="test4/doc1.txt">doc1.txt</a></td>
+          <td><a href="test4/doc2.txt">doc2.txt</a></td>
+          <td><a href="test4/doc3.txt">doc3.txt</a></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
-<!-- Tableau séparé en dessous pour afficher les fichiers associés -->
-<table align="center" width="100%">
-  <tr align="center" valign="center" height="150">
-    <!-- Fichiers pour milestone 0 -->
-    <td align="center" valign="top" height="150">
-      <a href="test2/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test2/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test2/cloclo3.txt">cloclo3.txt</a>
-    </td>
-    <!-- Fichiers pour milestone 1 -->
-    <td align="center" valign="top" height="150">
-      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test3/cloclo3.txt">cloclo3.txt</a>
-    </td>
-    <!-- Fichiers pour milestone 2 -->
-    <td align="center" valign="top" height="150">
-      <a href="test4/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test4/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test4/cloclo3.txt">cloclo3.txt</a>
-    </td>
-  </tr>
-</table>
 
 
 <table align="center">
