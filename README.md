@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 
-<table align="center">
+<table align="center" width="300">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
-  <tr align="center"  valign="center" height="150">
+  <tr align="center"  valign="center" height="150" width="100%">
     <th colspan="1" height="150">42</th>
     <td align="center" valign="top" height="150">
       <a href="test1/cloclo1.txt">cloclo1.txt</a> |
