@@ -18,12 +18,12 @@
     <td align="center" valign="top" height="150">
       <!-- Nouveau tableau pour milestone 0 -->
       <table align="center" valign="center" height="100%" width="200">
-        <tr>
+        <tr height="50%">
           <a href="test2/cloclo1.txt">cloclo1.txt</a>
           <a href="test2/cloclo2.txt">cloclo2.txt</a>
           <a href="test2/cloclo3.txt">cloclo3.txt</a>
         </tr>
-        <td>
+        <td >
           <a href="test2/doc1.txt">doc1.txt</a>
           <a href="test2/doc2.txt">doc2.txt</a>
           <a href="test2/doc3.txt">doc3.txt</a>
