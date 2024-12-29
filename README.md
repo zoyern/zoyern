@@ -86,7 +86,7 @@
     </td>
     <!-- Milestone 1 -->
     <th height="150"><a href="test3/cloclo1.txt">milestone 1</a></th>
-    <tr align="center" valign="top" height="150">
+    <td align="center" valign="top" height="150">
       <tr>
         <td><a href="test3/cloclo1.txt">cloclo1.txt</a></td> |
         <td><a href="test3/cloclo2.txt">cloclo2.txt</a></td> |
@@ -97,7 +97,7 @@
         <td><a href="test3/cloclo2.txt">doc2</a></td> |
         <td><a href="test3/cloclo3.txt">doc3</a></td>
       </tr>
-    </tr>
+    </td>
     <!-- Milestone 2 -->
     <th height="150">milestone 2</th>
     <td align="center" valign="top" height="150">
