@@ -18,8 +18,8 @@
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td>
-            <table align="center" valign="center" height="150">
-              <td>
+            <table align="center" valign="center">
+              <tr>
                 <td>
                 <a href="test3/cloclo1.txt">cloclo1.txt</a> |
                 <a href="test3/cloclo2.txt">cloclo2.txt</a> |
@@ -30,10 +30,10 @@
                 <a href="test3/cloclo2.txt">doc2</a> |
                 <a href="test3/cloclo3.txt">doc3</a>
                 </td>
-              </td>
-              <tr>
-                <p >coucou</p>
               </tr>
+              <td>
+                <p >coucou</p>
+              </td>
           </table
         </td>
       </tr>
