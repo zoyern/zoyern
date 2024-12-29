@@ -86,11 +86,18 @@
     </td>
     <!-- Milestone 1 -->
     <th height="150">milestone 1</th>
-    <td align="center" valign="top" height="150">
-      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test3/cloclo3.txt">cloclo3.txt</a>
-    </td>
+    <tr align="center" valign="top" height="150">
+      <td>
+        <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+        <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+        <a href="test3/cloclo3.txt">cloclo3.txt</a>
+      </td>
+      <td>
+        <a href="test3/cloclo1.txt">doc1</a> |
+        <a href="test3/cloclo2.txt">doc2</a> |
+        <a href="test3/cloclo3.txt">doc3</a>
+      </td>
+    </tr>
     <!-- Milestone 2 -->
     <th height="150">milestone 2</th>
     <td align="center" valign="top" height="150">
