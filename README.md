@@ -74,6 +74,43 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <th width="150" height="150">A</th>
+    <th width="150" height="150">B</th>
+    <th width="150" height="150">C</th>
+  </tr>
+  <tr>
+    <!-- Cellule pour Test1 -->
+    <td align="center" valign="top" width="150" height="150">
+      <table border="1">
+        <tr><th colspan="1">test1</th></tr>
+        <tr><td><a href="test1/cloclo1.txt">cloclo1.txt</a></td></tr>
+        <tr><td><a href="test1/cloclo2.txt">cloclo2.txt</a></td></tr>
+        <tr><td><a href="test1/cloclo3.txt">cloclo3.txt</a></td></tr>
+      </table>
+    </td>
+    <!-- Cellule pour Test2 -->
+    <td align="center" valign="top" width="150" height="150">
+      <table border="1">
+        <tr><th colspan="1">test2</th></tr>
+        <tr><td><a href="test2/cloclo1.txt">cloclo1.txt</a></td></tr>
+        <tr><td><a href="test2/cloclo2.txt">cloclo2.txt</a></td></tr>
+        <tr><td><a href="test2/cloclo3.txt">cloclo3.txt</a></td></tr>
+      </table>
+    </td>
+    <!-- Cellule pour Test3 -->
+    <td align="center" valign="top" width="150" height="150">
+      <table border="1">
+        <tr><th colspan="1">test3</th></tr>
+        <tr><td><a href="test3/cloclo1.txt">cloclo1.txt</a></td></tr>
+        <tr><td><a href="test3/cloclo2.txt">cloclo2.txt</a></td></tr>
+        <tr><td><a href="test3/cloclo3.txt">cloclo3.txt</a></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 
 <p>coucou</p>
 
