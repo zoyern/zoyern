@@ -1,21 +1,40 @@
-<br clear="both">
+# 👋 Bienvenue sur mon GitHub !
 
-<h1 align="center">Hi 👋! My name is Alexis and I'm a Student from 42 School.</h1>
+![Banner](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoyern&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=zoyern&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+## 📂 Projets en vedette
 
-<br clear="both">
+### 🚀 **Projet 1 - Nom du projet**
+- **Description :** Petit résumé du projet et ce qu'il fait.
+- **Technologies :** React, Node.js, etc.
+- **Aperçu rapide :**
+  ![Preview](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+- **Lien pour cloner :**
+  ```bash
+  git clone https://github.com/votreutilisateur/projet1.git
+  ```
 
-<img src="https://github.com/zoyern/zoyern/blob/output/snake.svg" alt="Snake animation" />
+### 🖥️ **Projet 2 - Nom du projet**
+- **Description :** Petit résumé du projet et ce qu'il fait.
+- **Technologies :** C, C++.
+- **Aperçu rapide :**
+  ![Preview](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
+- **Lien pour cloner :**
+  ```bash
+  git clone https://github.com/votreutilisateur/projet2.git
+  ```
 
-###
+---
 
+## 📊 Statistiques GitHub
+![Statistiques](https://github-readme-stats.vercel.app/api?username=votreutilisateur&show_icons=true&theme=radical)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votreutilisateur&layout=compact&theme=radical)
 
+---
 
-
+## 📧 Me contacter
+- **Email :** votre.email@example.com
+- **LinkedIn :** [Mon Profil](https://www.linkedin.com/in/votreprofil/)
 
