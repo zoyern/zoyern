@@ -32,9 +32,9 @@
                     </td>
             </tr>
             <tr>      
-                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+                      <a href="test3/cloclo1.txt">oooooooooooooooo</a> |
+                      <a href="test3/cloclo2.txt">oooooooo</a> |
+                      <a href="test3/cloclo3.txt">ooooooooooooooooo</a>
             </tr>
               <tr>                     
                       <a href="test3/cloclo1.txt">doc1</a> |
