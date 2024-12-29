@@ -14,31 +14,7 @@
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr>
     <td colspan="2" align="center" valign="center">
-    <table align="center">
-      <tr align="center" valign="center" height="150">
-        <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-          <td>
-            <tr align="center" valign="center">
-              <td>
-                <tr>
-                <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-                <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-                <a href="test3/cloclo3.txt">cloclo3.txt</a>
-                </tr>
-                <td>
-                <a href="test3/cloclo1.txt">doc1</a> |
-                <a href="test3/cloclo2.txt">doc2</a> |
-                <a href="test3/cloclo3.txt">doc3</a>
-                </td>
-              </td>
-            </tr>
-          <td>
-            <p>coucou</p>
-          </td>
-        </td>
-      </tr>
-      </table>
-    <table align="center">
+      <table align="center">
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td>
@@ -62,25 +38,55 @@
               </td>
           </table
         </td>
-        <td>
-                <p >coucou</p>
-              </td>
       </tr>
       </table>
     <table align="center">
       <tr align="center" valign="center" height="150">
-        <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+        <th height="150"><a href="test3/cloclo1.txt">milestone 1</a></th>
           <td>
             <table align="center" valign="center" height="150">
               <tr>
-                <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-                <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-                <a href="test3/cloclo3.txt">cloclo3.txt</a>
-              </tr>
+                 <table align="center" valign="center" height="150">
+                    <tr>
+                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+                    </tr>
+                    <td>
+                      <a href="test3/cloclo1.txt">doc1</a> |
+                      <a href="test3/cloclo2.txt">doc2</a> |
+                      <a href="test3/cloclo3.txt">doc3</a>
+                    </td>
+                </table
+            </tr>
               <td>
-                <a href="test3/cloclo1.txt">doc1</a> |
-                <a href="test3/cloclo2.txt">doc2</a> |
-                <a href="test3/cloclo3.txt">doc3</a>
+                <p>coucou</p>
+              </td>
+          </table
+        </td>
+      </tr>
+      </table>
+    <table align="center">
+      <tr align="center" valign="center" height="150">
+        <th height="150"><a href="test3/cloclo1.txt">milestone 2</a></th>
+          <td>
+            <table align="center" valign="center" height="150">
+              <tr>
+                 <table align="center" valign="center" height="150">
+                    <tr>
+                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
+                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
+                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+                    </tr>
+                    <td>
+                      <a href="test3/cloclo1.txt">doc1</a> |
+                      <a href="test3/cloclo2.txt">doc2</a> |
+                      <a href="test3/cloclo3.txt">doc3</a>
+                    </td>
+                </table
+            </tr>
+              <td>
+                <p>coucou</p>
               </td>
           </table
         </td>
