@@ -17,9 +17,9 @@
       <table align="center">
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-          <tr>
+          <td>
             <table align="center" valign="center" height="150">
-              <td>
+              <tr>
                 <td align="center" valign="center">
                     <tr>
                       <a href="test3/cloclo1.txt">cloclo1.txt</a> |
