@@ -34,10 +34,7 @@
                       <a href="test3/cloclo2.txt">ggggg</a> |
                       <a href="test3/cloclo3.txt">gggggggggggggggggg</a>
                     </td>
-                  <td>salut222</td>
-              <td>saluthaaaa</td>
             </tr>
-            <td width="100%">salut</td>
           </table
         </td>
       </tr>
