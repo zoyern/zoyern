@@ -2,9 +2,9 @@
 
 <table align="center">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
-  <tr align="center" valign="center" colspan="4">
-    <th>42</th>
-    <td align="center" valign="top" height="150">
+  <tr align="center" valign="center">
+    <th colspan="3" >42</th>
+    <td colspan="3" align="center" valign="top" height="150">
       <a href="test1/cloclo1.txt">cloclo1.txt</a> |
       <a href="test1/cloclo2.txt">cloclo2.txt</a> |
       <a href="test1/cloclo3.txt">cloclo3.txt</a>
