@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 
-<table align="center" width="600">
+<table align="center" width="600px">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" valign="center" width="100%">
     <th width="300" >42</th>
