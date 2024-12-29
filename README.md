@@ -4,8 +4,8 @@
 <table align="center" width="600px">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" valign="center" height="150">
-    <th width="300" >42</th>
-    <td width="300" align="center" valign="top">
+    <th width="300px" >42</th>
+    <td width="300px" align="center" valign="top">
       <a href="test1/cloclo1.txt">cloclo1.txt</a> |
       <a href="test1/cloclo2.txt">cloclo2.txt</a> |
       <a href="test1/cloclo3.txt">cloclo3.txt</a>
