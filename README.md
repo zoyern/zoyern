@@ -29,12 +29,12 @@
 ---
 
 ## 📊 Statistiques GitHub
-![Statistiques](https://github-readme-stats.vercel.app/api?username=votreutilisateur&show_icons=true&theme=radical)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votreutilisateur&layout=compact&theme=radical)
+![Statistiques](https://github-readme-stats.vercel.app/api?username=zoyern&show_icons=true&theme=radical)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoyern&layout=compact&theme=radical)
 
 ---
 
 ## 📧 Me contacter
 - **Email :** votre.email@example.com
-- **LinkedIn :** [Mon Profil](https://www.linkedin.com/in/votreprofil/)
+- **LinkedIn :** [Mon Profil](https://www.linkedin.com/in/zoyern/)
 
