@@ -17,7 +17,7 @@
       <table align="center">
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-          <td>
+          <tr>
             <table align="center" valign="center" height="150">
               <td>
                 <td align="center" valign="center">
@@ -32,7 +32,7 @@
                       <a href="test3/cloclo3.txt">doc3</a>
                     </td>
                 </td>
-            </td>
+            </tr>
             <td>salut</td>
           </table
         </td>
