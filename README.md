@@ -33,9 +33,6 @@
                     </td>
                 </table
             </tr>
-              <td>
-                <p>coucou</p>
-              </td>
           </table
         </td>
       </tr>
@@ -59,9 +56,6 @@
                     </td>
                 </table
             </tr>
-              <td>
-                <p>coucou</p>
-              </td>
           </table
         </td>
       </tr>
@@ -85,9 +79,6 @@
                     </td>
                 </table
             </tr>
-              <td>
-                <p>coucou</p>
-              </td>
           </table
         </td>
       </tr>
