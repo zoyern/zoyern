@@ -25,8 +25,8 @@
 <td>
 <table valign="center align="center" >
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
-  <tr colspan="2" align="center" valign="center" height="150">
-        <th  height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+  <tr align="center" valign="center" height="150">
+        <th  colspan="2" height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td >
             <table align="center" valign="center">
                     <tr>
