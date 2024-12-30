@@ -6,12 +6,7 @@
 
 <table align="center" width="100%">
     <tr align="center"  valign="center" height="150" width="100%">
-    <th height="150">42</th>
-    <td align="center" valign="top" height="150">
-      <a href="test1/cloclo1.txt">cloclo1.txt</a> |
-      <a href="test1/cloclo2.txt">cloclo2.txt</a> |
-      <a href="test1/cloclo3.txt">cloclo3.txt</a>
-    </td>
+    <h1 height="150">Projects</th>
   </tr>
   <td>
 <table align="center" width="300">
