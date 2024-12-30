@@ -114,20 +114,20 @@
 							<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
 						</tr>
 						<!-- | files -->
-						<td width="100%" style="word-wrap: break-word; white-space: normal;">
-						  <a href="#">Libft</a> <span>|</span>
-						  <a href="#">ft_printf</a> <span>|</span>
-						  <a href="#">get_next_line</a> <span>|</span>
-						  <a href="#">Born2beroot</a> <span>|</span>
-						  <a href="#">push_swap</a> <span>|</span>
-						  <a href="#">pipex</a> <span>|</span>
-						  <a href="#">so_long</a> <span>|</span>
-						  <a href="#">minishell</a> <span>|</span>
-						  <a href="#">Philosophers</a> <span>|</span>
-						  <a href="#">cub3d</a> <span>|</span>
-						  <a href="#">NetPractice</a> <span>|</span>
-						  <a href="#">cpp</a>
-						</td>
+						      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+						        <a href="#">Libft</a>
+						        <a href="#">ft_printf</a>
+						        <a href="#">get_next_line</a>
+						        <a href="#">Born2beroot</a>
+						        <a href="#">push_swap</a>
+						        <a href="#">pipex</a>
+						        <a href="#">so_long</a>
+						        <a href="#">minishell</a>
+						        <a href="#">Philosophers</a>
+						        <a href="#">cub3d</a>
+						        <a href="#">NetPractice</a>
+						        <a href="#">cpp</a>
+						      </div>
 					</table>
 				</td>
 			</tr>
