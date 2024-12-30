@@ -120,10 +120,9 @@
         <th colspan="1" height="150"><a href="test3/cloclo1.txt">vulksdl</a></th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
-                    <tr width="100%">
-                      <a href="test3/cloclo1.txt">a simple setup for create vulkan and sdl2 app.</a>
+                    <tr width="100%" align="center" valign="center">
+                      <p>a simple setup for create vulkan and sdl2 app.</p>
                     </tr>
-                    <br/><br>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">Makefile</a> <span>|</span>
                       <a href="test3/cloclo2.txt">settings</a> <span>|</span>
