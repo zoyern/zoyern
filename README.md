@@ -27,7 +27,7 @@
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" valign="center" height="150">
         <th   height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-          <td colspan="2">
+          <td>
             <table align="center" valign="center">
                     <tr>
                       <a href="test3/cloclo1.txt">libft</a>
@@ -43,7 +43,7 @@
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr >
     <td align="center" valign="center">
-      <table colspan="2" align="center">
+      <table colspan="3" align="center">
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td >
