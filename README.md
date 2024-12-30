@@ -5,9 +5,30 @@
 <!-- MAIN TABLE -->
 <table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr align="center" valign="center" height="150">
-    <th colspan="2" style="width: 100%;">
+    <th style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
     </th>
+						<table align="center" valign="center" width="100%">
+						<!-- | Project description -->
+						<tr width="100%" align="center" valign="center">
+							<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
+						</tr>
+						<!-- | files -->
+						      <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+						        <a href="#">Libft</a> <span>|</span>
+						        <a href="#">ft_printf</a> <span>|</span>
+						        <a href="#">get_next_line</a> <span>|</span>
+						        <a href="#">Born2beroot</a> <span>|</span>
+						        <a href="#">push_swap</a> <span>|</span>
+						        <a href="#">pipex</a> <span>|</span>
+						        <a href="#">so_long</a> <span>|</span>
+						        <a href="#">minishell</a> <span>|</span>
+						        <a href="#">Philosophers</a> <span>|</span>
+						        <a href="#">cub3d</a> <span>|</span>
+						        <a href="#">NetPractice</a> <span>|</span>
+						        <a href="#">cpp</a>
+						      </td>
+					</table>
   </tr>
   <tr>
     <!-- LEFT COLUMN -->
