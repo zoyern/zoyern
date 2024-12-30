@@ -4,7 +4,7 @@
 ||
 
 <table align="center" width="100%">
-  <tr align="center"  valign="top" height="150" width="100%">
+  <tr align="center"  valign="center" height="150" width="100%">
         <th colspan="2" height="150" width="100%">Projects</th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
