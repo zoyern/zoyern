@@ -20,7 +20,7 @@
 
 <!-- | Présent all project présentation -->
 <table align="center" width="100%" align="center" style="padding: 0; margin: 0;">
-	<tr align="center"  valign="center" height="150" width="100%">
+	<tr align="center"  valign="center" height="150" width="600">
 		<!-- | name of main -->
 		<th colspan="2" height="150" width="100%">
 			<h1><b><i>Projects<i/><b/></h1>
