@@ -23,14 +23,14 @@
 <td  >
 <table  valign="center align="center">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
-  <tr colspan="3" align="center" valign="center" height="150">
-        <th   height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-          <td>
-            <table align="center" valign="center">
+  <tr align="center" valign="center" height="150">
+        <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+          <td >
+            <table  align="center" valign="center">
                     <tr>
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
-                     <td >
+                     <td>
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> |
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
