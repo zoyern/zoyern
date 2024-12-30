@@ -7,9 +7,9 @@
   <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="300">
 </p>
 
-
-|:----------------------------------------------------:|
-||||||||||
+<p align="center">
+  <img src="https://via.placeholder.com/1000x5/000000/000000" width="100%" height="5">
+</p>
 
 <table align="center" width="100%">
   <tr align="center"  valign="center" height="150" width="100%">
