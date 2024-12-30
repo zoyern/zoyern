@@ -8,7 +8,7 @@
 </p>
 
 | ![Texte alternatif](https://via.placeholder.com/150) |
-|:----------------------------------------------------:|
+||
 | **Description centrée**                              |
 
 <table align="center" width="100%">
