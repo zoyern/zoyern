@@ -33,7 +33,7 @@
           <td width="100%">
             <table align="center" valign="center" width="100%">
                     <tr width="100%" align="center" valign="center">
-                      <p>A project created as part of my studies at 42 Paris</p>
+                      <p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
                     </tr>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
