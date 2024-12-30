@@ -5,7 +5,7 @@
 
 
 <table align="center">
-  <tr align="center" valign="center" height="150">
+  <tr <td colspan="2" align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td >
             <table align="center" valign="center">
@@ -20,7 +20,7 @@
           </table
         </td>
   </tr>
-<td colspan="1">
+<td >
 <table valign="center align="center" >
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" valign="center" height="150">
