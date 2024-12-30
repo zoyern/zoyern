@@ -76,6 +76,7 @@
   </tr>
 </table>
 
+
 <table align="center" width="300">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center"  valign="center" height="150" width="100%">
@@ -94,80 +95,58 @@
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
-              <tr width="100%">
-                <table align="center" valign="center" width="100%">
                     <tr width="100%">
-                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+                      <a href="test3/cloclo1.txt">libft</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">gtttttttttttt</a> |
-                      <a href="test3/cloclo2.txt">ggggg</a> |
-                      <a href="test3/cloclo3.txt">gggggggggggggggggg</a>
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
+                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-                  <td>salut222</td>
-                </table>
-              <td>saluthaaaa</td>
-            </tr>
-              <tr>                     
-                      <a href="test3/cloclo1.txt">doc1</a> |
-                      <a href="test3/cloclo2.txt">doc2</a> |
-                      <a href="test3/cloclo3.txt">doc3</a>
-              </tr>
-            <td width="100%">salut</td>
           </table
         </td>
       </tr>
+        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
       </table>
-    <table align="center">
-      <tr align="center" valign="center" height="150">
+      <table align="center" width="100%">
+      <tr align="center" valign="center" height="150" width="100%">
         <th height="150"><a href="test3/cloclo1.txt">milestone 1</a></th>
-          <td>
-            <table align="center" valign="center" height="150">
-              <tr>
-                 <table align="center" valign="center" height="150">
-                    <tr>
-                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+          <td width="100%">
+            <table align="center" valign="center" width="100%">
+                    <tr width="100%">
+                      <a href="test3/cloclo1.txt">libft</a>
                     </tr>
-                    <td>
-                      <a href="test3/cloclo1.txt">doc1</a> |
-                      <a href="test3/cloclo2.txt">doc2</a> |
-                      <a href="test3/cloclo3.txt">doc3</a>
+                     <td width="100%">
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
+                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-                </table
-            </tr>
           </table
         </td>
       </tr>
+        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
       </table>
-    <table align="center">
-      <tr align="center" valign="center" height="150">
+      <table align="center" width="100%">
+      <tr align="center" valign="center" height="150" width="100%">
         <th height="150"><a href="test3/cloclo1.txt">milestone 2</a></th>
-          <td>
-            <table align="center" valign="center" height="150">
-              <tr>
-                 <table align="center" valign="center" height="150">
-                    <tr>
-                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+          <td width="100%">
+            <table align="center" valign="center" width="100%">
+                    <tr width="100%">
+                      <a href="test3/cloclo1.txt">libft</a>
                     </tr>
-                    <td>
-                      <a href="test3/cloclo1.txt">doc1</a> |
-                      <a href="test3/cloclo2.txt">doc2</a> |
-                      <a href="test3/cloclo3.txt">doc3</a>
+                     <td width="100%">
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
+                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-                </table
-            </tr>
           </table
         </td>
       </tr>
+        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
       </table>
     </td>
   </tr>
 </table>
+
 
 <p>coucou</p>
