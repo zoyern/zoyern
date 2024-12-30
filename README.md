@@ -6,7 +6,7 @@
 
 <table align="center" width="100%">
   <tr colspan="3" align="center"  valign="center" height="150" width="100%">
-        <th colspan="3" height="150"><a href="test3/cloclo1.txt">Projects</a></th>
+        <th colspan="2" height="150"><a href="test3/cloclo1.txt">Projects</a></th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
                     <tr width="100%">
