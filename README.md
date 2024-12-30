@@ -42,7 +42,6 @@
         <a href="#">cpp</a>
       </div>
     </td>
-
     <!-- RIGHT COLUMN -->
     <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
       <p align="center">
