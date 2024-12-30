@@ -1,9 +1,6 @@
 |<img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> <h1 align="center">Hey i'm Zoyern and here is my Projects !</h1>|
 :--:
-| 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif">
-</p> |
+| ![Linux](https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif) |
 ||
 
 <table align="center" width="100%">
