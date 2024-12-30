@@ -9,7 +9,7 @@
 
 
 |:----------------------------------------------------:|
-|                             |                         |
+||||||||||
 
 <table align="center" width="100%">
   <tr align="center"  valign="center" height="150" width="100%">
