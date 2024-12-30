@@ -59,14 +59,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!-- ############################################################# -->
 <!--                                HEADER                         -->
 <!-- ------------------------------------------------------------- -->
@@ -215,7 +207,7 @@
 		<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
 	<td/>
 	<!-- | Right collumn ------------------------------------------------------------------------------------->
-	<td valign="top" align="center" width="300">
+	<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
 		<!-- | Cool stroke -->
 		<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
 		<table align="center" width="50%">
@@ -229,7 +221,7 @@
 							<p><b><i>A simple setup for create vulkan and sdl2 app.<b/><i/></p>
 						</tr>
 						<!-- | files -->
-						<td width="100%">
+						<td width="100%" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 							<a href="#">Makefile</a> <span>|</span>
 							<a href="#">settings</a>
 						</td>
@@ -298,9 +290,6 @@
 		<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
 	</td>
 </table>
-
-
-
 
 
 
