@@ -2,7 +2,7 @@
 :--:
 | 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge](https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif)">
+  <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif">
 </p> |
 ||
 
