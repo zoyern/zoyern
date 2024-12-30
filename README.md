@@ -1,3 +1,163 @@
+<!-- MAIN TABLE -->
+<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr align="center" valign="center" height="150">
+    <th style="width: 100%;">
+      <h1><b><i>Projects</i></b></h1>
+    </th>
+	<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <!-- Project details -->
+      <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
+		<table align="center" valign="center" width="100%">
+		<!-- | Project description -->
+		<tr width="100%" align="center" valign="center">
+			<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
+		</tr>
+		<!-- | files -->
+		<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+	        <a href="#">Libft</a>
+	        <a href="#">ft_printf</a>
+	        <a href="#">get_next_line</a>
+	        <a href="#">Born2beroot</a>
+	        <a href="#">push_swap</a>
+	        <a href="#">pipex</a>
+	        <a href="#">so_long</a>
+	        <a href="#">minishell</a>
+	        <a href="#">Philosophers</a>
+	        <a href="#">cub3d</a>
+	        <a href="#">NetPractice</a>
+	        <a href="#">cpp</a>
+      </div>
+		<td width="100%" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+		  <a href="#">Libft</a> <span>|</span>
+		  <a href="#">ft_printf</a> <span>|</span>
+		  <a href="#">get_next_line</a> <span>|</span>
+		  <a href="#">Born2beroot</a> <span>|</span>
+		  <a href="#">push_swap</a> <span>|</span>
+		  <a href="#">pipex</a> <span>|</span>
+		  <a href="#">so_long</a> <span>|</span>
+		  <a href="#">minishell</a> <span>|</span>
+		  <a href="#">Philosophers</a> <span>|</span>
+		  <a href="#">cub3d</a> <span>|</span>
+		  <a href="#">NetPractice</a> <span>|</span>
+		  <a href="#">cpp</a>
+		</td>
+	</table>
+    </td>
+  </tr>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <!-- Project details -->
+      <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <a href="#">Libft</a>
+        <a href="#">ft_printf</a>
+        <a href="#">get_next_line</a>
+        <a href="#">Born2beroot</a>
+        <a href="#">push_swap</a>
+        <a href="#">pipex</a>
+        <a href="#">so_long</a>
+        <a href="#">minishell</a>
+        <a href="#">Philosophers</a>
+        <a href="#">cub3d</a>
+        <a href="#">NetPractice</a>
+        <a href="#">cpp</a>
+      </div>
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <p><b><i>A simple setup for creating Vulkan and SDL2 apps.</i></b></p>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <a href="#">Makefile</a>
+        <a href="#">settings</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+<!-- MAIN TABLE -->
+<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr align="center" valign="center" height="150">
+    <th style="width: 100%;">
+      <h1><b><i>Projects</i></b></h1>
+    </th>
+	<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <!-- Project details -->
+      <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
+		<table align="center" valign="center" width="100%">
+		<!-- | Project description -->
+		<tr width="100%" align="center" valign="center">
+			<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
+		</tr>
+		<!-- | files -->
+		<td width="100%" style="word-wrap: break-word; white-space: normal;">
+		  <a href="#">Libft</a> <span>|</span>
+		  <a href="#">ft_printf</a> <span>|</span>
+		  <a href="#">get_next_line</a> <span>|</span>
+		  <a href="#">Born2beroot</a> <span>|</span>
+		  <a href="#">push_swap</a> <span>|</span>
+		  <a href="#">pipex</a> <span>|</span>
+		  <a href="#">so_long</a> <span>|</span>
+		  <a href="#">minishell</a> <span>|</span>
+		  <a href="#">Philosophers</a> <span>|</span>
+		  <a href="#">cub3d</a> <span>|</span>
+		  <a href="#">NetPractice</a> <span>|</span>
+		  <a href="#">cpp</a>
+		</td>
+	</table>
+    </td>
+  </tr>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <!-- Project details -->
+      <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <a href="#">Libft</a>
+        <a href="#">ft_printf</a>
+        <a href="#">get_next_line</a>
+        <a href="#">Born2beroot</a>
+        <a href="#">push_swap</a>
+        <a href="#">pipex</a>
+        <a href="#">so_long</a>
+        <a href="#">minishell</a>
+        <a href="#">Philosophers</a>
+        <a href="#">cub3d</a>
+        <a href="#">NetPractice</a>
+        <a href="#">cpp</a>
+      </div>
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <p><b><i>A simple setup for creating Vulkan and SDL2 apps.</i></b></p>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <a href="#">Makefile</a>
+        <a href="#">settings</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- ############################################################# -->
 <!--                                HEADER                         -->
@@ -25,27 +185,27 @@
       </p>
       <!-- Project details -->
       <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
-<table align="center" valign="center" width="100%">
-						<!-- | Project description -->
-						<tr width="100%" align="center" valign="center">
-							<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
-						</tr>
-						<!-- | files -->
-						<td width="100%" style="word-wrap: break-word; white-space: normal;">
-						  <a href="#">Libft</a> <span>|</span>
-						  <a href="#">ft_printf</a> <span>|</span>
-						  <a href="#">get_next_line</a> <span>|</span>
-						  <a href="#">Born2beroot</a> <span>|</span>
-						  <a href="#">push_swap</a> <span>|</span>
-						  <a href="#">pipex</a> <span>|</span>
-						  <a href="#">so_long</a> <span>|</span>
-						  <a href="#">minishell</a> <span>|</span>
-						  <a href="#">Philosophers</a> <span>|</span>
-						  <a href="#">cub3d</a> <span>|</span>
-						  <a href="#">NetPractice</a> <span>|</span>
-						  <a href="#">cpp</a>
-						</td>
-					</table>
+		<table align="center" valign="center" width="100%">
+		<!-- | Project description -->
+		<tr width="100%" align="center" valign="center">
+			<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
+		</tr>
+		<!-- | files -->
+		<td width="100%" style="word-wrap: break-word; white-space: normal;">
+		  <a href="#">Libft</a> <span>|</span>
+		  <a href="#">ft_printf</a> <span>|</span>
+		  <a href="#">get_next_line</a> <span>|</span>
+		  <a href="#">Born2beroot</a> <span>|</span>
+		  <a href="#">push_swap</a> <span>|</span>
+		  <a href="#">pipex</a> <span>|</span>
+		  <a href="#">so_long</a> <span>|</span>
+		  <a href="#">minishell</a> <span>|</span>
+		  <a href="#">Philosophers</a> <span>|</span>
+		  <a href="#">cub3d</a> <span>|</span>
+		  <a href="#">NetPractice</a> <span>|</span>
+		  <a href="#">cpp</a>
+		</td>
+	</table>
     </td>
   </tr>
   <tr>
