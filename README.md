@@ -19,6 +19,27 @@
     <th colspan="2" style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
     </th>
+	<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <!-- Project details -->
+      <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <a href="#">Libft</a>
+        <a href="#">ft_printf</a>
+        <a href="#">get_next_line</a>
+        <a href="#">Born2beroot</a>
+        <a href="#">push_swap</a>
+        <a href="#">pipex</a>
+        <a href="#">so_long</a>
+        <a href="#">minishell</a>
+        <a href="#">Philosophers</a>
+        <a href="#">cub3d</a>
+        <a href="#">NetPractice</a>
+        <a href="#">cpp</a>
+      </div>
+    </td>
   </tr>
   <tr>
     <!-- LEFT COLUMN -->
