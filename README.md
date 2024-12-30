@@ -4,7 +4,7 @@
 ||
 
 <table align="center" width="100%">
-  <tr align="center"  valign="center" height="150" width="100%">
+  <tr align="center"  valign="top" height="150" width="100%">
         <th colspan="2" height="150" width="100%">Projects</th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
@@ -16,7 +16,7 @@
             </table>
         </td>
   </tr>
-  <td>
+  <td valign="top" align="center">
 <table align="center" width="300">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" height="150" width="100%">
@@ -36,7 +36,7 @@
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr>
-    <td colspan="2" align="center" valign="center" width="100%">
+    <td colspan="2" align="center" valign="top" width="100%">
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
@@ -53,7 +53,7 @@
             </table>
         </td>
       </tr>
-        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
+        <td colspan="2" align="center" valign="top" >My 42 realisations</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
@@ -95,7 +95,7 @@
   </tr>
 </table>
 <td/>
-<td>
+<td valign="top" align="center">
 <table align="center" width="300">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center"  valign="center" height="150" width="100%">
