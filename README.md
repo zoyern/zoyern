@@ -26,7 +26,7 @@
       <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
 </p>
-<table align="center" width="300">
+<table align="center" width="50%">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" height="150" width="100%">
         <th colspan="1" height="150"><a href="test3/cloclo1.txt">42</a></th>
@@ -114,7 +114,7 @@
     <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
 </p>
-<table align="center" width="300">
+<table align="center" width="50%">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center"  valign="center" height="150" width="100%">
         <th colspan="1" height="150"><a href="test3/cloclo1.txt">vulksdl</a></th>
