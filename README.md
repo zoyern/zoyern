@@ -103,12 +103,12 @@
           <td width="100%">
             <table align="center" valign="center" width="100%">
                     <tr width="100%">
-                      <a href="test3/cloclo1.txt">a simple setup for create vulkan and sdl app.</a>
+                      <a href="test3/cloclo1.txt">a simple setup for create vulkan and sdl2 app.</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
-                      <a href="test3/cloclo3.txt">ft_putnbr.c</a>
+                      <a href="test3/cloclo1.txt">Makefile</a> |
+                      <a href="test3/cloclo2.txt">settings</a>
+                      <a href="test3/cloclo2.txt">settings/template</a>
                     </td>
           </table
         </td>
@@ -118,16 +118,16 @@
     <td colspan="2" align="center" valign="center" width="100%">
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
-        <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+        <th height="150"><a href="test3/cloclo1.txt">Makefile</a></th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
                     <tr width="100%">
-                      <a href="test3/cloclo1.txt">libft</a>
+                      <a href="test3/cloclo1.txt">README !!!</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
-                      <a href="test3/cloclo3.txt">ft_putnbr.c</a>
+                      ***<p>```bash sudo apt install make```</p>*** |
+                      ***<p>```make</p>```*** |
+                      ***<p>```make run```</p>*** |
                     </td>
           </table
         </td>
