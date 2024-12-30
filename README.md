@@ -7,20 +7,20 @@
 
 
 <table align="center" width="100%">
-  <tr align="center"  valign="center" height="150" width="100%">
-        <th colspan="2" height="150"><a href="test3/cloclo1.txt">Projects</a></th>
-          <td>
-                    <td width="100%">
-                      <a href="test3/cloclo1.txt">Projects</a>
-                    </td>
-                     <td width="100%">
+  <tr align="center" valign="center" height="150" width="100%">
+        <th  height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+            <table align="center" valign="center" width="100%">
+                    <tr>
+                      <a href="test3/cloclo1.txt">libft</a>
+                    </tr>
+                     <td >
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> |
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-        </td>
+          </table
   </tr>
-<td colspan="2">
+<td>
 <table valign="center align="center" >
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" valign="center" height="150" width="100%">
