@@ -6,8 +6,8 @@
 
 <table align="center" width="100%">
   <tr align="center"  valign="center" height="150" width="100%">
-        <th  height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-            <table colspan="1" align="center" valign="center" width="100%">
+        <th  colspan="3" height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
+            <table align="center" valign="center" width="100%">
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
