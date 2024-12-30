@@ -98,6 +98,8 @@
     </td>
   </tr>
 </table>
+</td>
+<td>
 <table align="center">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center"  valign="center" height="150" >
