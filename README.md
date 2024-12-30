@@ -30,20 +30,6 @@
 	        <a href="#">NetPractice</a>
 	        <a href="#">cpp</a>
       </div>
-		<td width="100%" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-		  <a href="#">Libft</a> <span>|</span>
-		  <a href="#">ft_printf</a> <span>|</span>
-		  <a href="#">get_next_line</a> <span>|</span>
-		  <a href="#">Born2beroot</a> <span>|</span>
-		  <a href="#">push_swap</a> <span>|</span>
-		  <a href="#">pipex</a> <span>|</span>
-		  <a href="#">so_long</a> <span>|</span>
-		  <a href="#">minishell</a> <span>|</span>
-		  <a href="#">Philosophers</a> <span>|</span>
-		  <a href="#">cub3d</a> <span>|</span>
-		  <a href="#">NetPractice</a> <span>|</span>
-		  <a href="#">cpp</a>
-		</td>
 	</table>
     </td>
   </tr>
