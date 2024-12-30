@@ -103,7 +103,7 @@
           <td width="100%">
             <table align="center" valign="center" width="100%">
                     <tr width="100%">
-                      <a href="test3/cloclo1.txt">libft</a>
+                      <a href="test3/cloclo1.txt">a simple setup for create vulkan and sdl app.</a>
                     </tr>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> |
