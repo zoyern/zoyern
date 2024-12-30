@@ -9,6 +9,10 @@
 
 <hr style="height: 5px; border-width: 0; background-color: black;">
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+</p>
+
 <table align="center" width="100%">
   <tr align="center"  valign="center" height="150" width="100%">
         <th colspan="2" height="150" width="100%">Projects</th>
