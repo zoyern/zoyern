@@ -204,5 +204,3 @@
 </p>
 </td>
 </table>
-
-<p>coucou</p>
