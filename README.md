@@ -33,7 +33,7 @@
           <td width="100%">
             <table align="center" valign="center" width="100%">
                     <tr width="100%" align="center" valign="center">
-                      <p>A project created as part of my studies at 42 Paris</p>
+                      <p align="center" valign="center">A project created as part of my studies at 42 Paris</p>
                     </tr>
                     <br><br>
                      <td width="100%">
