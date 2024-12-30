@@ -41,7 +41,7 @@
         </td>
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
-  <tr >
+  <tr colspan="2">
     <td  align="center" valign="center">
       <table  align="center">
       <tr  align="center" valign="center" height="150">
