@@ -42,7 +42,7 @@
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr>
-    <td align="center" valign="center">
+    <td colspan="2" align="center" valign="center">
       <table align="center">
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
