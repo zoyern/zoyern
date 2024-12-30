@@ -1,3 +1,49 @@
+| ![Welcome](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif) | **Hi, I'm Zoyern, and these are my projects.** |
+|:--------------------------------------------:|:------------------------------------------------:|
+| ![Cool Image](https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif) |  |
+| --- | --- |
+
+## Projects
+
+| **Category**     | **Description**                                                                                              | **Links**                                                                                         |
+|------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **42 Paris**     | A project created as part of my studies at 42 Paris.                                                         | [Libft](#) \| [ft_printf](#) \| [get_next_line](#) \| [Born2beroot](#) \| [push_swap](#) \| [pipex](#) \| [so_long](#) \| [minishell](#) \| [Philosophers](#) \| [cub3d](#) \| [NetPractice](#) \| [cpp](#) |
+| **Vulkan SDL2**  | A simple setup for creating Vulkan and SDL2 apps.                                                            | [Makefile](#) \| [settings](#)                                                                       |
+
+---
+
+## Milestones
+
+| **Milestone**     | **Description**                                                                                                               | **Files**                                                                                    |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| **Milestone 0**   | Building a custom library with essential functions for future projects in my school curriculum.                                | [Libft](#)                                                                                   |
+| **Milestone 1**   | Advanced string manipulation and virtual machine development.                                                                  | [ft_printf](#) \| [get_next_line](#) \| [Born2beroot](#)                                      |
+| **Milestone 2**   | In-depth study of integer sorting using arrays and linked lists, 2D game development, and command execution with fork.         | [pipex](#) \| [push_swap](#) \| [so_long](#)                                                  |
+
+---
+
+## Additional Information
+
+| **Section**        | **Details**                                                                                  |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Linux Support**  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Commands**       | `sudo apt install make`  \
+                         `make`  \
+                         `make run` |
+
+---
+
+### Settings and Configuration
+
+| **Settings**         | **Files**                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------|
+| **Build Configuration** | [settings/build.mk](#) \| [settings/template](#) \| [settings/xcvserv](#)                                |
+| **Makefile Setup**     | Vulkain SDL2 C++ Makefile cmake                                                                          |
+
+---
+
+
+
 <!-- ############################################################# -->
 <!--                                HEADER                         -->
 <!-- ------------------------------------------------------------- -->
