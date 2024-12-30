@@ -10,43 +10,51 @@
 
 <hr style="height: 5px; border-width: 0; background-color: dark;">
 
-<!-- MAIN CONTAINER FLEX -->
-<div style="display: flex; width: 100%; box-sizing: border-box;">
-  <!-- LEFT COLUMN -->
-  <div style="flex: 1; padding: 10px; box-sizing: border-box; min-width: 0;">
-    <p align="center">
-      <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
-    </p>
-    <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <a href="#">Libft</a>
-      <a href="#">ft_printf</a>
-      <a href="#">get_next_line</a>
-      <a href="#">Born2beroot</a>
-      <a href="#">push_swap</a>
-      <a href="#">pipex</a>
-      <a href="#">so_long</a>
-      <a href="#">minishell</a>
-      <a href="#">Philosophers</a>
-      <a href="#">cub3d</a>
-      <a href="#">NetPractice</a>
-      <a href="#">cpp</a>
-    </div>
-  </div>
-
-  <!-- RIGHT COLUMN -->
-  <div style="flex: 1; padding: 10px; box-sizing: border-box; min-width: 0;">
-    <p align="center">
-      <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
-    </p>
-    <p><b><i>A simple setup for creating Vulkan and SDL2 apps.</i></b></p>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <a href="#">Makefile</a>
-      <a href="#">settings</a>
-    </div>
-  </div>
-</div>
-
+<!-- MAIN TABLE -->
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
+  <tr valign="top">
+    <!-- LEFT COLUMN -->
+    <td width="50%" align="center" valign="top">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr align="center" valign="top">
+          <td>
+            <a href="#">Libft</a> |
+            <a href="#">ft_printf</a> |
+            <a href="#">get_next_line</a> |
+            <a href="#">Born2beroot</a> |
+            <a href="#">push_swap</a> |
+            <a href="#">pipex</a> |
+            <a href="#">so_long</a> |
+            <a href="#">minishell</a> |
+            <a href="#">Philosophers</a> |
+            <a href="#">cub3d</a> |
+            <a href="#">NetPractice</a> |
+            <a href="#">cpp</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td width="50%" align="center" valign="top">
+      <p align="center">
+        <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+      </p>
+      <p><b><i>A simple setup for creating Vulkan and SDL2 apps.</i></b></p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr align="center" valign="top">
+          <td>
+            <a href="#">Makefile</a> |
+            <a href="#">settings</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
 <!-- HEADER -->
