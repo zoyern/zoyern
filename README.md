@@ -1,4 +1,4 @@
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" colspan="2" width="100%">
       <img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
