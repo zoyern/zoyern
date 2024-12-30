@@ -16,7 +16,7 @@
 <!-- MAIN TABLE -->
 <table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr align="center" valign="center" height="150">
-    <th colspan="2" style="width: 100%;">
+    <th style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
     </th>
 	<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
