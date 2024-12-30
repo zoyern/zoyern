@@ -23,10 +23,10 @@
 	<table align="center" width="100%" align="center" style="padding: 0; margin: 0;">
 		<tr align="center"  valign="center" height="150" width="100%">
 			<!-- | name of main -->
-			<th colspan="2" height="150" width="100%">
+			<th colspan="2" height="150">
 				<h1><b><i>Projects<i/><b/></h1>
 			</th>
-			<td width="100%">
+			<td>
 				<table align="center" valign="center" width="100%">
 					<!-- | first présentation / bio -->
 					<tr width="100%"></tr>
