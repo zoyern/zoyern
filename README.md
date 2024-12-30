@@ -41,8 +41,8 @@
         </td>
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
-  <tr>
-    <td colspan="2" align="center" valign="center">
+  <tr colspan="2">
+    <td align="center" valign="center">
       <table align="center">
       <tr align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
