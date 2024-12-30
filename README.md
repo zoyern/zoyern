@@ -23,6 +23,9 @@
         </td>
   </tr>
   <td valign="top" align="center">
+      <p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+</p>
 <table align="center" width="300">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center" height="150" width="100%">
@@ -196,6 +199,9 @@
     </td>
   </tr>
 </table>
+    <p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+</p>
     <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
 </p>
