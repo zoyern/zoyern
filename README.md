@@ -9,7 +9,7 @@
 
 <hr style="height: 5px; border-width: 0; background-color: green;">
 
-<table align="center" width="100%">
+<table align="center" width="100%" align="center" style="padding: 0; margin: 0;">
   <tr align="center"  valign="center" height="150" width="100%">
         <th colspan="2" height="150" width="100%">Projects</th>
           <td width="100%">
