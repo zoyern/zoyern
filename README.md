@@ -8,6 +8,7 @@
         <th colspan="2" height="150">Projects</th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
+                    <tr></tr>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">42</a> |
                       <a href="test3/cloclo2.txt">vulksdl</a> 
