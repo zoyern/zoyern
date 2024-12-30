@@ -19,7 +19,7 @@
   <td>
 <table align="center" width="300">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
-  <tr align="center"  valign="center" height="150" width="100%">
+  <tr align="center" height="150" width="100%">
         <th colspan="1" height="150"><a href="test3/cloclo1.txt">42</a></th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
