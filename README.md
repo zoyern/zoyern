@@ -20,7 +20,7 @@
           </table
         </td>
   </tr>
-  <td>
+  <td colspan="2">
 <table align="center" width="300">
   <!-- Ligne principale avec le titre et le premier bloc de fichiers -->
   <tr align="center"  valign="center" height="150" width="100%">
