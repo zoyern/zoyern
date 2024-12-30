@@ -146,17 +146,11 @@
                     <td width="100%">
                       <div style="overflow-x: auto; white-space: nowrap;">
                         <pre><code>sudo apt install make</code></pre>
-                        <p align="center" style="padding: 0; margin: 0;">
-  <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="300">
-</p>
+                        <hr style="height: 5px; border-width: 0; background-color: green;">
                         <pre><code>make</code></pre> 
-                        <p align="center" style="padding: 0; margin: 0;">
-  <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="300">
-</p>
+                        <hr style="height: 5px; border-width: 0; background-color: green;">
                         <pre><code>make run</code></pre>
-                        <p align="center" style="padding: 0; margin: 0;">
-  <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="300">
-</p>
+                        <hr style="height: 5px; border-width: 0; background-color: green;">
                       </div>
                     </td>
             </table>
