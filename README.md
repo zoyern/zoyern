@@ -24,14 +24,12 @@
           <td width="100%">
             <table align="center" valign="center" width="100%">
                     <tr width="100%">
-                      <a href="test3/cloclo1.txt">cloclo1.txt</a> |
-                      <a href="test3/cloclo2.txt">cloclo2.txt</a> |
-                      <a href="test3/cloclo3.txt">cloclo3.txt</a>
+                      <a href="test3/cloclo1.txt">libft</a> |
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">gtttttttttttt</a> |
-                      <a href="test3/cloclo2.txt">ggggg</a> |
-                      <a href="test3/cloclo3.txt">gggggggggggggggggg</a>
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
+                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
           </table
         </td>
