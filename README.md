@@ -135,7 +135,6 @@
         <td colspan="2" align="center" valign="center" >
   <p align="center" valign="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
-          Linux
 </p></td>
       </table>
       <table align="center" width="100%">
