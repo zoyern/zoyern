@@ -104,6 +104,9 @@
     </td>
   </tr>
 </table>
+      <p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
+</p>
 <td/>
 <td valign="top" align="center">
 <table align="center" width="300">
