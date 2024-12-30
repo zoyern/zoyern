@@ -125,7 +125,7 @@
                     </tr>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">Makefile</a><hr style="width: 3px; border-width: 0; background-color: dark;">
-                      <a href="test3/cloclo2.txt">settings</a>
+                      <a href="test3/cloclo2.txt">settings</a><hr style="width: 3px; border-width: 0; background-color: dark;">
                       <a href="test3/cloclo2.txt">settings/template</a>
                     </td>
             </table>
