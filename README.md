@@ -5,10 +5,10 @@
 
 <table align="center" width="100%">
   <tr align="center"  valign="center" height="150" width="100%">
-        <th colspan="2" height="150">Projects</th>
+        <th colspan="2" height="150" width="100%">Projects</th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
-                    <tr></tr>
+                    <tr width="100%"></tr>
                      <td width="100%">
                       <a width="100%" href="test3/cloclo1.txt">42</a> |
                       <a width="100%" href="test3/cloclo2.txt">vulksdl</a> 
