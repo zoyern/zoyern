@@ -132,7 +132,7 @@
             </table>
         </td>
       </tr>
-        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
+        <td colspan="2" align="center" valign="center" ><pre><code>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</code></pre>Linx</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
