@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" align="left">
-  <h1>Hey, I'm Zoyern and here are my Projects!</h1>
+  <h1 align="center">Hey, I'm Zoyern and here are my Projects!</h1>
 </p>
 
 <p align="center" style="padding: 0; margin: 0;">
