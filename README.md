@@ -12,11 +12,11 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
-                     <td width="100%">
+                     <tr width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> |
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
-                    </td>
+                    </tr>
           </table
         </td>
   </tr>
