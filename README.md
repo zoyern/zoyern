@@ -132,7 +132,10 @@
             </table>
         </td>
       </tr>
-        <td colspan="2" align="center" valign="center" >![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)Linx</td>
+        <td colspan="2" align="center" valign="center" ><p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
+          Linux
+</p></td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
