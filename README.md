@@ -57,7 +57,7 @@
           </table
         </td>
       </tr>
-        <td align="center" valign="center" >My 42 realisations</td>
+        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
@@ -75,7 +75,7 @@
           </table
         </td>
       </tr>
-        <td align="center" valign="center" >My 42 realisations</td>
+        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
@@ -136,7 +136,7 @@
           </table
         </td>
       </tr>
-        <td align="center" valign="center" >My 42 realisations</td>
+        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
@@ -154,7 +154,7 @@
           </table
         </td>
       </tr>
-        <td align="center" valign="center" >My 42 realisations</td>
+        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
