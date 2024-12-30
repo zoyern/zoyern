@@ -5,7 +5,7 @@
 | [![GitHub Streak](https://streak-stats.demolab.com?user=zoyern&theme=nord&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=50&dates=4C566A&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes) |
 
 <table align="center" width="100%">
-  <tr colspan="3" align="center"  valign="center" height="150" width="100%">
+  <tr colspan="2" align="center"  valign="center" height="150" width="100%">
         <th colspan="2" height="150"><a href="test3/cloclo1.txt">Projects</a></th>
           <td width="100%">
             <table align="center" valign="center" width="100%">
