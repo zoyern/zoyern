@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="300">
 </p>
 
-<hr style="height: 5px; border-width: 0; background-color: black;">
+<hr style="height: 5px; border-width: 0; background-color: green;">
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
