@@ -143,10 +143,12 @@
                       <a href="test3/cloclo1.txt">README !!!</a>
                     </tr>
                     <br/><br>
-                     <td width="100%">
-                            <pre><code>sudo apt install make</code></pre>
-                            <pre><code>make</code></pre> 
-                            <pre><code>make run</code></pre>
+                    <td width="100%">
+                      <div style="overflow-x: auto; white-space: nowrap;">
+                        <pre><code>sudo apt install make</code></pre>
+                        <pre><code>make</code></pre> 
+                        <pre><code>make run</code></pre>
+                      </div>
                     </td>
             </table>
         </td>
