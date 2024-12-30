@@ -125,9 +125,9 @@
                       <a href="test3/cloclo1.txt">README !!!</a>
                     </tr>
                      <td width="100%">
-                      <p>***```bash sudo apt install make```***</p> |
-                      <p>***```make```***</p> |
-                      <p>***```make run```***</p> |
+                            <pre><code>sudo apt install make</code></pre>
+                            <pre><code>make</code></pre>
+                            <pre><code>make run</code></pre>
                     </td>
             </table>
         </td>
