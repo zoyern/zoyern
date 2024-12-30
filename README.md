@@ -10,7 +10,7 @@
             <table align="center" valign="center" width="100%">
                     <tr width="100%"></tr>
                      <td width="100%">
-                      <a width="100%" href="test3/cloclo1.txt">42</a> |
+                      <a width="100%" href="test3/cloclo1.txt">42</a> <span>|</span>
                       <a width="100%" href="test3/cloclo2.txt">vulksdl</a> 
                     </td>
             </table>
@@ -27,8 +27,8 @@
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
+                      <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
             </table>
@@ -46,8 +46,8 @@
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
+                      <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
             </table>
@@ -64,8 +64,8 @@
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
+                      <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
             </table>
@@ -82,8 +82,8 @@
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
+                      <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
             </table>
@@ -106,8 +106,8 @@
                       <a href="test3/cloclo1.txt">a simple setup for create vulkan and sdl2 app.</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">Makefile</a> |
-                      <a href="test3/cloclo2.txt">settings</a>
+                      <a href="test3/cloclo1.txt">Makefile</a> <span>|</span>
+                      <a href="test3/cloclo2.txt">settings</a> <span>|</span>
                       <a href="test3/cloclo2.txt">settings/template</a>
                     </td>
             </table>
@@ -126,7 +126,7 @@
                     </tr>
                      <td width="100%">
                             <pre><code>sudo apt install make</code></pre>
-                            <pre><code>make</code></pre>
+                            <pre><code>make</code></pre> 
                             <pre><code>make run</code></pre>
                     </td>
             </table>
@@ -146,8 +146,8 @@
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
+                      <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
             </table>
@@ -164,8 +164,8 @@
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">ft_atoi.c</a> |
-                      <a href="test3/cloclo2.txt">ft_split.c</a> |
+                      <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
+                      <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
             </table>
