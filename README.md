@@ -6,8 +6,9 @@
 <p align="center" style="padding: 0; margin: 0;">
   <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="200">
 </p>
+
 <p align="center" style="padding: 0; margin: 0;">
-<table align="center" width="100%">
+<table align="center" width="100%" height="200">
   <tr>
     <td align="center" colspan="2" width="100%">
       <img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
