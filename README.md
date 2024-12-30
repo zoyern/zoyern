@@ -5,7 +5,7 @@
 
 
 <table align="center">
-  <tr <td colspan="2" align="center" valign="center" height="150">
+  <tr <td colspan="3" align="center" valign="center" height="150">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
           <td >
             <table align="center" valign="center">
