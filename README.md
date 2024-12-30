@@ -40,7 +40,7 @@
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
   <tr>
-    <td colspan="2" align="center" valign="center" width="100%">
+    <td align="center" valign="center" width="100%">
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
         <th height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
@@ -57,7 +57,7 @@
           </table
         </td>
       </tr>
-        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
+        <td align="center" valign="center" >My 42 realisations</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
@@ -75,7 +75,7 @@
           </table
         </td>
       </tr>
-        <td colspan="2" align="center" valign="center" >My 42 realisations</td>
+        <td align="center" valign="center" >My 42 realisations</td>
       </table>
       <table align="center" width="100%">
       <tr align="center" valign="center" height="150" width="100%">
