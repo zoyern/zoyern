@@ -6,8 +6,8 @@
 
 <table align="center" width="100%">
   <tr align="center"  valign="center" height="150" width="100%">
-        <th colspan="2" height="150"><a href="test3/cloclo1.txt">Projects</a></th>
-          <td width="100%">
+        <th colspan="1" height="150"><a href="test3/cloclo1.txt">Projects</a></th>
+          <td>
             <table align="center" valign="center" width="100%">
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">Projects</a>
