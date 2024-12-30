@@ -19,7 +19,7 @@
 <!-- ------------------------------------------------------------- -->
 
 <!-- | Présent all project présentation -->
-<p align="center" style="padding: 0; margin: 0;">
+<p align="center" width="600" style="padding: 0; margin: 0;">
 <table align="center" width="600" align="center" style="padding: 0; margin: 0;">
 	<tr align="center"  valign="center" height="150">
 		<!-- | name of main -->
