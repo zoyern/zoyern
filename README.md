@@ -13,7 +13,7 @@
                       <a width="100%" href="test3/cloclo1.txt">42</a> |
                       <a width="100%" href="test3/cloclo2.txt">vulksdl</a> 
                     </td>
-          </table
+            </table>
         </td>
   </tr>
   <td>
@@ -31,7 +31,7 @@
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-          </table
+            </table>
         </td>
   </tr>
   <!-- Une seule cellule contenant tous les autres tableaux en ligne -->
@@ -50,7 +50,7 @@
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-          </table
+            </table>
         </td>
       </tr>
         <td colspan="2" align="center" valign="center" >My 42 realisations</td>
@@ -68,7 +68,7 @@
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-          </table
+            </table>
         </td>
       </tr>
         <td colspan="2" align="center" valign="center" >My 42 realisations</td>
@@ -86,7 +86,7 @@
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-          </table
+            </table>
         </td>
       </tr>
         <td colspan="2" align="center" valign="center" >My 42 realisations</td>
@@ -165,7 +165,7 @@
                       <a href="test3/cloclo2.txt">ft_split.c</a> |
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </td>
-          </table
+            </table>
         </td>
       </tr>
         <td colspan="2" align="center" valign="center" >My 42 realisations</td>
