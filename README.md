@@ -19,6 +19,7 @@
 <!-- ------------------------------------------------------------- -->
 
 <!-- | Présent all project présentation -->
+<p align="center" style="padding: 0; margin: 0;">
 <table align="center" width="100%" align="center" style="padding: 0; margin: 0;">
 	<tr align="center"  valign="center" height="150" width="600">
 		<!-- | name of main -->
@@ -229,3 +230,4 @@
 		<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
 	</td>
 </table>
+</p>
