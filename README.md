@@ -35,7 +35,6 @@
                     <tr width="100%" align="center" valign="center">
                       <p align="center" valign="center">A project created as part of my studies at 42 Paris</p>
                     </tr>
-                    <br><br>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
                       <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
