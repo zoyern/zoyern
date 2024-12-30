@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="300">
 </p>
 
-<hr style="height: 5px; border-width: 0; background-color: green;">
+<hr style="height: 5px; border-width: 0; background-color: dark;">
 <p align="center" style="padding: 0; margin: 0;">
 <table align="center" width="100%" align="center" style="padding: 0; margin: 0;">
   <tr align="center"  valign="center" height="150" width="100%">
@@ -124,8 +124,8 @@
                       <p><b><i>a simple setup for create vulkan and sdl2 app.<b/><i/></p>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">Makefile <hr style="height: 5px; border-width: 0; background-color: green;"></a>
-                      <a href="test3/cloclo2.txt">settings <hr style="height: 5px; border-width: 0; background-color: green;"></a>
+                      <a href="test3/cloclo1.txt">Makefile <hr style="width: 3px; border-width: 0; background-color: dark;"></a>
+                      <a href="test3/cloclo2.txt">settings <hr style="with: 3px; border-width: 0; background-color: dark;"></a>
                       <a href="test3/cloclo2.txt">settings/template</a>
                     </td>
             </table>
@@ -146,11 +146,11 @@
                     <td width="100%">
                       <div style="overflow-x: auto; white-space: nowrap;">
                         <pre><code>sudo apt install make</code></pre>
-                        <hr style="height: 5px; border-width: 0; background-color: green;">
+                        <hr style="height: 3px; border-width: 0; background-color: dark;">
                         <pre><code>make</code></pre> 
-                        <hr style="height: 5px; border-width: 0; background-color: green;">
+                        <hr style="height: 3px; border-width: 0; background-color: dark;">
                         <pre><code>make run</code></pre>
-                        <hr style="height: 5px; border-width: 0; background-color: green;">
+                        <hr style="height: 3px; border-width: 0; background-color: dark;">
                       </div>
                     </td>
             </table>
