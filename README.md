@@ -124,10 +124,8 @@
                       <p><b><i>a simple setup for create vulkan and sdl2 app.<b/><i/></p>
                     </tr>
                      <td width="100%">
-                      <a href="test3/cloclo1.txt">Makefile</a>
-                       <hr style="height: 5px; border-width: 0; background-color: green;">
-                      <a href="test3/cloclo2.txt">settings</a>
-                       <hr style="height: 5px; border-width: 0; background-color: green;">
+                      <a href="test3/cloclo1.txt">Makefile <hr style="height: 5px; border-width: 0; background-color: green;"></a>
+                      <a href="test3/cloclo2.txt">settings <hr style="height: 5px; border-width: 0; background-color: green;"></a>
                       <a href="test3/cloclo2.txt">settings/template</a>
                     </td>
             </table>
