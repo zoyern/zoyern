@@ -12,7 +12,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">projectd</a>
                     </tr>
-                     <td width="100%">
+                     <td width="100%" colspan="2">
                       <a href="test3/cloclo1.txt">42</a> |
                       <a href="test3/cloclo2.txt">vulksdl</a> |
                     </td>
