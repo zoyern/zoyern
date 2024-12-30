@@ -26,7 +26,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
-                    <br/><br/>
+                    <br/>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
                       <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
@@ -46,7 +46,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
-              <br/><br/><br/><br/>
+                    <br/>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
                       <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
@@ -65,6 +65,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
+                    <br/>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
                       <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
@@ -83,6 +84,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
+                      <br/>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
                       <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
@@ -107,6 +109,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">a simple setup for create vulkan and sdl2 app.</a>
                     </tr>
+                    <br/>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">Makefile</a> <span>|</span>
                       <a href="test3/cloclo2.txt">settings</a> <span>|</span>
@@ -126,6 +129,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">README !!!</a>
                     </tr>
+                    <br/>
                      <td width="100%">
                             <pre><code>sudo apt install make</code></pre>
                             <pre><code>make</code></pre> 
@@ -147,6 +151,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
+                    <br/>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
                       <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
@@ -165,6 +170,7 @@
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
                     </tr>
+                    <br/>
                      <td width="100%">
                       <a href="test3/cloclo1.txt">ft_atoi.c</a> <span>|</span>
                       <a href="test3/cloclo2.txt">ft_split.c</a> <span>|</span>
