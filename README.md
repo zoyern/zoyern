@@ -7,7 +7,6 @@
 <table align="center" width="100%">
   <tr align="center"  valign="center" height="150" width="100%">
         <th  height="150"><a href="test3/cloclo1.txt">milestone 0</a></th>
-          <tr width="100%">
             <table colspan="3" align="center" valign="center" width="100%">
                     <tr width="100%">
                       <a href="test3/cloclo1.txt">libft</a>
@@ -18,7 +17,6 @@
                       <a href="test3/cloclo3.txt">ft_putnbr.c</a>
                     </tr>
           </table
-        </tr>
   </tr>
   <td>
 <table align="center" width="300">
