@@ -2,23 +2,22 @@
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
-
-<table width="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
+<table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <!-- Ligne principale -->
   <tr>
-    <!-- Colonne de gauche -->
-    <th width="50%" height="100">Argument</th>
-    <!-- Colonne de droite -->
-    <td width="50%" height="100">
+    <!-- Colonne Argument -->
+    <th width="50%" height="50">Argument</th>
+    <!-- Colonne table imbriquée -->
+    <td width="50%" height="50">
       <!-- Table imbriquée -->
-      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
-        <!-- Ligne titre -->
-        <tr width="600" height="50%">  <!-- 1 possible modificator -->
-          <th width="600">Argument</th>
+      <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
+        <!-- Ligne Argument -->
+        <tr>
+          <th width="100%">Argument</th>
         </tr>
         <!-- Ligne liens -->
-        <tr width="20" height="50%"> <!-- 2 possible modificator -->
-          <td width="20" word-wrap="break-word" white-space="normal">
+        <tr>
+          <td width="100%" style="word-wrap: break-word; white-space: normal; overflow: hidden;">
             <!-- Liste des liens -->
             <p align="center">
               <a href="#">Libft</a> <span>|</span>
@@ -39,31 +38,6 @@
       </table>
     </td>
   </tr>
-<tr>
-<td>appDir</td>
-<td>The top level directory that contains your app. If this option is used then
-it assumed your scripts are in</td>
-</tr>
-<tr>
-<td>baseUrl</td>
-<td>By default, all modules are located relative to this path. If baseUrl is not
-explicitly set, then all modules are loaded relative to the directory that holds
-the build file. If appDir is set, then baseUrl should be specified as relative
-to the appDir.</td>
-</tr>
-<tr>
-<td>dir</td>
-<td>The directory path to save the output. If not specified, then the path will
-default to be a directory called "build" as a sibling to the build file. All
-relative paths are relative to the build file.</td>
-</tr>
-<tr>
-<td>modules</td>
-<td>List the modules that will be optimized. All their immediate and deep
-dependencies will be included in the module's file when the build is done. If
-that module or any of its dependencies includes i18n bundles, only the root
-bundles will be included unless the locale: section is set above.</td>
-</tr>
 </table>
 
 <!-- MAIN TABLE -->
