@@ -18,7 +18,7 @@
         </tr>
         <!-- Ligne liens -->
         <tr width="300">
-          <td width="100%" height="50%" word-wrap="break-word" white-space="normal">
+          <td width="300" height="50%" word-wrap="break-word" white-space="normal">
             <!-- Liste des liens -->
             <p align="center">
               <a href="#">Libft</a> <span>|</span>
