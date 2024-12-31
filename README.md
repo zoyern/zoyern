@@ -2,9 +2,10 @@
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
+
 <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <!-- Ligne principale -->
-  <tr>
+  <tr width="100%">
     <!-- Colonne gauche prenant 50% -->
     <th width="50%" height="50">Argument</th>
     <!-- Colonne droite avec tableau imbriqué prenant 50% -->
