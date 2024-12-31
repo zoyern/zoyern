@@ -7,7 +7,7 @@
   <!-- Ligne principale -->
   <tr>
     <!-- Colonne de gauche -->
-    <th width="50%" height="100">Argument</th>
+    <th width="894" height="100">Argument</th>
     <!-- Colonne de droite -->
     <td width="50%" height="100">
       <!-- Table imbriquée -->
