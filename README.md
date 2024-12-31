@@ -3,22 +3,22 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-<table width="300" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
+<table width="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
   <!-- Ligne principale -->
   <tr>
     <!-- Colonne de gauche -->
-    <th width="300" height="100">Argument</th>
+    <th width="100%" height="100">Argument</th>
     <!-- Colonne de droite -->
-    <td width="300" height="100">
+    <td width="100%" height="100">
       <!-- Table imbriquée -->
-      <table width="300" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
+      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
         <!-- Ligne titre -->
-        <tr>
+        <tr>  <!-- 1 possible modificator -->
           <th width="100%" height="50%">Argument</th>
         </tr>
         <!-- Ligne liens -->
-        <tr width="100%">
-          <td width="300" height="50%" word-wrap="break-word" white-space="normal">
+        <tr width="100%"> <!-- 2 possible modificator -->
+          <td width="100%" height="50%" word-wrap="break-word" white-space="normal">
             <!-- Liste des liens -->
             <span style="max-width:150px;">Hello World...</span>
 		  <span style="max-width:150px;">Hello World...</span>
