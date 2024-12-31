@@ -9,6 +9,7 @@
     <th colspan="2" style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
     </th>
+	  <p>coucou</p>
   </tr>
   <tr>
     <!-- LEFT COLUMN -->
