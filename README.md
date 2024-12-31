@@ -47,7 +47,7 @@ bundles will be included unless the locale: section is set above.</td>
 						</tr>
 						<!-- | files -->
 						      <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-							<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+							<div display="flex" flex-wrap="wrap" gap="10px" justify-content="center">
 						        <a href="#">Libft</a> <span>|</span>
 						        <a href="#">ft_printf</a> <span>|</span>
 						        <a href="#">get_next_line</a> <span>|</span>
