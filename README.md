@@ -4,9 +4,9 @@
 <!-- ------------------------------------------------------------- -->
 
 <table>
-<tr height="150">
-<th width="50%">Argument</th >
-<th width="50%">Description</th>
+<tr>
+<th width="50%" height="150">Argument</th >
+<th width="50%" height="150">Description</th>
 </tr>
 <tr>
 <td>appDir</td>
