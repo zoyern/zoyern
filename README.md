@@ -40,8 +40,8 @@
 					<a width="100%" href="#">vulksdl</a> 
 				</td>
 			</table>
-	</tr>
 				<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
+	</tr>
 			</table>
 ###TEST
 <!-- ############################################################# -->
