@@ -3,56 +3,6 @@
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
-<table width="100%" border="1" cellspacing="0" cellpadding="5">
-	<tr>
-	  <th width="50%" height="50" align="center" valign="top" colspan="2">En-tête 1 et 2</th>
-	</tr>
-	<tr>
-	  <td width="50%" height="50" align="center" valign="top">Cellule 1</td>
-	  <td width="75%" height="50" align="center" valign="top">Cellule 2</td>
-	</tr>
-	<tr>
-	  <td colspan="2" align="center" valign="bottom">Cellule fusionnée</td>
-	</tr>
-  </table>
-
-
-<table align="center" width="100%" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-  <!-- Ligne principale -->
-  <tr height="100">
-    <!-- Colonne gauche (Argument) -->
-    <!-- Colonne droite avec tableau imbriqué -->
-    <td width="50%" height="100" valign="top">
-      <!-- Table imbriquée -->
-      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <!-- Ligne titre -->
-	<th width="50%" height="100" valign="top"">Argument</th>
-        <tr height="20%">
-          <th width="100%" height="50" valign="top">Argument</th>
-        </tr>
-        <!-- Ligne liens -->
-        <tr height="80%">
-          <td width="100%" height="100%" style="word-wrap: break-word; white-space: normal; overflow: hidden; text-align: center;">
-            <!-- Liste des liens avec retour à la ligne -->
-            <p>
-              <a href="#">Libft</a> | <a href="#">ft_printf</a> | <a href="#">get_next_line</a><br>
-              <a href="#">Born2beroot</a> | <a href="#">push_swap</a> | <a href="#">pipex</a><br>
-              <a href="#">so_long</a> | <a href="#">minishell</a> | <a href="#">Philosophers</a><br>
-              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
-              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
-              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
-              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
-              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
-            </p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-<td width="100%">coucou</td>
-</table>
-
-
 
 
 
@@ -80,6 +30,14 @@
 						        <a href="#">Philosophers</a> <span>|</span>
 						        <a href="#">cub3d</a> <span>|</span>
 						        <a href="#">NetPractice</a> <span>|</span>
+						        <a href="#">cpp</a>
+						        <a href="#">cpp</a>
+						        <a href="#">cpp</a>
+						        <a href="#">cpp</a>
+						        <a href="#">cpp</a>
+						        <a href="#">cpp</a>
+						        <a href="#">cpp</a>
+						        <a href="#">cpp</a>
 						        <a href="#">cpp</a>
 						      </div>
 						      </td>
