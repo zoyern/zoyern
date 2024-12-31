@@ -1,14 +1,13 @@
 
 <!-- Tableau principal -->
-<table align="center" width="100%" border="1" cellspacing="0" cellpadding="5">
+<table align="center" width="100%" cellspacing="0" cellpadding="5">
   <!-- En-tête avec "Projects" centré et liste -->
   <tr align="center" valign="center" height="150">
     <td colspan="2" align="center">
       <!-- Titre "Projects" centré -->
       <h1 align="center"><b><i>Projects</i></b></h1>
-      <hr>
       <!-- Tableau pour la liste des projets -->
-      <table align="center" width="100%" border="1" cellspacing="0" cellpadding="5">
+      <table align="center" width="100%" cellspacing="0" cellpadding="5">
         <tr align="center" valign="center" height="150">
           <td width="100%">
             <!-- Liste des projets avec séparateurs -->
