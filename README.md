@@ -5,7 +5,7 @@
     <table align="center" valign="center" width="100%" border="1">
       <!-- | first présentation / bio -->
       <tr width="100%" align="center" valign="center">
-        <h3 width="100%" align="center" valign="center">Canva</h3>
+        <h3 width="100%" align="center" valign="center">alls</h3>
       </tr>
       <!-- | path to projects -->
       <td width="100%" align="center">
@@ -29,7 +29,7 @@
       <!-- | first présentation / bio -->
       <tr width="100%" align="center" valign="center">
 	<!-- | name of main -->
-        <h3 width="100%" align="center" valign="center">HEEEYYYY BRO</h3>
+        <h3 width="100%" align="center" valign="center">Canvas</h3>
       </tr>
       <!-- | path to projects -->
       <td width="100%" align="center">
