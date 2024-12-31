@@ -5,33 +5,24 @@
 <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <!-- Ligne principale -->
   <tr>
-    <!-- Colonne Argument -->
+    <!-- Colonne gauche -->
     <th width="50%" height="50">Argument</th>
-    <!-- Colonne table imbriquée -->
+    <!-- Colonne droite avec tableau imbriqué -->
     <td width="50%" height="50">
-      <!-- Table imbriquée -->
       <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-        <!-- Ligne Argument -->
+        <!-- Ligne titre -->
         <tr>
           <th width="100%">Argument</th>
         </tr>
         <!-- Ligne liens -->
         <tr>
           <td width="100%" style="word-wrap: break-word; white-space: normal; overflow: hidden;">
-            <!-- Liste des liens -->
+            <!-- Liste des liens avec retour à la ligne automatique -->
             <p align="center">
-              <a href="#">Libft</a> <span>|</span>
-              <a href="#">ft_printf</a> <span>|</span>
-              <a href="#">get_next_line</a> <span>|</span>
-              <a href="#">Born2beroot</a> <span>|</span>
-              <a href="#">push_swap</a> <span>|</span>
-              <a href="#">pipex</a> <span>|</span>
-              <a href="#">so_long</a> <span>|</span>
-              <a href="#">minishell</a> <span>|</span>
-              <a href="#">Philosophers</a> <span>|</span>
-              <a href="#">cub3d</a> <span>|</span>
-              <a href="#">NetPractice</a> <span>|</span>
-              <a href="#">cpp</a>
+              <a href="#">Libft</a> | <a href="#">ft_printf</a> | <a href="#">get_next_line</a><br>
+              <a href="#">Born2beroot</a> | <a href="#">push_swap</a> | <a href="#">pipex</a><br>
+              <a href="#">so_long</a> | <a href="#">minishell</a> | <a href="#">Philosophers</a><br>
+              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
             </p>
           </td>
         </tr>
@@ -39,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 
 <!-- MAIN TABLE -->
 <table align="center" width="100%" table-layout="fixed" border-collapse="collapse">
