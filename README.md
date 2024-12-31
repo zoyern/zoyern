@@ -7,7 +7,10 @@
 <tr>
 <th width="50%" height="100">Argument</th >
 <td width="50%" height="100">
-	<table align="center" valign="center" width="100%" height="100%">
+		<tr>
+			Argument
+		</tr>
+		<td>
 							<div display="flex" flex-wrap="wrap" gap="10px" justify-content="center">
 						        <a href="#">Libft</a> <span>|</span>
 						        <a href="#">ft_printf</a> <span>|</span>
@@ -22,7 +25,7 @@
 						        <a href="#">NetPractice</a> <span>|</span>
 						        <a href="#">cpp</a>
 						      </div>
-		<table align="center" valign="center" width="100%">
+		</td>
 </td>
 </tr>
 <tr>
