@@ -1,6 +1,6 @@
 
 <!-- Tableau principal -->
-<table align="center" border="1">
+<table align="center">
 		<tr align="center" valign="center" height="150">
 			<!-- | name of main -->
 			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
