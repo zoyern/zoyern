@@ -4,7 +4,7 @@
 <!-- ------------------------------------------------------------- -->
 
 <table width="100%">
-<tr>
+<tr width="100%">
 <th width="50%" height="100">Argument</th >
 <td width="50%" height="100">
 	<table height="100">
