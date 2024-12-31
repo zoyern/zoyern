@@ -3,22 +3,24 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-<table width="300" border="1" cellspacing="0" cellpadding="0">
+<table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <!-- Ligne principale -->
-  <tr width="300">
-    <th width="300" height="100">Argument</th>
-    <!-- Cellule pour la table imbriquée -->
-    <td width="300" height="100">
+  <tr>
+    <!-- Colonne de gauche -->
+    <th width="50%" height="100">Argument</th>
+    <!-- Colonne de droite -->
+    <td width="50%" height="100">
       <!-- Table imbriquée -->
-      <table width="300" height="100%" border="1" cellspacing="0" cellpadding="0">
-        <tr width="300" height="50%">
-          <th colspan="1" height="50%">Argument</th>
-        </tr>
+      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
+        <!-- Ligne titre -->
         <tr>
-          <!-- Cellule pour les liens -->
-          <td width="300" height="50%">
-            <!-- Liste des liens avec retour à la ligne automatique -->
-            <p align="center" width="300">
+          <th width="100%" height="50%">Argument</th>
+        </tr>
+        <!-- Ligne liens -->
+        <tr>
+          <td width="100%" height="50%" style="word-wrap: break-word; white-space: normal;">
+            <!-- Liste des liens -->
+            <p align="center">
               <a href="#">Libft</a> <span>|</span>
               <a href="#">ft_printf</a> <span>|</span>
               <a href="#">get_next_line</a> <span>|</span>
