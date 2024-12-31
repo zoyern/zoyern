@@ -8,29 +8,7 @@
     <th style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
     </th>
-						<table align="center" valign="center" width="100%">
-						<!-- | Project description -->
-						<tr width="100%" align="center" valign="center">
-							<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
-						</tr>
-						<!-- | files -->
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-	<td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-        <a href="#">Libft</a>
-        <a href="#">ft_printf</a>
-        <a href="#">get_next_line</a>
-        <a href="#">Born2beroot</a>
-        <a href="#">push_swap</a>
-        <a href="#">pipex</a>
-        <a href="#">so_long</a>
-        <a href="#">minishell</a>
-        <a href="#">Philosophers</a>
-        <a href="#">cub3d</a>
-        <a href="#">NetPractice</a>
-        <a href="#">cpp</a>
-								      </td>
-      </div>
-					</table>
+	<td>coucou</td>
   </tr>
   <tr>
     <!-- LEFT COLUMN -->
