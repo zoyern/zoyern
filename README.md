@@ -1,4 +1,38 @@
 
+<!-- Tableau principal -->
+<table align="center" width="100%" border="1" cellspacing="0" cellpadding="5">
+  <!-- En-tête avec "Projects" centré et liste -->
+  <tr align="center" valign="center" height="150">
+    <td colspan="2" align="center">
+      <!-- Titre "Projects" centré -->
+      <h1 align="center"><b><i>Projects</i></b></h1>
+      <hr>
+      <!-- Tableau pour la liste des projets -->
+      <table align="center" width="100%" border="1" cellspacing="0" cellpadding="5">
+        <tr align="center" valign="center" height="150">
+          <td width="100%">
+            <!-- Liste des projets avec séparateurs -->
+            <a href="#">42</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a> <span>|</span>
+            <a href="#">vulksdl</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
+
 <table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
 	<tr align="center" valign="center" height="150">
 		<!-- | name of main -->
@@ -42,6 +76,10 @@
 			</table>
 	</tr>
 			</table>
+			<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
+
+
+
 ###TEST
 <!-- ############################################################# -->
 <!--                                TEST                         -->
