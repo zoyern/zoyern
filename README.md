@@ -1,3 +1,41 @@
+
+<table border="1" cellspacing="0" cellpadding="5" width="100%">
+		<!-- Ligne 1 -->
+		<tr>
+		  <!-- Première cellule avec table -->
+		  <td width="50%">
+			<table border="1" cellspacing="0" cellpadding="5" width="100%">
+			  <tr><td>Contenu 1</td></tr>
+			  <tr><td>Contenu 2</td></tr>
+			</table>
+		  </td>
+		  <!-- Deuxième cellule avec table -->
+		  <td width="50%">
+			<table border="1" cellspacing="0" cellpadding="5" width="100%">
+			  <tr><td>Contenu 3</td></tr>
+			  <tr><td>Contenu 4</td></tr>
+			</table>
+		  </td>
+		</tr>
+		<!-- Ligne 2 pour simuler le wrap -->
+		<tr>
+		  <!-- Troisième cellule -->
+		  <td width="50%">
+			<table border="1" cellspacing="0" cellpadding="5" width="100%">
+			  <tr><td>Contenu 5</td></tr>
+			  <tr><td>Contenu 6</td></tr>
+			</table>
+		  </td>
+		  <!-- Quatrième cellule -->
+		  <td width="50%">
+			<table border="1" cellspacing="0" cellpadding="5" width="100%">
+			  <tr><td>Contenu 7</td></tr>
+			  <tr><td>Contenu 8</td></tr>
+			</table>
+		  </td>
+		</tr>
+	  </table>
+
 <table align="center" cellspacing="0" cellpadding="0">
 		<tr align="center" valign="center" height="150">
 			<!-- | name of main -->
