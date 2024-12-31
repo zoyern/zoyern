@@ -5,8 +5,8 @@
 
 <table>
 <tr>
-<th>Argument</th>
-<th>Description</th>
+<th width="50%">Argument</th >
+<th width="50%">Description</th>
 </tr>
 <tr>
 <td>appDir</td>
