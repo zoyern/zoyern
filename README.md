@@ -1,3 +1,48 @@
+<table align="center">
+  <tr align="center" valign="center" height="150">
+    <!-- | name of main -->
+    <h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
+    <table align="center" valign="center" width="100%" border="1">
+      <!-- | first présentation / bio -->
+      <tr width="100%" align="center" valign="center">
+        <h3 width="100%" align="center" valign="center">HEEEYYYY BRO</h3>
+      </tr>
+      <!-- | path to projects -->
+      <td width="100%" align="center">
+        <!-- Première liste avec wrap -->
+        <a href="#">42</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a>
+      </td>
+    </table>
+  </tr>
+  <!-- Nouveau TD ajouté -->
+  <tr>
+    <td width="100%" align="center">
+      <!-- Deuxième liste avec wrap et 50% -->
+      <a href="#" width="50%">File1</a> <span>|</span>
+      <a href="#" width="50%">File2</a> <span>|</span>
+      <a href="#" width="50%">File3</a> <span>|</span>
+      <a href="#" width="50%">File4</a> <span>|</span>
+      <a href="#" width="50%">File5</a> <span>|</span>
+      <a href="#" width="50%">File6</a> <span>|</span>
+      <a href="#" width="50%">File7</a> <span>|</span>
+      <a href="#" width="50%">File8</a> <span>|</span>
+      <a href="#" width="50%">File9</a> <span>|</span>
+      <a href="#" width="50%">File10</a>
+    </td>
+  </tr>
+</table>
+<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
+
+
 
 <!-- Tableau principal -->
 <table align="center">
