@@ -2,6 +2,20 @@
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
+<table width="100%" border="1" cellspacing="0" cellpadding="5">
+	<tr>
+	  <th width="50%" height="50" align="center" valign="top" colspan="2">En-tête 1 et 2</th>
+	</tr>
+	<tr>
+	  <td width="50%" height="50" align="center" valign="top">Cellule 1</td>
+	  <td width="75%" height="50" align="center" valign="top">Cellule 2</td>
+	</tr>
+	<tr>
+	  <td colspan="2" align="center" valign="bottom">Cellule fusionnée</td>
+	</tr>
+  </table>
+
+
 <table align="center" width="100%" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <!-- Ligne principale -->
   <tr height="100">
