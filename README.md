@@ -8,7 +8,20 @@
   <tr align="center" valign="center" height="150">
     <th colspan="2" style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
-		  <p>coucou</p>
+	<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <a href="#">Libft</a>
+        <a href="#">ft_printf</a>
+        <a href="#">get_next_line</a>
+        <a href="#">Born2beroot</a>
+        <a href="#">push_swap</a>
+        <a href="#">pipex</a>
+        <a href="#">so_long</a>
+        <a href="#">minishell</a>
+        <a href="#">Philosophers</a>
+        <a href="#">cub3d</a>
+        <a href="#">NetPractice</a>
+        <a href="#">cpp</a>
+      </div>
     </th>
   </tr>
   <tr>
