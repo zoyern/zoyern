@@ -7,11 +7,11 @@
 <tr width="100%">
 <th width="50%" height="100">Argument</th >
 <td width="50%" height="100">
-		<tr>
+		<tr width="100%" height="50%">
 			Argument
 		</tr>
-		<td>
-							<div>
+		<td width="100%" height="50%">
+							<div width="100%" height="100%">
 						        <a href="#">Libft</a> <span>|</span>
 						        <a href="#">ft_printf</a> <span>|</span>
 						        <a href="#">get_next_line</a> <span>|</span>
