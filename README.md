@@ -7,7 +7,7 @@
 <tr width="100%">
 <th width="50%" height="100">Argument</th >
 <td width="50%" height="100">
-	<table width="100%" height="100%" >
+	<table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0">
 		<tr width="100%" height="50%">
 			Argument
 		</tr>
