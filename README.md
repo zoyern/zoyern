@@ -1,93 +1,47 @@
 
 <!-- Tableau principal -->
-<table align="center">
-	<tr align="center" valign="center" height="150">
-		<!-- | name of main -->
+<table align="center" border="2">
+		<tr align="center" valign="center" height="150">
+			<!-- | name of main -->
 			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
-			<table align="center" valign="center" width="100%">
+			<table align="center" valign="center" width="100%" border="1">
 				<!-- | first présentation / bio -->
 				<tr width="100%"></tr>
 				<!-- | path to projects -->
 				<td width="100%" align="center">
-					<a width="100%" href="#">42</a>
-					<span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> 
+					<a  href="#">42</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> 
 				</td>
 			</table>
-	</tr>
-			</table>
-			<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
-
-<table align="center" >
-	<tr align="center" valign="center" height="150">
-		<!-- | name of main -->
-			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
-			<table align="center" valign="center" width="100%">
-				<!-- | first présentation / bio -->
-				<tr width="100%"></tr>
-				<!-- | path to projects -->
-				<td width="100%" align="center">
-					<a width="100%" href="#">42</a>
-					<span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> <span>|</span>
-					<a width="100%" href="#">vulksdl</a> 
-				</td>
-			</table>
-	</tr>
-			</table>
+		</tr>
+	</table>
 			<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
 
 
