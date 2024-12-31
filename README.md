@@ -1,64 +1,3 @@
-<h1 align="left"><i>Projects</i></h1>
-<hr>
-
-<!-- Tableau contenant les projets -->
-<table width="100%" cellspacing="0" cellpadding="5">
-  <tr>
-    <td width="100%" align="left" valign="top">
-      <!-- Liste des projets avec séparation | -->
-      <a href="#">42</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a> |
-      <a href="#">vulksdl</a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ###TEST
 <!-- ############################################################# -->
@@ -99,6 +38,10 @@
               <a href="#">Libft</a> | <a href="#">ft_printf</a> | <a href="#">get_next_line</a><br>
               <a href="#">Born2beroot</a> | <a href="#">push_swap</a> | <a href="#">pipex</a><br>
               <a href="#">so_long</a> | <a href="#">minishell</a> | <a href="#">Philosophers</a><br>
+              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
+              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
+              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
+              <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
               <a href="#">cub3d</a> | <a href="#">NetPractice</a> | <a href="#">cpp</a>
             </p>
           </td>
