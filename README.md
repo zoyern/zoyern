@@ -6,7 +6,7 @@
 <table>
 <tr>
 <th width="50%" height="100">Argument</th >
-<th width="50%" height="100">Description</th>
+<td width="50%" height="100">Description</td>
 </tr>
 <tr>
 <td>appDir</td>
