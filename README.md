@@ -5,20 +5,20 @@
 <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <!-- Ligne principale -->
   <tr>
-    <!-- Colonne gauche -->
+    <!-- Colonne gauche prenant 50% -->
     <th width="50%" height="50">Argument</th>
-    <!-- Colonne droite avec tableau imbriqué -->
-    <td width="50%" height="50">
-      <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
+    <!-- Colonne droite avec tableau imbriqué prenant 50% -->
+    <td width="50%" height="50%">
+      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <!-- Ligne titre -->
         <tr>
-          <th width="100%">Argument</th>
+          <th width="100%" height="50%">Argument</th>
         </tr>
         <!-- Ligne liens -->
         <tr>
-          <td width="100%" style="word-wrap: break-word; white-space: normal; overflow: hidden;">
-            <!-- Liste des liens avec retour à la ligne automatique -->
-            <p align="center">
+          <td width="100%" height="50%" style="word-wrap: break-word; white-space: normal; overflow: hidden; text-align: center;">
+            <!-- Liens avec retour à la ligne automatique -->
+            <p>
               <a href="#">Libft</a> | <a href="#">ft_printf</a> | <a href="#">get_next_line</a><br>
               <a href="#">Born2beroot</a> | <a href="#">push_swap</a> | <a href="#">pipex</a><br>
               <a href="#">so_long</a> | <a href="#">minishell</a> | <a href="#">Philosophers</a><br>
@@ -30,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <!-- MAIN TABLE -->
