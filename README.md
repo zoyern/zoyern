@@ -3,7 +3,7 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-<table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
+<table width="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
   <!-- Ligne principale -->
   <tr>
     <!-- Colonne de gauche -->
@@ -11,14 +11,14 @@
     <!-- Colonne de droite -->
     <td width="50%" height="100">
       <!-- Table imbriquée -->
-      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
+      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
         <!-- Ligne titre -->
         <tr>
           <th width="100%" height="50%">Argument</th>
         </tr>
         <!-- Ligne liens -->
         <tr>
-          <td width="100%" height="50%" style="word-wrap: break-word; white-space: normal;">
+          <td width="100%" height="50%" word-wrap="break-word" white-space="normal">
             <!-- Liste des liens -->
             <p align="center">
               <a href="#">Libft</a> <span>|</span>
