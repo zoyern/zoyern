@@ -2,7 +2,7 @@
 <hr>
 
 <!-- Tableau contenant les projets -->
-<table width="100%" border="1" cellspacing="0" cellpadding="5">
+<table width="100%" cellspacing="0" cellpadding="5">
   <tr>
     <td width="100%" align="left" valign="top">
       <!-- Liste des projets avec séparation | -->
@@ -34,6 +34,30 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###TEST
