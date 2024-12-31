@@ -18,10 +18,10 @@
         </tr>
         <!-- Ligne liens -->
         <tr width="100%"> <!-- 2 possible modificator -->
-          <td width="100%" height="50%" word-wrap="break-word" white-space="normal">
+          <td max_width="300" height="50%" word-wrap="break-word" white-space="normal">
             <!-- Liste des liens -->
-            <span style="max-width:150px;">
-		              <a href="#">Libft</a> <span>|</span>
+            <p align="center">
+              <a href="#">Libft</a> <span>|</span>
               <a href="#">ft_printf</a> <span>|</span>
               <a href="#">get_next_line</a> <span>|</span>
               <a href="#">Born2beroot</a> <span>|</span>
@@ -32,8 +32,8 @@
               <a href="#">Philosophers</a> <span>|</span>
               <a href="#">cub3d</a> <span>|</span>
               <a href="#">NetPractice</a> <span>|</span>
-              <a href="#">cpp</a>    
-	    </span>
+              <a href="#">cpp</a>
+            </p>
           </td>
         </tr>
       </table>
