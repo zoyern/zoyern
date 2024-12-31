@@ -43,7 +43,6 @@
 		</tr>
 				<tr align="center" valign="center" height="150">
 			<!-- | name of main -->
-			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
 			<table align="center" valign="center" width="100%" border="1">
 				<!-- | first présentation / bio -->
 				<tr width="100%" align="center" valign="center"><h3 width="100%" align="center" valign="center" >HEEEYYYY BRO</h3></tr>
