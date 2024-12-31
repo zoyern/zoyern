@@ -17,8 +17,8 @@
           <th width="20" height="20">Argument</th>
         </tr>
         <!-- Ligne liens -->
-        <tr width="50%"> <!-- 2 possible modificator -->
-          <td width="50%" word-wrap="break-word" white-space="normal">
+        <tr width="600"> <!-- 2 possible modificator -->
+          <td width="600" word-wrap="break-word" white-space="normal">
             <!-- Liste des liens -->
             <p align="center">
               <a href="#">Libft</a> <span>|</span>
