@@ -7,7 +7,6 @@
 <tr width="100%">
 <th width="50%" height="100">Argument</th >
 <td width="50%" height="100">
-	<table height="100">
 		<tr>
 			Argument
 		</tr>
@@ -27,7 +26,6 @@
 						        <a href="#">cpp</a>
 						      </div>
 		</td>
-	</table>
 </td>
 </tr>
 <tr>
