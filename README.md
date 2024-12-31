@@ -5,20 +5,20 @@
 
 <table width="300" border="1" cellspacing="0" cellpadding="0">
   <!-- Ligne principale -->
-  <tr width="100%">
-    <th width="50%" height="100">Argument</th>
+  <tr width="300">
+    <th width="300" height="100">Argument</th>
     <!-- Cellule pour la table imbriquée -->
-    <td width="50%" height="100">
+    <td width="300" height="100">
       <!-- Table imbriquée -->
       <table width="300" height="100%" border="1" cellspacing="0" cellpadding="0">
-        <tr width="100%" height="50%">
+        <tr width="300" height="50%">
           <th colspan="1" height="50%">Argument</th>
         </tr>
         <tr>
           <!-- Cellule pour les liens -->
-          <td width="100%" height="50%">
+          <td width="300" height="50%">
             <!-- Liste des liens avec retour à la ligne automatique -->
-            <p align="center">
+            <p align="center" width="300">
               <a href="#">Libft</a> <span>|</span>
               <a href="#">ft_printf</a> <span>|</span>
               <a href="#">get_next_line</a> <span>|</span>
