@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <!-- LEFT COLUMN -->
-    <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+    <td valign="top" align="center" width="50%" style="width: 50%; padding: 10px; box-sizing: border-box;">
       <p align="center">
         <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
       </p>
@@ -57,7 +57,7 @@
       </div>
     </td>
     <!-- RIGHT COLUMN -->
-    <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
+    <td valign="top" align="center" width="50%" style="width: 50%; padding: 10px; box-sizing: border-box;">
       <p align="center">
         <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
       </p>
