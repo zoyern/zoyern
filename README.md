@@ -2,7 +2,7 @@
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
-<p align="center" style="padding: 0; margin: 0;" width="100%">
+<p align="center" style="padding: 0; margin: 0;" width="1000">
 <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <!-- Ligne principale -->
   <tr width="100%">
