@@ -48,35 +48,16 @@
 				<tr width="100%" align="center" valign="center"><h3 width="100%" align="center" valign="center" >HEEEYYYY BRO</h3></tr>
 				<!-- | path to projects -->
 				<td width="100%" align="center">
-					<a  href="#">42</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> <span>|</span>
-					<a  href="#">vulksdl</a> 
+					      <a href="#" width="50%">File1</a> <span>|</span>
+					      <a href="#" width="50%">File2</a> <span>|</span>
+					      <a href="#" width="50%">File3</a> <span>|</span>
+					      <a href="#" width="50%">File4</a> <span>|</span>
+					      <a href="#" width="50%">File5</a> <span>|</span>
+					      <a href="#" width="50%">File6</a> <span>|</span>
+					      <a href="#" width="50%">File7</a> <span>|</span>
+					      <a href="#" width="50%">File8</a> <span>|</span>
+					      <a href="#" width="50%">File9</a> <span>|</span>
+					      <a href="#" width="50%">File10</a>
 				</td>
 			</table>
 		</tr>
