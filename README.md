@@ -7,9 +7,9 @@
   <!-- Ligne principale -->
   <tr>
     <!-- Colonne de gauche -->
-    <th width="100%" height="100">Argument</th>
+    <th width="50%" height="100">Argument</th>
     <!-- Colonne de droite -->
-    <td width="100%" height="100">
+    <td width="50%" height="100">
       <!-- Table imbriquée -->
       <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
         <!-- Ligne titre -->
