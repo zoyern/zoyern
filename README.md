@@ -6,12 +6,12 @@
   <!-- Ligne principale -->
   <tr height="100">
     <!-- Colonne gauche (Argument) -->
-    <th width="50%" height="100" valign="top"">Argument</th>
     <!-- Colonne droite avec tableau imbriqué -->
     <td width="50%" height="100" valign="top">
       <!-- Table imbriquée -->
       <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <!-- Ligne titre -->
+	<th width="50%" height="100" valign="top"">Argument</th>
         <tr height="20%">
           <th width="100%" height="50" valign="top">Argument</th>
         </tr>
