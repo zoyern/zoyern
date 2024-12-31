@@ -4,7 +4,7 @@
 <!-- ------------------------------------------------------------- -->
 <table align="center" width="100" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <!-- Ligne principale -->
-  <tr height="50%">
+  <tr height="100">
     <!-- Colonne gauche (Argument) -->
     <th width="50%" height="100%" style="vertical-align: top;">Argument</th>
     <!-- Colonne droite avec tableau imbriqué -->
