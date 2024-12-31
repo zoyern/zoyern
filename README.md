@@ -4,32 +4,39 @@
 <!-- ------------------------------------------------------------- -->
 
 <table width="100%" border="1" cellspacing="0" cellpadding="0">
-<tr width="100%">
-<th width="50%" height="100">Argument</th >
-<td width="50%" height="100">
-	<table width="100%" height="100%" border="2" cellspacing="0" cellpadding="0">
-		<tr width="100%" height="50%">
-			Argument
-		</tr>
-		<td width="100%" height="50%">
-							<div width="100%" height="100%">
-						        <a href="#">Libft</a> <span>|</span>
-						        <a href="#">ft_printf</a> <span>|</span>
-						        <a href="#">get_next_line</a> <span>|</span>
-						        <a href="#">Born2beroot</a> <span>|</span>
-						        <a href="#">push_swap</a> <span>|</span>
-						        <a href="#">pipex</a> <span>|</span>
-						        <a href="#">so_long</a> <span>|</span>
-						        <a href="#">minishell</a> <span>|</span>
-						        <a href="#">Philosophers</a> <span>|</span>
-						        <a href="#">cub3d</a> <span>|</span>
-						        <a href="#">NetPractice</a> <span>|</span>
-						        <a href="#">cpp</a>
-						      </div>
-		</td>
-	</table>
-</td>
-</tr>
+  <!-- Ligne principale -->
+  <tr width="100%">
+    <th width="50%" height="100">Argument</th>
+    <!-- Cellule pour la table imbriquée -->
+    <td width="50%" height="100">
+      <!-- Table imbriquée -->
+      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0">
+        <tr width="100%" height="50%">
+          <th colspan="1" height="50%">Argument</th>
+        </tr>
+        <tr>
+          <!-- Cellule pour les liens -->
+          <td width="100%" height="50%">
+            <!-- Liste des liens avec retour à la ligne automatique -->
+            <p align="center">
+              <a href="#">Libft</a> <span>|</span>
+              <a href="#">ft_printf</a> <span>|</span>
+              <a href="#">get_next_line</a> <span>|</span>
+              <a href="#">Born2beroot</a> <span>|</span>
+              <a href="#">push_swap</a> <span>|</span>
+              <a href="#">pipex</a> <span>|</span>
+              <a href="#">so_long</a> <span>|</span>
+              <a href="#">minishell</a> <span>|</span>
+              <a href="#">Philosophers</a> <span>|</span>
+              <a href="#">cub3d</a> <span>|</span>
+              <a href="#">NetPractice</a> <span>|</span>
+              <a href="#">cpp</a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 <tr>
 <td>appDir</td>
 <td>The top level directory that contains your app. If this option is used then
