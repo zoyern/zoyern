@@ -1,77 +1,4 @@
-<!-- HEADER -->
-<p align="center">
-	<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" align="left">
-	<h1 align="left">Hi, I'm Zoyern, and these are my projects.</h1>
-</p>
-
-<p align="center" style="padding: 0; margin: 0;">
-	<img src="https://i.pinimg.com/originals/00/f1/92/00f192e41351c603ddc715188a487cf5.gif" width="100%" height="300">
-</p>
-
-<hr style="height: 5px; border-width: 0; background-color: dark;">
-
-<!-- MAIN TABLE -->
-<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse; overflow: hidden;">
-	<tr align="center" valign="center" height="150">
-		<th colspan="2" style="width: 100%;">
-			<h1><b><i>Projects</i></b></h1>
-		</th>
-	</tr>
-	<tr>
-		<!-- LEFT COLUMN -->
-		<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
-			<p align="center">
-				<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
-			</p>
-			<table style="width: 100%; table-layout: fixed;">
-				<tr align="center" height="150">
-					<th style="height: 150;"><a href="#">42</a></th>
-					<td style="width: 100%; padding: 10px;">
-						<table style="width: 100%; table-layout: fixed;">
-							<!-- Project description -->
-							<tr align="center">
-								<p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
-							</tr>
-							<!-- Files -->
-							<td style="width: 100%; word-wrap: break-word; white-space: normal;">
-								<a href="#">Libft</a> <span>|</span>
-								<a href="#">ft_printf</a> <span>|</span>
-								<a href="#">get_next_line</a> <span>|</span>
-								<a href="#">Born2beroot</a> <span>|</span>
-								<a href="#">push_swap</a> <span>|</span>
-								<a href="#">pipex</a> <span>|</span>
-								<a href="#">so_long</a> <span>|</span>
-								<a href="#">minishell</a> <span>|</span>
-								<a href="#">Philosophers</a> <span>|</span>
-								<a href="#">cub3d</a> <span>|</span>
-								<a href="#">NetPractice</a> <span>|</span>
-								<a href="#">cpp</a>
-							</td>
-						</table>
-					</td>
-				</tr>
-			</table>
-		</td>
-		<!-- RIGHT COLUMN -->
-		<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
-			<p align="center">
-				<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10">
-			</p>
-			<table style="width: 100%; table-layout: fixed;">
-				<tr align="center" height="150">
-					<th style="height: 150;"><a href="#">vulksdl</a></th>
-					<td style="width: 100%; padding: 10px;">
-						<p><b><i>A simple setup for creating Vulkan and SDL2 apps.</i></b></p>
-						<a href="#">Makefile</a> <span>|</span>
-						<a href="#">settings</a>
-					</td>
-				</tr>
-			</table>
-		</td>
-	</tr>
-</table>
-
-
+###TEST
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
@@ -79,10 +6,9 @@
 <!-- MAIN TABLE -->
 <table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr align="center" valign="center" height="150">
-    <th style="width: 100%;">
+    <th colspan="2" style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
     </th>
-	coucou
   </tr>
   <tr>
     <!-- LEFT COLUMN -->
@@ -92,7 +18,7 @@
       </p>
       <!-- Project details -->
       <p><b><i>A project created as part of my studies at 42 Paris</i></b></p>
-      <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <a href="#">Libft</a>
         <a href="#">ft_printf</a>
         <a href="#">get_next_line</a>
@@ -105,7 +31,7 @@
         <a href="#">cub3d</a>
         <a href="#">NetPractice</a>
         <a href="#">cpp</a>
-      </td>
+      </div>
     </td>
     <!-- RIGHT COLUMN -->
     <td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
@@ -120,22 +46,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- ############################################################# -->
 <!--                                HEADER                         -->
