@@ -13,12 +13,12 @@
       <!-- Table imbriquée -->
       <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
         <!-- Ligne titre -->
-        <tr height="20" width="20">  <!-- 1 possible modificator -->
-          <th width="20" height="20">Argument</th>
+        <tr width="300" height="50%">  <!-- 1 possible modificator -->
+          <th width="300">Argument</th>
         </tr>
         <!-- Ligne liens -->
-        <tr width="900"> <!-- 2 possible modificator -->
-          <td width="900" word-wrap="break-word" white-space="normal">
+        <tr width="20" height="50%"> <!-- 2 possible modificator -->
+          <td width="20" word-wrap="break-word" white-space="normal">
             <!-- Liste des liens -->
             <p align="center">
               <a href="#">Libft</a> <span>|</span>
