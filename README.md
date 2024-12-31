@@ -13,8 +13,8 @@
       <!-- Table imbriquée -->
       <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
         <!-- Ligne titre -->
-        <tr height="300" width="300">  <!-- 1 possible modificator -->
-          <th width="300" height="300">Argument</th>
+        <tr height="20" width="20">  <!-- 1 possible modificator -->
+          <th width="20" height="20">Argument</th>
         </tr>
         <!-- Ligne liens -->
         <tr width="1%"> <!-- 2 possible modificator -->
