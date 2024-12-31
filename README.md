@@ -10,7 +10,7 @@
     <!-- Cellule pour la table imbriquée -->
     <td width="50%" height="100">
       <!-- Table imbriquée -->
-      <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0">
+      <table width="300" height="100%" border="1" cellspacing="0" cellpadding="0">
         <tr width="100%" height="50%">
           <th colspan="1" height="50%">Argument</th>
         </tr>
