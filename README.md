@@ -9,7 +9,7 @@
     <!-- Colonne de gauche -->
     <th width="894" height="100">Argument</th>
     <!-- Colonne de droite -->
-    <td width="50%" height="100">
+    <td width="894" height="100">
       <!-- Table imbriquée -->
       <table width="894" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
         <!-- Ligne titre -->
