@@ -1,3 +1,74 @@
+<!-- Tableau principal -->
+<table align="center" width="100%" border="1" cellspacing="0" cellpadding="5">
+  <!-- Première section : Projects -->
+  <tr align="center" valign="center" height="150">
+    <!-- | En-tête -->
+    <h1 align="center" valign="center"><b><i>Projects</i></b></h1>
+    <table align="center" valign="center" width="100%" border="1">
+      <!-- | Présentation / bio -->
+      <tr width="100%" align="center" valign="center">
+        <h3 width="100%" align="center" valign="center">Alls</h3>
+      </tr>
+      <!-- | Liste des projets -->
+      <td width="100%" align="center">
+        <a href="#">42</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a> <span>|</span>
+        <a href="#">vulksdl</a>
+      </td>
+    </table>
+  </tr>
+
+  <!-- Deuxième section : Canvas -->
+  <tr align="center" valign="center" height="150">
+    <!-- | En-tête -->
+    <table align="center" valign="center" width="100%" border="1">
+      <!-- | Présentation / bio -->
+      <tr width="100%" align="center" valign="center">
+        <h3 width="100%" align="center" valign="center">Canvas</h3>
+      </tr>
+      <!-- | Colonnes organisées -->
+      <td width="100%" align="center">
+        <table width="100%" border="1" cellspacing="0" cellpadding="5">
+          <tr>
+            <!-- Ligne 1 -->
+            <td align="center" valign="top" width="50%">Colonne 1</td>
+            <td align="center" valign="top" width="50%">Colonne 2</td>
+          </tr>
+          <tr>
+            <!-- Ligne 2 -->
+            <td align="center" valign="top" width="50%">Colonne 3</td>
+            <td align="center" valign="top" width="50%">Colonne 4</td>
+          </tr>
+          <tr>
+            <!-- Ligne 3 -->
+            <td align="center" valign="top" width="50%">Colonne 5</td>
+            <td align="center" valign="top" width="50%">Colonne 6</td>
+          </tr>
+          <tr>
+            <!-- Ligne 4 -->
+            <td align="center" valign="top" width="50%">Colonne 7</td>
+            <td align="center" valign="top" width="50%">Colonne 8</td>
+          </tr>
+          <tr>
+            <!-- Ligne 5 -->
+            <td align="center" valign="top" width="50%">Colonne 9</td>
+            <td align="center" valign="top" width="50%">Colonne 10</td>
+          </tr>
+        </table>
+      </td>
+    </table>
+  </tr>
+</table>
+
+<!-- Ligne de séparation -->
+<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
 
 <!-- Tableau principal -->
 <table align="center">
