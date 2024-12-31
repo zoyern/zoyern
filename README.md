@@ -10,7 +10,6 @@
 		  <td colspan="2" align="center" valign="top">
 			<!-- Titre "Projects" centré -->
 			<h1 align="center"><b><i>Projects</i></b></h1>
-			<hr>
 			<!-- Tableau pour la liste des projets -->
 			<table width="100%" border="1" cellspacing="0" cellpadding="5">
 			  <tr>
