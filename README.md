@@ -8,7 +8,7 @@
 				<!-- | first présentation / bio -->
 				<tr width="100%"></tr>
 				<!-- | path to projects -->
-				<td width="100%">
+				<td width="100%" align="center">
 					<a width="100%" href="#">42</a>
 					<span>|</span>
 					<a width="100%" href="#">vulksdl</a> <span>|</span>
