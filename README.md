@@ -3,15 +3,15 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-<table width="894" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
+<table width="300" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
   <!-- Ligne principale -->
   <tr>
     <!-- Colonne de gauche -->
-    <th width="894" height="100">Argument</th>
+    <th width="300" height="100">Argument</th>
     <!-- Colonne de droite -->
-    <td width="894" height="100">
+    <td width="300" height="100">
       <!-- Table imbriquée -->
-      <table width="894" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
+      <table width="300" height="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
         <!-- Ligne titre -->
         <tr>
           <th width="100%" height="50%">Argument</th>
