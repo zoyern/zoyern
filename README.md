@@ -1,60 +1,47 @@
-<table align="center">
-  <tr align="center" valign="center" height="150">
-    <!-- | name of main -->
-    <h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
-    <table align="center" valign="center" width="100%" border="1">
-      <!-- | first présentation / bio -->
-      <tr width="100%" align="center" valign="center">
-        <h3 width="100%" align="center" valign="center">alls</h3>
-      </tr>
-      <!-- | path to projects -->
-      <td width="100%" align="center">
-        <!-- Première liste avec wrap -->
-        <a href="#">42</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a>
-      </td>
-    </table>
-  </tr>
-  <!-- Nouveau TD ajouté -->
-  <tr align="center" valign="center" height="150">
-    <table align="center" valign="center" width="100%" border="1">
-      <!-- | first présentation / bio -->
-      <tr width="100%" align="center" valign="center">
-	<!-- | name of main -->
-        <h3 width="100%" align="center" valign="center">Canvas</h3>
-      </tr>
-      <!-- | path to projects -->
-      <td width="100%" align="center">
-        <!-- Première liste avec wrap -->
-        <a href="#">42</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a> <span>|</span>
-        <a href="#">vulksdl</a>
-      </td>
-    </table>
-  </tr>
-</table>
-<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
-
-
 
 <!-- Tableau principal -->
 <table align="center">
 		<tr align="center" valign="center" height="150">
+			<!-- | name of main -->
+			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
+			<table align="center" valign="center" width="100%" border="1">
+				<!-- | first présentation / bio -->
+				<tr width="100%" align="center" valign="center"><h3 width="100%" align="center" valign="center" >HEEEYYYY BRO</h3></tr>
+				<!-- | path to projects -->
+				<td width="100%" align="center">
+					<a  href="#">42</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> <span>|</span>
+					<a  href="#">vulksdl</a> 
+				</td>
+			</table>
+		</tr>
+				<tr align="center" valign="center" height="150">
 			<!-- | name of main -->
 			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
 			<table align="center" valign="center" width="100%" border="1">
