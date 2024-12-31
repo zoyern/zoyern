@@ -45,7 +45,7 @@
 			</table>
 			<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10"></p>
 
-<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+<table align="center" >
 	<tr align="center" valign="center" height="150">
 		<!-- | name of main -->
 			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
