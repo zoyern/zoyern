@@ -4,7 +4,114 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-
+<table width="100%" border="1" cellspacing="0" cellpadding="5">
+		<!-- En-tête avec "Projects" centré et liste -->
+		<tr height="50%">
+		  <td colspan="2" align="center" valign="top">
+			<!-- Titre "Projects" centré -->
+			<h1 align="center"><b><i>Projects</i></b></h1>
+			<hr>
+			<!-- Tableau pour la liste des projets -->
+			<table width="100%" border="1" cellspacing="0" cellpadding="5">
+			  <tr>
+				<td align="center" valign="top">
+				  <!-- Liste des projets avec séparateurs -->
+				  <a href="#">42</a> <span>|</span>
+				  <a href="#">vulksdl</a> <span>|</span>
+				  <a href="#">vulksdl</a> <span>|</span>
+				  <a href="#">vulksdl</a> <span>|</span>
+				  <a href="#">vulksdl</a> <span>|</span>
+				  <a href="#">vulksdl</a> <span>|</span>
+				  <a href="#">vulksdl</a>
+				</td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<!-- Ligne 1 : Colonne 1 et 2 -->
+		<tr>
+		  <!-- Colonne 1 -->
+		  <td width="50%" valign="top">
+			<table width="100%" border="1" cellspacing="0" cellpadding="5">
+			  <tr>
+				<th align="center">Colonne 1</th>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top">
+				  Texte A Texte A Texte A Texte A Texte A Texte A<br>
+				  Texte B<br>
+				  Texte C<br>
+				</td>
+			  </tr>
+			</table>
+		  </td>
+		  <!-- Colonne 2 -->
+		  <td width="50%" valign="top">
+			<table width="100%" border="1" cellspacing="0" cellpadding="5">
+			  <tr>
+				<th align="center">Colonne 2</th>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top">
+				  Texte 1 Texte 1 Texte 1 Texte 1 Texte 1 Texte 1<br>
+				  Texte 2<br>
+				  Texte 3<br>
+				</td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<!-- Ligne 2 : Colonne 3 et 4 -->
+		<tr>
+		  <!-- Colonne 3 -->
+		  <td width="50%" valign="top">
+			<table width="100%" border="1" cellspacing="0" cellpadding="5">
+			  <tr>
+				<th align="center">Colonne 3</th>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top">
+				  Texte X Texte X Texte X Texte X Texte X Texte X<br>
+				  Texte Y<br>
+				  Texte Z<br>
+				</td>
+			  </tr>
+			</table>
+		  </td>
+		  <!-- Colonne 4 -->
+		  <td width="50%" valign="top">
+			<table width="100%" border="1" cellspacing="0" cellpadding="5">
+			  <tr>
+				<th align="center">Colonne 4</th>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top">
+				  Texte M Texte M Texte M Texte M Texte M Texte M<br>
+				  Texte N<br>
+				  Texte O<br>
+				</td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<!-- Ligne 3 : Colonne 5 seule -->
+		<tr>
+		  <td colspan="2" valign="top">
+			<table width="100%" border="1" cellspacing="0" cellpadding="5">
+			  <tr>
+				<th align="center">Colonne 5</th>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top">
+				  Texte P Texte P Texte P Texte P Texte P Texte P<br>
+				  Texte Q<br>
+				  Texte R<br>
+				</td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+	  </table>
 
 <!-- MAIN TABLE -->
 <table align="center" width="100%" table-layout="fixed" border-collapse="collapse">
