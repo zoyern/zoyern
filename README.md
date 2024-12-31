@@ -3,7 +3,7 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-<table width="100%" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
+<table width="894" border="1" cellspacing="0" cellpadding="0" table-layout="fixed">
   <!-- Ligne principale -->
   <tr>
     <!-- Colonne de gauche -->
