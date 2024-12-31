@@ -2,23 +2,23 @@
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
-<p align="center" style="padding: 0; margin: 0;" width="1000">
 <table width="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <!-- Ligne principale -->
-  <tr width="100%">
-    <!-- Colonne gauche prenant 50% -->
-    <th width="50%" height="50">Argument</th>
-    <!-- Colonne droite avec tableau imbriqué prenant 50% -->
-    <td width="50%" height="50%">
+  <tr>
+    <!-- Colonne gauche (Argument) -->
+    <th width="50%" height="100" style="vertical-align: top;">Argument</th>
+    <!-- Colonne droite avec tableau imbriqué -->
+    <td width="50%" height="100" style="vertical-align: top;">
+      <!-- Table imbriquée -->
       <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
         <!-- Ligne titre -->
         <tr>
-          <th width="100%" height="50%">Argument</th>
+          <th width="100%" height="50" style="vertical-align: top;">Argument</th>
         </tr>
         <!-- Ligne liens -->
         <tr>
-          <td width="100%" height="50%" style="word-wrap: break-word; white-space: normal; overflow: hidden; text-align: center;">
-            <!-- Liens avec retour à la ligne automatique -->
+          <td width="100%" height="50" style="word-wrap: break-word; white-space: normal; overflow: hidden; text-align: center;">
+            <!-- Liste des liens avec retour à la ligne -->
             <p>
               <a href="#">Libft</a> | <a href="#">ft_printf</a> | <a href="#">get_next_line</a><br>
               <a href="#">Born2beroot</a> | <a href="#">push_swap</a> | <a href="#">pipex</a><br>
@@ -31,7 +31,7 @@
     </td>
   </tr>
 </table>
-</p>
+
 
 
 
