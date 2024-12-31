@@ -1,4 +1,48 @@
 
+<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+	<tr align="center"  valign="center" height="150">
+		<!-- | name of main -->
+			<h1><b><i>Projects<i/><b/></h1>
+			<table align="center" valign="center" width="100%">
+				<!-- | first présentation / bio -->
+				<tr width="100%"></tr>
+				<!-- | path to projects -->
+				<td width="100%">
+					<a width="100%" href="#">42</a>
+					<span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> <span>|</span>
+					<a width="100%" href="#">vulksdl</a> 
+				</td>
+			</table>
+	</tr>
+			</table>
+
 ###TEST
 <!-- ############################################################# -->
 <!--                                TEST                         -->
