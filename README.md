@@ -7,7 +7,7 @@
 <tr>
 <th width="50%" height="100">Argument</th >
 <td width="50%" height="100">
-	<table>
+	<table width="100%" height="100">
 		<tr>
 			Argument
 		</tr>
