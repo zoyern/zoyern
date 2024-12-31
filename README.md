@@ -3,12 +3,12 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-<table width="100%" border="1" cellspacing="0" cellpadding="0">
+<table width="300" border="1" cellspacing="0" cellpadding="0">
   <!-- Ligne principale -->
   <tr width="100%">
     <th width="50%" height="100">Argument</th>
     <!-- Cellule pour la table imbriquée -->
-    <td width="300" height="100">
+    <td width="50%" height="100">
       <!-- Table imbriquée -->
       <table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0">
         <tr width="100%" height="50%">
