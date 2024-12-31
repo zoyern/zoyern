@@ -17,7 +17,7 @@
           <th width="100%" height="50%">Argument</th>
         </tr>
         <!-- Ligne liens -->
-        <tr width="100%">
+        <tr width="300">
           <td width="100%" height="50%" word-wrap="break-word" white-space="normal">
             <!-- Liste des liens -->
             <p align="center">
