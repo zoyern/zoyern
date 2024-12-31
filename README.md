@@ -2,7 +2,7 @@
 <!-- ############################################################# -->
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
-<table width="100%" height="100%" border="1" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
+<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <!-- Ligne principale -->
   <tr height="50%">
     <!-- Colonne gauche (Argument) -->
