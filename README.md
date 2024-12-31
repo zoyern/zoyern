@@ -36,7 +36,7 @@ bundles will be included unless the locale: section is set above.</td>
 </table>
 
 <!-- MAIN TABLE -->
-<table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+<table align="center" width="100%" table-layout="fixed" border-collapse="collapse">
   <tr align="center" valign="center" height="150">
     <th colspan="2" style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
@@ -46,7 +46,7 @@ bundles will be included unless the locale: section is set above.</td>
 							<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
 						</tr>
 						<!-- | files -->
-						      <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+						      <td display="flex" flex-wrap="wrap" gap="10px" justify-content="center">
 							<div display="flex" flex-wrap="wrap" gap="10px" justify-content="center">
 						        <a href="#">Libft</a> <span>|</span>
 						        <a href="#">ft_printf</a> <span>|</span>
@@ -188,10 +188,7 @@ bundles will be included unless the locale: section is set above.</td>
 <table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
 	<tr align="center"  valign="center" height="150">
 		<!-- | name of main -->
-		<th colspan="2" style="width: 100%;">
 			<h1><b><i>Projects<i/><b/></h1>
-		</th>
-		<td width="100%">
 			<table align="center" valign="center" width="100%">
 				<!-- | first présentation / bio -->
 				<tr width="100%"></tr>
@@ -202,7 +199,6 @@ bundles will be included unless the locale: section is set above.</td>
 					<a width="100%" href="#">vulksdl</a> 
 				</td>
 			</table>
-		</td>
 	</tr>
 	<!-- | Left collumn ------------------------------------------------------------------------------------->
 	<td valign="top" align="center" style="width: 50%; padding: 10px; box-sizing: border-box;">
