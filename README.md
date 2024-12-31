@@ -6,7 +6,7 @@
   <!-- Ligne principale -->
   <tr height="100">
     <!-- Colonne gauche (Argument) -->
-    <th width="50%" height="100%" style="vertical-align: top;">Argument</th>
+    <th width="100%" height="100%" style="vertical-align: top;">Argument</th>
     <!-- Colonne droite avec tableau imbriqué -->
     <td width="100%" height="100%" style="vertical-align: top;">
       <!-- Table imbriquée -->
