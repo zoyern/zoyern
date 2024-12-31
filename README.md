@@ -8,7 +8,7 @@
     <th style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
     </th>
-	<td>coucou</td>
+	coucou
   </tr>
   <tr>
     <!-- LEFT COLUMN -->
