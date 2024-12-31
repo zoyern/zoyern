@@ -1,8 +1,8 @@
 
 <table align="center" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-	<tr align="center"  valign="center" height="150">
+	<tr align="center" valign="center" height="150">
 		<!-- | name of main -->
-			<h1><b><i>Projects<i/><b/></h1>
+			<h1 align="center" valign="center"><b><i>Projects<i/><b/></h1>
 			<table align="center" valign="center" width="100%">
 				<!-- | first présentation / bio -->
 				<tr width="100%"></tr>
