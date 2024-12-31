@@ -8,7 +8,7 @@
   <tr align="center" valign="center" height="150">
     <th colspan="2" style="width: 100%;">
       <h1><b><i>Projects</i></b></h1>
-		  <td><p>coucou</p></td>
+		  <p>coucou</p>
     </th>
   </tr>
   <tr>
