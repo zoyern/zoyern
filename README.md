@@ -1,7 +1,7 @@
 <!-- Tableau principal -->
 <table align="center" width="100%" border="1" cellspacing="0" cellpadding="5">
   <!-- Première section : Projects -->
-  <tr align="center" valign="center" height="150">
+  <tr width="100%" align="center" valign="center" height="150">
     <!-- | En-tête -->
     <h1 align="center" valign="center"><b><i>Projects</i></b></h1>
     <table align="center" valign="center" width="100%" border="1">
