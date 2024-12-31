@@ -3,7 +3,7 @@
 <!--                                TEST                         -->
 <!-- ------------------------------------------------------------- -->
 
-<table width="300" border="1" cellspacing="0" cellpadding="0">
+<table width="600" border="1" cellspacing="0" cellpadding="0">
   <!-- Ligne principale -->
   <tr width="100%">
     <th width="50%" height="100">Argument</th>
