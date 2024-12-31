@@ -15,6 +15,7 @@
 						</tr>
 						<!-- | files -->
 						      <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+							<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 						        <a href="#">Libft</a> <span>|</span>
 						        <a href="#">ft_printf</a> <span>|</span>
 						        <a href="#">get_next_line</a> <span>|</span>
@@ -27,22 +28,9 @@
 						        <a href="#">cub3d</a> <span>|</span>
 						        <a href="#">NetPractice</a> <span>|</span>
 						        <a href="#">cpp</a>
+						      </div>
 						      </td>
 					</table>
-	<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-        <a href="#">Libft</a>
-        <a href="#">ft_printf</a>
-        <a href="#">get_next_line</a>
-        <a href="#">Born2beroot</a>
-        <a href="#">push_swap</a>
-        <a href="#">pipex</a>
-        <a href="#">so_long</a>
-        <a href="#">minishell</a>
-        <a href="#">Philosophers</a>
-        <a href="#">cub3d</a>
-        <a href="#">NetPractice</a>
-        <a href="#">cpp</a>
-      </div>
     </th>
   </tr>
   <tr>
