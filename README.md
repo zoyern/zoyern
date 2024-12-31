@@ -14,8 +14,8 @@
 							<p><b><i>A project created as part of my studies at 42 Paris<b/><i/></p>
 						</tr>
 						<!-- | files -->
-						      <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+	<td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <a href="#">Libft</a>
         <a href="#">ft_printf</a>
         <a href="#">get_next_line</a>
@@ -28,8 +28,8 @@
         <a href="#">cub3d</a>
         <a href="#">NetPractice</a>
         <a href="#">cpp</a>
+								      </td>
       </div>
-						      </td>
 					</table>
   </tr>
   <tr>
