@@ -1,22 +1,24 @@
-<!-- Prénom à droite du README -->
+<!-- Prénom à droite hors de la table -->
 <p align="right"><b>Alexis Mounib</b></p>
 
-<!-- Navbar et icônes en haut à gauche -->
-<table border="0" cellpadding="0" cellspacing="0">
+<!-- Table principale -->
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px; width:100%;">
+
+  <!-- Navbar avec icônes en haut à gauche -->
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon1.gif" height="30">&nbsp;&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon2.gif" height="30">&nbsp;&nbsp;&nbsp;
+    <td colspan="1" align="left" style="padding: 5px;">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon1.gif" height="30">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon2.gif" height="30">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon3.gif" height="30">
     </td>
   </tr>
-</table>
 
-<!-- Séparateur full width -->
-<img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="100%" height="10">
-
-<!-- Table principale centrée -->
-<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px; width:100%;">
+  <!-- Séparateur full width -->
+  <tr>
+    <td colspan="1">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="100%" height="10">
+    </td>
+  </tr>
 
   <!-- Welcome message -->
   <tr>
