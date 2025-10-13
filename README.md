@@ -8,6 +8,7 @@
   <tr>
     <td colspan="1" align="left" style="padding: 5px;">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;
+      <br>
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">
     </td>
