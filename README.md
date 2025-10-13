@@ -77,17 +77,17 @@
   <td colspan="3" align="center">
     <b>Projects</b><br><br>
     <!-- Badges -->
-    <span style="display:inline-block; min-width:20px;"></span>
-    <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+    <span"></span>
+    <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+    </a>
+    <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+    </a>
+    <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+    </a>
+    <a href="https://github.com/zoyern/42_school_projects" >
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
     </a>
     <span style="display:inline-block; min-width:20px;"></span>
