@@ -13,7 +13,6 @@
           <td align="left">
             <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="40">
           </td>
-
           <!-- Bouton center -->
           <td align="center">
             <span style="
@@ -27,7 +26,6 @@
               text-align: center;
             ">⇄</span>
           </td>
-
           <!-- Bouton tout à droite -->
           <td align="right">
             <span style="
@@ -42,7 +40,6 @@
             ">⚙</span>
           </td>
         </tr>
-
         <!-- Bouton left (si tu veux séparé du icon) -->
         <tr>
           <td align="left">
