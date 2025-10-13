@@ -1,145 +1,72 @@
-<div
-  style="
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    border-left: 2px solid #ddd;
-    border-right: 2px solid #ddd;
-    border-bottom: 2px solid #ddd;
-    border-radius: 4px;
-    box-sizing: border-box;
-    padding-bottom: 20px;
-    padding-top: 5px;
-  "
->
-  <!---------------------------------------->
-  <!-- Titre                              -->
-  <!---------------------------------------->
-  <b>Alexis Mounib</b>
-  <!---------------------------------------->
-  <!-- Navbar                             -->
-  <!---------------------------------------->
-  <div
-    style="
-      text-align: center;
-      width: 100%;
-      border-bottom: 1px dashed #ddd;
-      border-radius: 2px;
-      box-sizing: border-box;
-      padding-bottom: 20px;
-    "
-  >
-    <img
-      src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif"
-      height="40"
-      align="left"
-    />
-    <div
-      style="
-        display: flex;
-        justify-content: space-between;
-        gap: 6px;
-        margin-top: 10px;
-        width: 100%;
-      "
-    >
-      <span
-        style="
-          display: inline-block;
-          padding: 4px 4px 4px 4px;
-          border-radius: 2px;
-          background: #444;
-          color: #fff;
-          width: 10%;
-          height: 10%;
-        "
-        >↩</span
-      >
-      <span
-        style="
-          display: inline-block;
-          padding: 4px 8px;
-          border-radius: 2px;
-          background: #666;
-          color: #fff;
-          width: 10%;
-          height: 10%;
-        "
-        >⇄</span
-      >
-      <span
-        style="
-          display: inline-block;
-          padding: 4px 8px;
-          border-radius: 2px;
-          background: #888;
-          color: #fff;
-          width: 10%;
-          height: 10%;
-        "
-        >⚙</span
-      >
-    </div>
-  </div>
-  <!---------------------------------------->
-  <!-- Titre de page                      -->
-  <!---------------------------------------->
-  <span
-    style="
-      display: inline-block;
-      margin: 18px 0 14px 0;
-      padding: 10px 28px;
-      background: linear-gradient(135deg, #555 0%, #333 100%);
-      color: #fff;
-      font-weight: 600;
-      font-size: 20px;
-      border: 1px solid #fff;
-      border-radius: 6px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-      letter-spacing: 0.5px;
-    "
-  >
-    👋 Welcome to my GitHub
-  </span>
-  <!---------------------------------------->
-  <!-- Banner GIF                         -->
-  <!---------------------------------------->
-  <img
-    src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif"
-    width="100%"
-    height="180"
-    style="
-      object-fit: cover;
-      object-position: center;
-      display: block;
-      margin-top: 12px;
-    "
-  />
-  <!---------------------------------------->
-  <!-- Links                              -->
-  <!---------------------------------------->
-  <div
-    style="
-      margin-top: 12px;
-      text-align: center;
-      width: 100%;
-      box-sizing: border-box;
-    "
-  >
-    <b>Projects</b><br />
-    <div
-      style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px"
-    >
-      <!---------------------------------------->
-      <!-- Badges                             -->
-      <!---------------------------------------->
-      <a href="https://github.com/zoyern/42_school_projects" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3"
-          alt="42 school projects commits"
-        />
-      </a>
-    </div>
-  </div>
-</div>
+<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-left:2px solid #ddd; border-right:2px solid #ddd; border-bottom:2px solid #ddd; border-radius:4px;">
+  <!-- Titre -->
+  <tr>
+    <td align="center" style="padding:10px; font-weight:bold;">
+      Alexis Mounib
+    </td>
+  </tr>
+  <!-- Icon au-dessus des boutons -->
+  <tr>
+    <td align="left" style="padding:10px;">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" width="60" height="60" style="display:block;" />
+    </td>
+  </tr>
+  <!-- Navbar boutons -->
+  <tr>
+    <td align="center" style="padding:10px; border-bottom:1px dashed #ddd;">
+      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+        <tr>
+          <!-- Bouton gauche -->
+          <td align="left" width="33%">
+            <span style="display:inline-block; width:60px; height:30px; line-height:30px; text-align:center; border-radius:4px; background:#444; color:#fff; font-weight:bold;">↩</span>
+          </td>
+          <!-- Bouton centre -->
+          <td align="center" width="34%">
+            <span style="display:inline-block; width:60px; height:30px; line-height:30px; text-align:center; border-radius:4px; background:#666; color:#fff; font-weight:bold;">⇄</span>
+          </td>
+          <!-- Bouton droite -->
+          <td align="right" width="33%">
+            <span style="display:inline-block; width:60px; height:30px; line-height:30px; text-align:center; border-radius:4px; background:#888; color:#fff; font-weight:bold;">⚙</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- Titre de page -->
+  <tr>
+    <td align="center" style="padding:12px; background: #555; color:#fff; font-weight:600; font-size:22px; border:1px solid #fff; border-radius:6px;">
+      👋 Welcome to my GitHub
+    </td>
+  </tr>
+  <!-- Banner GIF -->
+  <tr>
+    <td align="center" style="padding:12px;">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" style="display:block; max-height:180px; object-fit:cover; object-position:center;" />
+    </td>
+  </tr>
+  <!-- Projects -->
+  <tr>
+    <td align="center" style="padding:12px;">
+      <b>Projects</b><br><br>
+      <table cellpadding="4" cellspacing="6" style="border-collapse: collapse; margin:auto;">
+        <tr>
+          <td>
+            <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+              <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits" />
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/zoyern/cpp" target="_blank">
+              <img src="https://raw.githubusercontent.com/zoyern/badges/main/cpp_commits.svg?v=3" alt="C++ commits" />
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/zoyern/minishell" target="_blank">
+              <img src="https://raw.githubusercontent.com/zoyern/badges/main/minishell_commits.svg?v=3" alt="Minishell commits" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
