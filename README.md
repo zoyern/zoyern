@@ -2,58 +2,71 @@
 <p align="right"><b>Alexis Mounib</b></p>
 
 <!-- Table principale -->
-<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px;">
+<table align="center" border="1" cellpadding="5" cellspacing="0" width="100%" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px;">
 
-  <!-- Navbar avec icônes en haut à gauche -->
+  <!-- Navbar avec icônes et boutons -->
   <tr>
-    <td colspan="1" align="left" style="padding: 5px; width:100%;">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="40">&nbsp;&nbsp;<br>
-      <span
-        align="left"
-        style="
-          display: inline-block;
-          align: left;
-          padding: 4px 4px 4px 4px;
-          border-radius: 2px;
-          background: #444;
-          color: #fff;
-          width: 60px;
-          height: 30px;
-        "
-        >↩</span
-      >
-      <span
-        align="center"
-        style="
-          display: inline-block;
-          padding: 4px 8px;
-          border-radius: 2px;
-          background: #666;
-          color: #fff;
-          width: 60px;
-          height: 30px;
-        "
-        >⇄</span
-      >
-      <span
-        align="right"
-        style="
-          display: inline-block;
-          padding: 4px 8px;
-          border-radius: 2px;
-          background: #888;
-          color: #fff;
-          width: 60px;
-          height: 30px;
-        "
-        >⚙</span
-      >
+    <td colspan="1" style="padding: 5px;">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <!-- Icon tout en haut à gauche -->
+          <td align="left">
+            <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="40">
+          </td>
+
+          <!-- Bouton center -->
+          <td align="center">
+            <span style="
+              display: inline-block;
+              padding: 4px 8px;
+              border-radius: 2px;
+              background: #666;
+              color: #fff;
+              width: 60px;
+              height: 30px;
+              text-align: center;
+            ">⇄</span>
+          </td>
+
+          <!-- Bouton tout à droite -->
+          <td align="right">
+            <span style="
+              display: inline-block;
+              padding: 4px 8px;
+              border-radius: 2px;
+              background: #888;
+              color: #fff;
+              width: 60px;
+              height: 30px;
+              text-align: center;
+            ">⚙</span>
+          </td>
+        </tr>
+
+        <!-- Bouton left (si tu veux séparé du icon) -->
+        <tr>
+          <td align="left">
+            <span style="
+              display: inline-block;
+              padding: 4px 8px;
+              border-radius: 2px;
+              background: #444;
+              color: #fff;
+              width: 60px;
+              height: 30px;
+              text-align: center;
+            ">↩</span>
+          </td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
     </td>
   </tr>
 
   <!-- Séparateur full width -->
   <tr>
-    <td colspan="1">
+    <td>
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="100%" height="10">
     </td>
   </tr>
