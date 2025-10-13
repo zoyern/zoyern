@@ -88,6 +88,9 @@
                   <a href="https://github.com/zoyern/42_school_projects" target="_blank">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
+                  <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+        <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
+      </a>
     </td>
   </tr>
 
