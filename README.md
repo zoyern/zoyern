@@ -2,12 +2,12 @@
 <p align="right"><b>Alexis Mounib</b></p>
 
 <!-- Table principale -->
-<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px; width:1000px;">
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px;">
 
   <!-- Navbar avec icônes en haut à gauche -->
   <tr>
     <td colspan="1" align="left" style="padding: 5px; width:100%;">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;<br>
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="40">&nbsp;&nbsp;<br>
       <span
         align="left"
         style="
