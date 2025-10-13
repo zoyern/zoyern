@@ -1,13 +1,13 @@
 <table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-left:2px solid #ddd; border-right:2px solid #ddd; border-bottom:2px solid #ddd; border-radius:4px;">
   <!-- Titre -->
   <tr>
-    <td align="center" style="padding:10px; font-weight:bold;">
+    <td align="center" style="padding:10px; font-weight:bold; width="100%"">
       Alexis Mounib
     </td>
   </tr>
   <!-- Icon au-dessus des boutons -->
   <tr>
-    <td align="left" style="padding:10px;">
+    <td align="left" style="padding:10px; width="100%"">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" width="60" height="60" style="display:block;" />
     </td>
   </tr>
