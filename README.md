@@ -61,7 +61,7 @@
   <!-- Welcome message -->
   <tr>
     <td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px;">
-      <h1>👋 Welcome to my GitHub </h1>
+      <h3>👋 Welcome to my GitHub </h3>
     </td>
   </tr>
 
