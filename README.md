@@ -54,7 +54,7 @@
   <!-- Séparateur full width -->
   <tr>
     <td colspan="3">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="500px" height="10">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="100%" height="10">
     </td>
   </tr>
 
@@ -68,7 +68,7 @@
   <!-- Banner GIF -->
   <tr>
     <td colspan="3">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" height="100px">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" height="150px">
     </td>
   </tr>
 
