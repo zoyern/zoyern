@@ -1,117 +1,145 @@
-<!-- CADRE GLOBAL -->
-<table align="center" width="100%" border="1" cellspacing="0" cellpadding="10"><tr><td>
-
-  <!-- TITRE -->
-  <h1 align="center"><b><i>🚀 Projects</i></b></h1>
-  <p align="center"><i>A selection of my main works (42 + personal)</i></p>
-
-  <!-- NAVIGATION -->
-  <p align="center">
-    <a href="#">Libft</a> |
-    <a href="#">ft_printf</a> |
-    <a href="#">pipex</a> |
-    <a href="#">minishell</a> |
-    <a href="#">cpp</a> |
-    <a href="#">vulksdl</a>
-  </p>
-
-  <!-- ===== LIGNE 1 : 3 COLONNES ===== -->
-  <table width="100%" cellspacing="0" cellpadding="10">
-    <tr>
-      <!-- Colonne 1 -->
-      <td align="center" valign="top" width="33%">
-        <h3>📦 42 Projects</h3>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8"><line x1="0" y1="4" x2="1000" y2="4" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/></svg>
-        <p><i>All school projects from Libft to cub3d.</i></p>
-        <p align="center"><sub>🏫 42 · ✅ Norme · 🔁 Réutilisable</sub></p>
-        <p>
-          <a href="https://github.com/zoyern/42" title="Repo">
-            <img alt="Repo" src="https://img.shields.io/badge/Repo-open-blue">
-          </a>
-          <a href="#" title="Docs">
-            <img alt="Docs" src="https://img.shields.io/badge/Docs-read-brightgreen">
-          </a>
-        </p>
-        <p><a href="#">🔗 See more</a></p>
-      </td>
-      <!-- Colonne 2 -->
-      <td align="center" valign="top" width="33%">
-        <h3>🖥️ vulksdl</h3>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8"><line x1="0" y1="4" x2="1000" y2="4" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/></svg>
-        <p><i>Base to build Vulkan + SDL apps quickly.</i></p>
-        <p align="center"><sub>🧱 Template · 🖥️ Win/Linux · 🚀 Ready</sub></p>
-        <p>
-          <a href="https://github.com/zoyern/vulksdl" title="Repo">
-            <img alt="Repo" src="https://img.shields.io/badge/Repo-open-blue">
-          </a>
-          <a href="#" title="Demo">
-            <img alt="Demo" src="https://img.shields.io/badge/Demo-video-orange">
-          </a>
-        </p>
-        <p><a href="#">🔗 Repo</a></p>
-      </td>
-      <!-- Colonne 3 -->
-      <td align="center" valign="top" width="33%">
-        <h3>⚡ qsdl</h3>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8"><line x1="0" y1="4" x2="1000" y2="4" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/></svg>
-        <p><i>Quantum-inspired graphics: Mandelbrot + Qubits.</i></p>
-        <p align="center"><sub>🧪 qpp/Eigen · 🖼️ PNG export · 🔢 θ/φ</sub></p>
-        <p>
-          <a href="https://github.com/zoyern/qsdl" title="Repo">
-            <img alt="Repo" src="https://img.shields.io/badge/Repo-open-blue">
-          </a>
-          <a href="#" title="Docs">
-            <img alt="Docs" src="https://img.shields.io/badge/Docs-read-brightgreen">
-          </a>
-        </p>
-        <p><a href="#">🔗 Repo</a></p>
-      </td>
-    </tr>
-  </table>
-
-  <!-- SEPARATEUR SOUPLE -->
-  <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="85%" height="10" alt=""></p>
-
-  <!-- ===== LIGNE 2 : 3 COLONNES (exemples supplémentaires) ===== -->
-  <table width="100%" cellspacing="0" cellpadding="10">
-    <tr>
-      <td align="center" valign="top" width="33%">
-        <h3>🌊 soos</h3>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8"><line x1="0" y1="4" x2="1000" y2="4" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/></svg>
-        <p><i>Wave/FFT rendering ideas with SDL3/Vulkan.</i></p>
-        <p align="center"><sub>🌬️ Wind/Chains · 🎯 60 FPS · 🧩 Modular</sub></p>
-        <p>
-          <a href="https://github.com/zoyern/soos" title="Repo">
-            <img alt="Repo" src="https://img.shields.io/badge/Repo-open-blue">
-          </a>
-        </p>
-      </td>
-      <td align="center" valign="top" width="33%">
-        <h3>🧰 cpp kits</h3>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8"><line x1="0" y1="4" x2="1000" y2="4" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/></svg>
-        <p><i>C++98 templates, .tpp patterns, 42-friendly.</i></p>
-        <p align="center"><sub>📦 Span · 💱 BitcoinExchange · 🧩 .tpp</sub></p>
-        <p>
-          <a href="https://github.com/zoyern/cpp" title="Repo">
-            <img alt="Repo" src="https://img.shields.io/badge/Repo-open-blue">
-          </a>
-        </p>
-      </td>
-      <td align="center" valign="top" width="33%">
-        <h3>🔬 labs</h3>
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8"><line x1="0" y1="4" x2="1000" y2="4" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/></svg>
-        <p><i>Prototypes (filters, phase, interference maps).</i></p>
-        <p align="center"><sub>🧪 Experiments · 🖼️ Demos · 🧠 Notes</sub></p>
-        <p>
-          <a href="#" title="Repo">
-            <img alt="Repo" src="https://img.shields.io/badge/Repo-open-blue">
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <!-- TRAIT FINAL -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="8" viewBox="0 0 1000 8"><line x1="0" y1="4" x2="1000" y2="4" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/></svg>
-
-</td></tr></table>
+<div
+  style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    border-left: 2px solid #ddd;
+    border-right: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+    padding-top: 5px;
+  "
+>
+  <!---------------------------------------->
+  <!-- Titre                              -->
+  <!---------------------------------------->
+  <b>Alexis Mounib</b>
+  <!---------------------------------------->
+  <!-- Navbar                             -->
+  <!---------------------------------------->
+  <div
+    style="
+      text-align: center;
+      width: 100%;
+      border-bottom: 1px dashed #ddd;
+      border-radius: 2px;
+      box-sizing: border-box;
+      padding-bottom: 20px;
+    "
+  >
+    <img
+      src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif"
+      height="40"
+      align="left"
+    />
+    <div
+      style="
+        display: flex;
+        justify-content: space-between;
+        gap: 6px;
+        margin-top: 10px;
+        width: 100%;
+      "
+    >
+      <span
+        style="
+          display: inline-block;
+          padding: 4px 4px 4px 4px;
+          border-radius: 2px;
+          background: #444;
+          color: #fff;
+          width: 10%;
+          height: 10%;
+        "
+        >↩</span
+      >
+      <span
+        style="
+          display: inline-block;
+          padding: 4px 8px;
+          border-radius: 2px;
+          background: #666;
+          color: #fff;
+          width: 10%;
+          height: 10%;
+        "
+        >⇄</span
+      >
+      <span
+        style="
+          display: inline-block;
+          padding: 4px 8px;
+          border-radius: 2px;
+          background: #888;
+          color: #fff;
+          width: 10%;
+          height: 10%;
+        "
+        >⚙</span
+      >
+    </div>
+  </div>
+  <!---------------------------------------->
+  <!-- Titre de page                      -->
+  <!---------------------------------------->
+  <span
+    style="
+      display: inline-block;
+      margin: 18px 0 14px 0;
+      padding: 10px 28px;
+      background: linear-gradient(135deg, #555 0%, #333 100%);
+      color: #fff;
+      font-weight: 600;
+      font-size: 20px;
+      border: 1px solid #fff;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+      letter-spacing: 0.5px;
+    "
+  >
+    👋 Welcome to my GitHub
+  </span>
+  <!---------------------------------------->
+  <!-- Banner GIF                         -->
+  <!---------------------------------------->
+  <img
+    src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif"
+    width="100%"
+    height="180"
+    style="
+      object-fit: cover;
+      object-position: center;
+      display: block;
+      margin-top: 12px;
+    "
+  />
+  <!---------------------------------------->
+  <!-- Links                              -->
+  <!---------------------------------------->
+  <div
+    style="
+      margin-top: 12px;
+      text-align: center;
+      width: 100%;
+      box-sizing: border-box;
+    "
+  >
+    <b>Projects</b><br />
+    <div
+      style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px"
+    >
+      <!---------------------------------------->
+      <!-- Badges                             -->
+      <!---------------------------------------->
+      <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3"
+          alt="42 school projects commits"
+        />
+      </a>
+    </div>
+  </div>
+</div>
