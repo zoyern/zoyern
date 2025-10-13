@@ -6,9 +6,10 @@
 
   <!-- Navbar avec icônes en haut à gauche -->
   <tr>
-    <td colspan="1" align="left" style="padding: 5px;">
+    <td colspan="1" align="left" style="padding: 5px; width:100%;">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;<br>
       <span
+        align="left"
         style="
           display: inline-block;
           align: left;
@@ -22,8 +23,8 @@
         >↩</span
       >
       <span
+        align="center"
         style="
-          align: center;
           display: inline-block;
           padding: 4px 8px;
           border-radius: 2px;
@@ -35,8 +36,8 @@
         >⇄</span
       >
       <span
+        align="right"
         style="
-          align: right;
           display: inline-block;
           padding: 4px 8px;
           border-radius: 2px;
