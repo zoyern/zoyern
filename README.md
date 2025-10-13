@@ -1,8 +1,8 @@
 <!-- Prénom à droite hors de la table -->
 <p align="right"><b>Alexis Mounib</b></p>
 
-<!-- Table principale -->
-<table align="center" border="1" cellpadding="5" cellspacing="0" width="100%" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px;">
+<!-- Table principale pleine largeur possible -->
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px;">
 
   <!-- Icon en haut à gauche -->
   <tr>
@@ -11,9 +11,9 @@
     </td>
   </tr>
 
-  <!-- Ligne des 3 boutons -->
+  <!-- Ligne des 3 boutons, colonnes égales -->
   <tr>
-    <td align="left">
+    <td align="left" width="33%">
       <span style="
         display: inline-block;
         padding: 4px 8px;
@@ -25,7 +25,7 @@
         text-align: center;
       ">↩</span>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <span style="
         display: inline-block;
         padding: 4px 8px;
@@ -37,7 +37,7 @@
         text-align: center;
       ">⇄</span>
     </td>
-    <td align="right">
+    <td align="right" width="33%">
       <span style="
         display: inline-block;
         padding: 4px 8px;
