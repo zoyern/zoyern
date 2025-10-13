@@ -7,9 +7,9 @@
   <!-- Navbar avec icônes en haut à gauche -->
   <tr>
     <td colspan="1" align="left" style="padding: 5px;">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon1.gif" height="30">&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon2.gif" height="30">&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon3.gif" height="30">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">
     </td>
   </tr>
 
