@@ -61,21 +61,21 @@
   <!-- Welcome message -->
   <tr>
     <td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px;">
-      👋 Welcome to my GitHub
+      <h1>👋 Welcome to my GitHub </h1>
     </td>
   </tr>
 
   <!-- Banner GIF -->
   <tr>
     <td colspan="3">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" height="180">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" height="100px">
     </td>
   </tr>
 
   <!-- Projects -->
   <tr>
     <td colspan="3" align="center">
-      <b>Projects</b><br>
+      <b>Projects</b><br><br>
       <a href="https://github.com/zoyern/42_school_projects" target="_blank">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
