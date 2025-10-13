@@ -1,5 +1,5 @@
 
-<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px;">
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px; width:100%;">
   <!-- Header -->
   <tr>
     <td colspan="3" align="center"><b>Alexis Mounib</b></td>
@@ -14,13 +14,9 @@
             <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="40">
           </td>
           <td align="right">
-            <table border="0" cellpadding="4" cellspacing="2">
-              <tr>
                 <td bgcolor="#444" align="center">↩</td>
                 <td bgcolor="#666" align="center">⇄</td>
                 <td bgcolor="#888" align="center">⚙</td>
-              </tr>
-            </table>
           </td>
         </tr>
       </table>
