@@ -7,11 +7,43 @@
   <!-- Navbar avec icônes en haut à gauche -->
   <tr>
     <td colspan="1" align="left" style="padding: 5px;">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;
-      <br>
-        <td bgcolor="#444" align="center">↩</td>
-        <td bgcolor="#666" align="center">⇄</td>
-        <td bgcolor="#888" align="center">⚙</td>
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="30">&nbsp;&nbsp;<br>
+      <span
+        style="
+          display: inline-block;
+          padding: 4px 4px 4px 4px;
+          border-radius: 2px;
+          background: #444;
+          color: #fff;
+          width: 10%;
+          height: 10%;
+        "
+        >↩</span
+      >
+      <span
+        style="
+          display: inline-block;
+          padding: 4px 8px;
+          border-radius: 2px;
+          background: #666;
+          color: #fff;
+          width: 10%;
+          height: 10%;
+        "
+        >⇄</span
+      >
+      <span
+        style="
+          display: inline-block;
+          padding: 4px 8px;
+          border-radius: 2px;
+          background: #888;
+          color: #fff;
+          width: 10%;
+          height: 10%;
+        "
+        >⚙</span
+      >
     </td>
   </tr>
 
