@@ -7,7 +7,7 @@
   <!-- Icon en haut à gauche -->
   <tr>
     <td colspan="3" align="left" style="padding:5px;">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="40" width="100%">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="64">
     </td>
   </tr>
 
