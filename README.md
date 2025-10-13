@@ -1,9 +1,6 @@
-
+<b>Alexis Mounib</b>
 <table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px; width:100%;">
-  <!-- Header -->
-  <tr>
-    <td colspan="3" align="center"><b>Alexis Mounib</b></td>
-  </tr>
+
 
   <!-- Navbar -->
   <tr>
