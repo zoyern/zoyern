@@ -1,72 +1,60 @@
-<table align="center" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-left:2px solid #ddd; border-right:2px solid #ddd; border-bottom:2px solid #ddd; border-radius:4px;">
-  <!-- Titre -->
+
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px;">
+  <!-- Header -->
   <tr>
-    <td align="center" style="padding:10px; font-weight:bold; width="100%"">
-      Alexis Mounib
-    </td>
+    <td colspan="3" align="center"><b>Alexis Mounib</b></td>
   </tr>
-  <!-- Icon au-dessus des boutons -->
+
+  <!-- Navbar -->
   <tr>
-    <td align="left" style="padding:10px; width="100%"">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" width="60" height="60" style="display:block;" />
-    </td>
-  </tr>
-  <!-- Navbar boutons -->
-  <tr>
-    <td align="center" style="padding:10px; border-bottom:1px dashed #ddd;">
-      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <td colspan="3" align="center">
+      <table align="center" border="0" cellpadding="3" cellspacing="0">
         <tr>
-          <!-- Bouton gauche -->
-          <td align="left" width="33%">
-            <span style="display:inline-block; width:60px; height:30px; line-height:30px; text-align:center; border-radius:4px; background:#444; color:#fff; font-weight:bold;">↩</span>
+          <td align="left">
+            <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="40">
           </td>
-          <!-- Bouton centre -->
-          <td align="center" width="34%">
-            <span style="display:inline-block; width:60px; height:30px; line-height:30px; text-align:center; border-radius:4px; background:#666; color:#fff; font-weight:bold;">⇄</span>
-          </td>
-          <!-- Bouton droite -->
-          <td align="right" width="33%">
-            <span style="display:inline-block; width:60px; height:30px; line-height:30px; text-align:center; border-radius:4px; background:#888; color:#fff; font-weight:bold;">⚙</span>
+          <td align="right">
+            <table border="0" cellpadding="4" cellspacing="2">
+              <tr>
+                <td bgcolor="#444" align="center">↩</td>
+                <td bgcolor="#666" align="center">⇄</td>
+                <td bgcolor="#888" align="center">⚙</td>
+              </tr>
+            </table>
           </td>
         </tr>
       </table>
     </td>
   </tr>
-  <!-- Titre de page -->
+
+  <!-- Separator -->
   <tr>
-    <td align="center" style="padding:12px; background: #555; color:#fff; font-weight:600; font-size:22px; border:1px solid #fff; border-radius:6px;">
+    <td colspan="3">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="100%" height="10">
+    </td>
+  </tr>
+
+  <!-- Welcome message -->
+  <tr>
+    <td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px; border: 1px solid #fff;">
       👋 Welcome to my GitHub
     </td>
   </tr>
+
   <!-- Banner GIF -->
   <tr>
-    <td align="center" style="padding:12px;">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" style="display:block; max-height:180px; object-fit:cover; object-position:center;" />
+    <td colspan="3">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" height="180">
     </td>
   </tr>
+
   <!-- Projects -->
   <tr>
-    <td align="center" style="padding:12px;">
-      <b>Projects</b><br><br>
-      <table cellpadding="4" cellspacing="6" style="border-collapse: collapse; margin:auto;">
-        <tr>
-          <td>
-            <a href="https://github.com/zoyern/42_school_projects" target="_blank">
-              <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits" />
-            </a>
-          </td>
-          <td>
-            <a href="https://github.com/zoyern/cpp" target="_blank">
-              <img src="https://raw.githubusercontent.com/zoyern/badges/main/cpp_commits.svg?v=3" alt="C++ commits" />
-            </a>
-          </td>
-          <td>
-            <a href="https://github.com/zoyern/minishell" target="_blank">
-              <img src="https://raw.githubusercontent.com/zoyern/badges/main/minishell_commits.svg?v=3" alt="Minishell commits" />
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td colspan="3" align="center">
+      <b>Projects</b><br>
+      <a href="https://github.com/zoyern/42_school_projects" target="_blank">
+        <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
+      </a>
     </td>
   </tr>
 </table>
