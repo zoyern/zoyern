@@ -2,7 +2,7 @@
 <p align="right"><b>Alexis Mounib</b></p>
 
 <!-- Table principale -->
-<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px; width:500px;">
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ddd; border-radius: 4px; width:1000px;">
 
   <!-- Navbar avec icônes en haut à gauche -->
   <tr>
@@ -11,36 +11,39 @@
       <span
         style="
           display: inline-block;
+          align: left;
           padding: 4px 4px 4px 4px;
           border-radius: 2px;
           background: #444;
           color: #fff;
-          width: 10%;
-          height: 10%;
+          width: 60px;
+          height: 30px;
         "
         >↩</span
       >
       <span
         style="
+          align: center;
           display: inline-block;
           padding: 4px 8px;
           border-radius: 2px;
           background: #666;
           color: #fff;
-          width: 10%;
-          height: 10%;
+          width: 60px;
+          height: 30px;
         "
         >⇄</span
       >
       <span
         style="
+          align: right;
           display: inline-block;
           padding: 4px 8px;
           border-radius: 2px;
           background: #888;
           color: #fff;
-          width: 10%;
-          height: 10%;
+          width: 60px;
+          height: 30px;
         "
         >⚙</span
       >
