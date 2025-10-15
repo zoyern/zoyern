@@ -72,13 +72,13 @@
 <tr>
   <td align="center" colspan="3" width="100%">
   <a href="https://github.com/zoyern/42_school_projects">
-    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="commits" /></p>
+    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" /></p>
   </a>
   <a href="https://github.com/zoyern/42_school_projects">
-    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="commits" /></p>
+    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" /></p>
   </a>
    <a href="https://github.com/zoyern/42_school_projects">
-    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="commits" /></p>
+    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" /></p>
   </a>
   </td>
 </tr>
