@@ -65,7 +65,7 @@
 
 <!-- Projects -->
 <tr>
-    <td align="center">
+    <td align="center" colspan="3">
       <b>Projects</b>
     </td>
 </tr>
