@@ -70,7 +70,7 @@
     </td>
 </tr>
 <tr>
-      <td align="center" colspan="3" width="100%">
+    <td align="center" colspan="3" width="100%">
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
     </a>
@@ -109,6 +109,11 @@
     </a>
   </td>
 </tr>
+  <tr>
+    <td colspan="3">
+      <img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="100%" height="10">
+    </td>
+  </tr>
 
 
 </table>
