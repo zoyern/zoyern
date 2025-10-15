@@ -20,7 +20,8 @@
         width: 60px;
         height: 30px;
         text-align: center;
-      ">⮐</span>
+        color:gray;"
+      ">⮐</a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/zoyern?tab=repositories" style="
