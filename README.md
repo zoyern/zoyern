@@ -2,7 +2,7 @@
 <p align="right"><b>Alexis Mounib</b></p>
 
 <!-- Table principale pleine largeur possible -->
-<table align="center" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
+<table align="center" width="100%"">
 
   <!-- Icon en haut à gauche -->
   <tr>
