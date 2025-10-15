@@ -64,7 +64,7 @@
   </tr>
 
 <!-- Projects -->
-<tr>
+<tr width="100%">
   <td align="center" width="100%">
     <b>Projects</b><br><br>
     <a href="https://github.com/zoyern/42_school_projects">
