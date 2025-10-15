@@ -13,7 +13,7 @@
 
   <!-- Ligne des 3 boutons, colonnes égales -->
   <tr>
-    <td align="left" width="33%">
+    <td align="left">
       <span style="
         padding: 4px 8px;
         border-radius: 2px;
@@ -22,7 +22,7 @@
         text-align: center;
       ">↩</span>
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <span style="
         padding: 4px 8px;
         border-radius: 2px;
@@ -31,7 +31,7 @@
         text-align: center;
       ">⇄</span>
     </td>
-    <td align="right" width="33%">
+    <td align="right">
       <span style="
         padding: 4px 8px;
         border-radius: 2px;
