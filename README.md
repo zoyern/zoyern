@@ -39,7 +39,7 @@
         width: 60px;
         height: 30px;
         text-align: center;
-      ">⚙</a>
+      ">⚙ 🛠 🗜 ⌬ ⨂ ⬡</a>
     </td>
   </tr>
 
