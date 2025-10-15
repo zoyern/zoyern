@@ -68,9 +68,6 @@
   <b>Projects</b><br><br>
   <td align="center" colspan="3">
     <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
-    <a href="https://github.com/zoyern/42_school_projects">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
-    </a>
   </td>
 </tr>
 
