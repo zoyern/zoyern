@@ -13,7 +13,7 @@
 
   <!-- Ligne des 3 boutons, colonnes égales -->
   <tr>
-    <td align="left">
+    <td align="left" width="33%">
       <span style="
         padding: 4px 8px;
         border-radius: 2px;
@@ -22,7 +22,7 @@
         text-align: center;
       ">↩</span>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <span style="
         padding: 4px 8px;
         border-radius: 2px;
@@ -31,7 +31,7 @@
         text-align: center;
       ">⇄</span>
     </td>
-    <td align="right">
+    <td align="right" width="33%">
       <span style="
         padding: 4px 8px;
         border-radius: 2px;
@@ -65,7 +65,7 @@
 
 <!-- Projects -->
 <tr>
-  <td align="center">
+  <td align="center" width="100%">
     <b>Projects</b><br><br>
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
