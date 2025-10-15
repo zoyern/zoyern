@@ -14,13 +14,15 @@
   <!-- Ligne des 3 boutons, colonnes égales -->
   <tr>
     <td align="left" width="33%">
-      <a href="https://github.com/zoyern?tab=repositories" style="
+      <a href="https://github.com/zoyern?tab=repositories">
+      <span style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
-      ">⮐</a>
+      ">⮐</span>
+      </a>
     </td>
     <td align="center" width="33%">
       <span style="
