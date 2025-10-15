@@ -15,11 +15,8 @@
   <tr>
     <td align="left" width="33%">
       <span style="
-        display: inline-block;
         padding: 4px 8px;
         border-radius: 2px;
-        background: #444;
-        color: #fff;
         width: 60px;
         height: 30px;
         text-align: center;
@@ -27,11 +24,8 @@
     </td>
     <td align="center" width="33%">
       <span style="
-        display: inline-block;
         padding: 4px 8px;
         border-radius: 2px;
-        background: #666;
-        color: #fff;
         width: 60px;
         height: 30px;
         text-align: center;
@@ -39,11 +33,8 @@
     </td>
     <td align="right" width="33%">
       <span style="
-        display: inline-block;
         padding: 4px 8px;
         border-radius: 2px;
-        background: #888;
-        color: #fff;
         width: 60px;
         height: 30px;
         text-align: center;
@@ -61,7 +52,7 @@
   <!-- Welcome message -->
   <tr>
     <td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px;">
-      <h2>👋 Welcome to my GitHub </h2>
+      <h1>👋 Welcome to my GitHub </h1>
     </td>
   </tr>
 
@@ -74,20 +65,17 @@
 
 <!-- Projects -->
 <tr>
-  <td colspan="3" align="center">
+  <td align="center">
     <b>Projects</b><br><br>
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
     </a>
-    &nbsp;/&nbsp;
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
     </a>
-    &nbsp;/&nbsp;
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
     </a>
-    &nbsp;/&nbsp;
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
     </a>
