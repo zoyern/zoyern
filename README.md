@@ -69,7 +69,7 @@
       <b>Projects</b>
     </td>
 </tr>
-<div align="center">
+<tr align="center">
   <div>
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge">
@@ -95,7 +95,7 @@
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge">
     </a>
   </div>
-</div>
+</tr>
 
   <tr>
     <td colspan="3">
