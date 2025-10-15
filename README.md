@@ -71,11 +71,10 @@
 </tr>
 <tr>
   <td align="center" colspan="3" width="100%">
-  <span width="100%">
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge">
-    </a>
-  </span>
+      <span width="100%"></span>
+      </a>
   <span width="100%">
     <a href="https://github.com/zoyern/42_school_projects">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge">
