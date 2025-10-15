@@ -20,7 +20,7 @@
         width: 60px;
         height: 30px;
         text-align: center;
-      ">↩</span>
+      ">⮐</span>
     </td>
     <td align="center" width="33%">
       <span style="
