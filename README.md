@@ -69,51 +69,62 @@
       <b>Projects</b>
     </td>
 </tr>
-<tr>
-  <td align="center" colspan="3" width="100%">
-    <p align="center">
+<table align="center">
+  <tr>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-      &nbsp;/&nbsp;
+    </td>
+    <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
         <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="42 school projects commits">
       </a>
-    </p>
-  </td>
-</tr>
+    </td>
+  </tr>
+</table>
 
   <tr>
     <td colspan="3">
