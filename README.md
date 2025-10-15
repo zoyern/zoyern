@@ -43,7 +43,7 @@
 		<!-- Séparateur -->
 		<tr>
 			<td colspan="3">
-				<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" height="10">
+				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/sep.gif" width="100%" height="15">
 			</td>
 		</tr>
 		<!--------------------------->
@@ -101,7 +101,7 @@
 		<!-- Séparateur -->
 		<tr>
 			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/sep.gif" width="100%" height="10">
+				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/sep.gif" width="100%" height="15">
 			</td>
 		</tr>
 </table>
