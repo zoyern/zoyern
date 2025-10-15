@@ -69,7 +69,6 @@
       <b>Projects</b>
     </td>
 </tr>
-<table align="center">
   <tr>
     <td align="center" style="padding:4px;">
       <a href="https://github.com/zoyern/42_school_projects">
@@ -124,7 +123,6 @@
       </a>
     </td>
   </tr>
-</table>
 
   <tr>
     <td colspan="3">
