@@ -14,33 +14,31 @@
   <!-- Ligne des 3 boutons, colonnes égales -->
   <tr>
     <td align="left" width="33%">
-      <a href="https://github.com/zoyern?tab=repositories">
-      <span style="
+      <a href="https://github.com/zoyern/zoyern/tree/main" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
       ">⮐</span>
-      </a>
     </td>
     <td align="center" width="33%">
-      <span style="
+      <a href="https://github.com/zoyern?tab=repositories" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
-      ">⇄</span>
+      ">⇄</a>
     </td>
     <td align="right" width="33%">
-      <span style="
+      <a href="https://github.com/zoyern" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
-      ">⚙</span>
+      ">⚙</a>
     </td>
   </tr>
 
