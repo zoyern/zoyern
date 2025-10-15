@@ -75,7 +75,10 @@
     <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="commits" /></p>
   </a>
   <a href="https://github.com/zoyern/42_school_projects">
-    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_issues.svg?v=3" alt="commits" /></p>
+    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="commits" /></p>
+  </a>
+   <a href="https://github.com/zoyern/42_school_projects">
+    <p><img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="commits" /></p>
   </a>
   </td>
 </tr>
