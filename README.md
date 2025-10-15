@@ -6,7 +6,7 @@
 
   <!-- Icon en haut à gauche -->
   <tr>
-    <td colspan="3" align="left" style="padding:5px;">
+    <td align="left" style="padding:5px;">
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/icon.gif" height="64">
     </td>
   </tr>
@@ -44,21 +44,21 @@
 
   <!-- Séparateur full width -->
   <tr>
-    <td colspan="3">
+    <td>
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/sep.gif" width="100%" height="10">
     </td>
   </tr>
 
   <!-- Welcome message -->
   <tr>
-    <td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px;">
-      <h1>👋 Welcome to my GitHub </h1>
+    <td align="center" padding: 10px;">
+      <h1><b>👋 Welcome to my GitHub </b></h1>
     </td>
   </tr>
 
   <!-- Banner GIF -->
   <tr>
-    <td colspan="3">
+    <td>
       <img src="https://raw.githubusercontent.com/zoyern/badges/main/banner.gif" width="100%" height="150px">
     </td>
   </tr>
