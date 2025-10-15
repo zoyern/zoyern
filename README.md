@@ -71,15 +71,7 @@
 </tr>
 <tr>
   <td align="center" colspan="3" width="100%">
-    <a href="https://github.com/zoyern/42_school_projects">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="commits" style="vertical-align:middle; margin:4px;">
-    </a>
-    <a href="https://github.com/zoyern/42_school_projects">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_issues.svg?v=3" alt="issues" style="vertical-align:middle; margin:4px;">
-    </a>
-    <a href="https://github.com/zoyern/42_school_projects">
-      <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_license.svg?v=3" alt="license" style="vertical-align:middle; margin:4px;">
-    </a>
+<a href="https://github.com/zoyern/42_school_projects" style="display:inline-block;margin:4px;text-decoration:none;"> <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge"> </a> <a href="https://github.com/zoyern/42_school_projects" style="display:inline-block;margin:4px;text-decoration:none;"> <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge"> </a> <a href="https://github.com/zoyern/42_school_projects" style="display:inline-block;margin:4px;text-decoration:none;"> <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge"> </a> <a href="https://github.com/zoyern/42_school_projects" style="display:inline-block;margin:4px;text-decoration:none;"> <img src="https://raw.githubusercontent.com/zoyern/badges/main/42_school_projects_commits.svg?v=3" alt="badge"> </a>
   </td>
 </tr>
 
