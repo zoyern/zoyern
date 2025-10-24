@@ -25,6 +25,7 @@
 	<!--------------------------->
 	<!-- Navbar                -->
 	<!--------------------------->
+	<h2>
 	<tr>
 		<td align="left" width="33%">
 			<a href="https://github.com/zoyern/zoyern#projects" style="
@@ -35,7 +36,6 @@
         text-align: center;
         color:gray;" ">⤶</a>
     </td>
-	<h2>
     <td align="center" width="33%">
 					<a href="https://github.com/zoyern?tab=repositories" style="
         padding: 4px 8px;
@@ -45,7 +45,6 @@
         text-align: center;
       ">⇄</a>
 			</td>
-				</h2>
 			<td align="right" width="33%">
 				<a href="https://github.com/zoyern" style="
         padding: 4px 8px;
@@ -56,6 +55,7 @@
       ">⌬</a>
 			</td>
 		</tr>
+	</h2>
 		<!--------------------------->
 		<!-- Banner                -->
 		<!--------------------------->
