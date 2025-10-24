@@ -27,13 +27,7 @@
 	<!--------------------------->
 	<tr>
 		<td align="left" width="33%">
-			<a href="https://github.com/zoyern/zoyern#projects" style="
-        padding: 4px 8px;
-        border-radius: 2px;
-        width: 60px;
-        height: 30px;
-        text-align: center;
-        color:gray;" "><h4>⤶</h4></a>
+			<a href="https://github.com/zoyern/zoyern#projects"><h3>⤶</h3></a>
     </td>
     <td align="center" width="33%">
 					<a href="https://github.com/zoyern?tab=repositories" style="
@@ -51,7 +45,7 @@
         width: 60px;
         height: 30px;
         text-align: center;
-      "><h4>⌬</h4></a>
+      "><h3>⌬</h3></a>
 			</td>
 		</tr>
 		<!--------------------------->
