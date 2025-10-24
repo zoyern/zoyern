@@ -27,7 +27,7 @@
 	<!--------------------------->
 	<tr>
 		<td align="left" width="33%">
-			<h6>
+			<p>
 			<a href="https://github.com/zoyern/zoyern#projects" style="
         padding: 4px 8px;
         border-radius: 2px;
@@ -35,17 +35,17 @@
         height: 30px;
         text-align: center;
         color:gray;" ">⤶</a>
-			</h6>
+			<p>
     </td>
     <td align="center" width="33%">
-		<h6>
+		<h8>
 					<a href="https://github.com/zoyern?tab=repositories" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
-      "><⇄</a></h6>
+      "><⇄</a></h8>
 			</td>
 			<td align="right" width="33%">
 				<a href="https://github.com/zoyern" style="
