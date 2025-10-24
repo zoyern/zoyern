@@ -30,7 +30,7 @@
 			<a href="https://github.com/zoyern/zoyern#projects"><h3>⤶</h3></a>
     </td>
     <td align="center" width="33%">
-					<a href="https://github.com/zoyern?tab=repositories" style="
+					<a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
@@ -123,7 +123,7 @@
 		<!-------------------------------->
 		<tr>
 			<td align="center" colspan="3" width="100%">
-				<span>~</span><a href="https://github.com/zoyern/zoyern#projects"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn Badge" height="20"></a><span>~</span>
+				<span>~</span><a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn Badge" height="20"></a><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
