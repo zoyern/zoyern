@@ -27,25 +27,18 @@
 	<!--------------------------->
 	<tr>
 		<td align="left" width="33%">
-			<a href="https://github.com/zoyern/zoyern#projects"><h3>⤶</h3></a>
+			<a href="https://github.com/zoyern">
+			<h3>⤶</h3></a>
     </td>
     <td align="center" width="33%">
-					<a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1" style="
-        padding: 4px 8px;
-        border-radius: 2px;
-        width: 60px;
-        height: 30px;
-        text-align: center;
-      "><h4>⇄</h4></a>
+		<h3>
+			<a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1">⇄</a>
+		</h3>
 	</td>
 		<td align="right" width="33%">
-				<a href="https://github.com/zoyern" style="
-        padding: 4px 8px;
-        border-radius: 2px;
-        width: 60px;
-        height: 30px;
-        text-align: center;
-      "><h3>⌬</h3></a>
+			<h3>
+				<a href="https://github.com/zoyern">⌬</a>
+			</h3>
 			</td>
 		</tr>
 		<!--------------------------->
