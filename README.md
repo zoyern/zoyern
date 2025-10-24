@@ -26,7 +26,7 @@
 	<!-- Navbar                -->
 	<!--------------------------->
 	<tr>
-		<h1>-</h1>
+	<td><h1></h1></td>
 		<td align="left" width="33%">
 			<a href="https://github.com/zoyern/zoyern#projects" style="
         padding: 4px 8px;
