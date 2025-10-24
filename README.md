@@ -33,7 +33,7 @@
         width: 60px;
         height: 30px;
         text-align: center;
-        color:gray;" "><h3>⤶</h3></a>
+        color:gray;" "><h5>⤶</h5></a>
     </td>
     <td align="center" width="33%">
 					<a href="https://github.com/zoyern?tab=repositories" style="
