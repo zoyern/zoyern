@@ -26,7 +26,6 @@
 	<!-- Navbar                -->
 	<!--------------------------->
 	<tr>
-	<td><h1></h1></td>
 		<td align="left" width="33%">
 			<a href="https://github.com/zoyern/zoyern#projects" style="
         padding: 4px 8px;
@@ -60,8 +59,10 @@
 		<!--------------------------->
 		<tr>
 			<td colspan="3">
+				<h1>
 				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
+				</h1>
+				</td>
 		</tr>
 			<tr>
 			<td colspan="3">
