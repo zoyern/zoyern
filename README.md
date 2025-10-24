@@ -35,7 +35,7 @@
         height: 30px;
         text-align: center;
         color:gray;" ">⤶</a>
-			</h4>h4>
+			</h4>
     </td>
     <td align="center" width="33%">
 					<a href="https://github.com/zoyern?tab=repositories" style="
