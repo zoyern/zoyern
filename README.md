@@ -19,13 +19,14 @@
 	<!--------------------------->
 	<tr>
 		<td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px;">
-			<h1>📃Welcome to my GitHub have a good time !🌿</h1>
+			<h2>📃Welcome to my GitHub have a good time !🌿</h2>
 		</td>
 	</tr>
 	<!--------------------------->
 	<!-- Navbar                -->
 	<!--------------------------->
-	<tr id="navbar">
+	<tr>
+		<h1>-</h1>
 		<td align="left" width="33%">
 			<a href="https://github.com/zoyern/zoyern#projects" style="
         padding: 4px 8px;
