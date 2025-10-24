@@ -1,4 +1,4 @@
-<p align="right"><b>Alexis Mounib</b></p>
+📂 <img src="https://img.shields.io/github/repos-count/Alexis42?style=flat-square&color=grey" /><p align="right"><b>Alexis Mounib</b></p>
 <table align="center" width="100%"">
 	<!--------------------------->
 	<!-- Icon                  -->
