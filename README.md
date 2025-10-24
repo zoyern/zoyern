@@ -27,76 +27,44 @@
 	<!--------------------------->
 	<tr>
 		<td align="left" width="33%">
-			<a href="https://github.com/zoyern">
-			<h3>⤶</h3></a>
-    </td>
-    <td align="center" width="33%">
-		<h3>
-			<a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1">⇄</a>
-		</h3>
-	</td>
+			<h3>
+				<a href="https://github.com/zoyern">
+					⤶
+				</a>
+			</h3>
+    	</td>
+    	<td align="center" width="33%">
+			<h3>
+				<a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1">
+					⇄
+				</a>
+			</h3>
+		</td>
 		<td align="right" width="33%">
 			<h3>
-				<a href="https://github.com/zoyern">⌬</a>
+				<a href="https://github.com/zoyern">
+					⌬
+				</a>
 			</h3>
 			</td>
-		</tr>
-		<!--------------------------->
-		<!-- Banner                -->
-		<!--------------------------->
-		<tr>
-			<td colspan="3">
-				<img id="nav" src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-				</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-			<tr>
-			<td colspan="3">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
-			</td>
-		</tr>
-		<!--------------------------->
-		<!-- Projets               -->
-		<!--------------------------->
-		<tr>
-			<td align="center" colspan="3" width="100%">
-				<b>Projects</b>
-			</td>
-		</tr>
+	</tr>
+	<!--------------------------->
+	<!-- Banner                -->
+	<!--------------------------->
+	<tr>
+		<td colspan="3">
+			<img id="nav" src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
+		</td>
+	</tr>
+	</tr>
+	<!--------------------------->
+	<!-- Projets               -->
+	<!--------------------------->
+	<tr>
+		<td align="center" colspan="3" width="100%">
+			<b>Projects</b>
+		</td>
+	</tr>
 		<tr>
 			<td align="center" colspan="3" width="100%">
 				<a href="https://github.com/zoyern/42_school">
