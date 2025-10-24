@@ -59,8 +59,8 @@
 		<!--------------------------->
 		<tr>
 			<td colspan="3">
-				<h1 id="nav">
-				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
+				<h1>
+				<img id="nav" src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
 				</h1>
 				</td>
 		</tr>
