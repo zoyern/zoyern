@@ -35,7 +35,7 @@
     	</td>
     	<td align="center" width="33%">
 			<h3>
-				<a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1">
+				<a href="https://github.com/zoyern/zoyern/#-1">
 					⇄
 				</a>
 			</h3>
