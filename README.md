@@ -19,7 +19,7 @@
 	<!--------------------------->
 	<tr>
 		<td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px;">
-			<h2>📃Welcome to my GitHub have a good time !🌿</h2>
+			<h3>📃Welcome to my GitHub have a good time !🌿</h3>
 		</td>
 	</tr>
 	<!--------------------------->
@@ -59,7 +59,7 @@
 		<!--------------------------->
 		<tr>
 			<td colspan="3">
-				<h1>
+				<h1 id="nav">
 				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/banner.gif" width="100%" height="150px">
 				</h1>
 				</td>
