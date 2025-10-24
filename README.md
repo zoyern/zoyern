@@ -86,6 +86,7 @@
 		</tr>
 <tr>
   <td align="center" colspan="3" width="100%">
+	<span>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------~</span></br>
 	<span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span>
 	<span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span>
 	<span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span><span>~</span>
