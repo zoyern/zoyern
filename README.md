@@ -25,9 +25,9 @@
 	<!--------------------------->
 	<!-- Navbar                -->
 	<!--------------------------->
-	<tr>
+	<tr id="navbar">
 		<td align="left" width="33%">
-			<a href="https://github.com/zoyern/zoyern/tree/main" style="
+			<a href="https://github.com/zoyern/zoyern#projects" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
