@@ -84,8 +84,12 @@
 				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/sep.gif" width="100%" height="10px">
 			</td>
 		</tr>
+		<!-------------------------------->
+		<!-- Autowidth size ty github ! -->
+		<!-------------------------------->
 		<tr>
 			<td align="center" colspan="3" width="100%">
+				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
