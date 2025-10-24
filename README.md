@@ -27,15 +27,13 @@
 	<!--------------------------->
 	<tr>
 		<td align="left" width="33%">
-			<h3>
 			<a href="https://github.com/zoyern/zoyern#projects" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
-        color:gray;" ">⤶</a>
-			<h3>
+        color:gray;" "><h3>⤶</h3></a>
     </td>
     <td align="center" width="33%">
 		<h3>
@@ -56,7 +54,7 @@
         height: 30px;
         text-align: center;
       ">⌬</a>
-				<h3>
+			</h3>
 			</td>
 		</tr>
 		<!--------------------------->
