@@ -84,9 +84,12 @@
 				<img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/sep.gif" width="100%" height="10px">
 			</td>
 		</tr>
-<tr>
-  <td align="center" colspan="3" width="100%">
-    <br>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
-  </td>
-</tr>
+<table align="center" width="100%" style="width:100%; max-width:100%;">
+  ...
+  <tr>
+    <td colspan="3" style="padding:0;">
+      <img src="https://raw.githubusercontent.com/zoyern/zoyern/main/assets/images/sep.gif" style="width:100%; display:block;">
+    </td>
+  </tr>
+</table>
 </table>
