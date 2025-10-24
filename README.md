@@ -35,8 +35,8 @@
         text-align: center;
         color:gray;" ">⤶</a>
     </td>
+	<h2>
     <td align="center" width="33%">
-		<h2>
 					<a href="https://github.com/zoyern?tab=repositories" style="
         padding: 4px 8px;
         border-radius: 2px;
@@ -44,8 +44,8 @@
         height: 30px;
         text-align: center;
       ">⇄</a>
-		</h2>
 			</td>
+				</h2>
 			<td align="right" width="33%">
 				<a href="https://github.com/zoyern" style="
         padding: 4px 8px;
