@@ -1,4 +1,4 @@
-<p>Alexis Mounib <span style="display:inline-block; width:10px; height:10px; background-color:grey; border-radius:2px; margin-left:5px;"></span> 42</p><b>Alexis Mounib</b></p>
+<b>Alexis Mounib</b></p>
 <table align="center" width="100%"">
 	<!--------------------------->
 	<!-- Icon                  -->
