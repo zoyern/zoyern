@@ -19,7 +19,7 @@
 	<!--------------------------->
 	<tr>
 		<td colspan="3" align="center" bgcolor="#333" style="color: #fff; font-weight: bold; padding: 10px;">
-			<h2>📃 - Welcome to my GitHub have a good time ! - 🌿</h1>
+			<h2>📃Welcome to my GitHub have a good time !🌿</h1>
 		</td>
 	</tr>
 	<!--------------------------->
