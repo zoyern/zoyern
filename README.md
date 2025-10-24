@@ -36,25 +36,22 @@
         color:gray;" "><h3>⤶</h3></a>
     </td>
     <td align="center" width="33%">
-		<h3>
 					<a href="https://github.com/zoyern?tab=repositories" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
-      ">⇄</a></h3>
+      "><h3>⇄</h3></a>
 	</td>
 		<td align="right" width="33%">
-			<h3>
 				<a href="https://github.com/zoyern" style="
         padding: 4px 8px;
         border-radius: 2px;
         width: 60px;
         height: 30px;
         text-align: center;
-      ">⌬</a>
-			</h3>
+      "><h3>⌬</h3></a>
 			</td>
 		</tr>
 		<!--------------------------->
