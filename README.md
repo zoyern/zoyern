@@ -51,7 +51,7 @@
         width: 60px;
         height: 30px;
         text-align: center;
-      "><h3>⌬</h5></a>
+      "><h4>⌬</h4></a>
 			</td>
 		</tr>
 		<!--------------------------->
