@@ -45,7 +45,7 @@
         width: 60px;
         height: 30px;
         text-align: center;
-      "><⇄</a></h8>
+      ">⇄</a></h8>
 			</td>
 			<td align="right" width="33%">
 				<a href="https://github.com/zoyern" style="
