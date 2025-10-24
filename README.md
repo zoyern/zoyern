@@ -42,7 +42,7 @@
 		</td>
 		<td align="right" width="33%">
 			<h3>
-				<a href="https://github.com/zoyern">
+				<a href="https://github.com/zoyern/nexus#-1">
 					⌬
 				</a>
 			</h3>
