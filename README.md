@@ -84,7 +84,7 @@
 		<!-------------------------------->
 		<tr>
 			<td align="center" colspan="3" width="100%">
-				<span>~</span><a href="https://github.com/zoyern/zoyern/blob/main/README.md#-1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn Badge" height="20"></a><span>~</span>
+				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
 				<span>~</span><span>~</span><span>~</span>
