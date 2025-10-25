@@ -32,6 +32,6 @@
 
   <!-- Texte droite avec flèche unique collée -->
   <text x="124" y="19" font-family="Montserrat,system-ui,sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#fff" text-transform="uppercase" filter="url(#textShadow)">
-    30<tspan dx="2" fill="#4caf50" font-weight="600">⇵</tspan>
+    31<tspan dx="2" fill="#4caf50" font-weight="600">⇵</tspan>
   </text>
 </svg>
