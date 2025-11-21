@@ -28,7 +28,7 @@
 	<tr>
 		<td align="left" width="33%">
 			<h3>
-				<a href="https://github.com/zoyern">
+				<a href="https://github.com/zoyern?tab=repositories">
 					⤶
 				</a>
 			</h3>
