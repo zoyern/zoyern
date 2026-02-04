@@ -1,4 +1,4 @@
-<p align="left"><b>Alexis Mounib</b></p>
+<p align="right"><b>Alexis Mounib</b></p>
 <table align="center" width="100%"">
 	<!--------------------------->
 	<!-- Icon                  -->
